@@ -1,6 +1,6 @@
 ### Hi, I'm Tuğba 👋
 
-I work where AI meets public services and social policy.
+I work where data, AI and social policy meet.
 
 With 10+ years in social research, family services and data-driven policy, I build AI systems that hold up in regulated, high-stakes settings. That means turning how professionals actually work into clear criteria, keeping every output tied to evidence, and measuring when the system gets it wrong.
 
@@ -17,14 +17,18 @@ Social protection and care services · family and child policy · youth employme
 
 **Selected work**
 
-📋 [**CaseNote AI**](https://github.com/tugbasahingunes/casenote-ai): a worked example of this approach. AI support for social care home-visit notes, with expert-defined criteria, evidence quotes for every flag, coverage-gap reporting and an evaluation that separates *missed signals* from *harmful over-flagging*. The method is built to transfer: criteria live in a separate file, so the same pipeline can serve another country, service or client group.
+📊 [**Data & AI for social policy: Europe**](https://github.com/tugbasahingunes/neet-europe-analysis): short, reproducible analyses with open international data (Eurostat, European Social Survey, ILO). Who is NEET and why, how motherhood shapes young women's paths, and who works in the jobs most exposed to generative AI. Weighted logistic regression, bootstrap intervals, full methodology notes for every analysis.
 
-*More projects in progress.*
+🛡️ [**When a child tells a chatbot**](https://github.com/tugbasahingunes/vulnerable-user-ai-test): a safety evaluation for vulnerable young users. 547 tests in English and Turkish built on the UN Convention on the Rights of the Child, scoring what a good answer must *contain* when a child discloses a risk, and penalising over-reaction to ordinary teenage messages. Showcase repository; full set available on request.
+
+📋 [**CaseNote AI**](https://github.com/tugbasahingunes/casenote-ai): AI support for social care home-visit notes, with expert-defined criteria, evidence quotes for every flag, coverage-gap reporting and an evaluation that separates *missed signals* from *harmful over-flagging*. Criteria live in a separate file, so the same pipeline can serve another country, service or client group.
 
 **Toolkit**
 
-Python · LLM APIs · prompt and evaluation design · SPSS · Excel · research methods
+Python (pandas, statsmodels, matplotlib) · regression and survey-weighted analysis · LLM APIs · prompt and evaluation design · SPSS · Excel · research methods
 
 **Languages:** Turkish (native) · English (C1) · French (B1)
+
+**Open to** remote research, data analysis and AI evaluation projects.
 
 [LinkedIn](https://www.linkedin.com/in/tu%C4%9Fba-g-648925260)
