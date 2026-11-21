@@ -17,7 +17,7 @@ Social protection and care services · family and child policy · youth employme
 
 **Selected work**
 
-📊 [**Data & AI for social policy: Europe**](https://github.com/tugbasahingunes/neet-europe-analysis): short, reproducible analyses with open international data (Eurostat, European Social Survey, ILO). Who is NEET and why, how motherhood shapes young women's paths, and who works in the jobs most exposed to generative AI. Weighted logistic regression, bootstrap intervals, full methodology notes for every analysis.
+📊 [**Social Policy Data Lab**](https://github.com/tugbasahingunes/social-policy-data-lab): 11 reproducible analyses with open international data (Eurostat, European Social Survey, ILO). Youth NEET and its gender gap, who works in the jobs most exposed to generative AI, why Finnish adults are among Europe's most active AI users, what makes Europeans happy, and a fairness audit of a machine-learning early-warning model. Methods include weighted logistic and multilevel regression, Oaxaca–Blinder decomposition, dominance analysis, multiple imputation, gradient boosting with SHAP, and bootstrap inference, each with a methodology note.
 
 🛡️ [**When a child tells a chatbot**](https://github.com/tugbasahingunes/vulnerable-user-ai-test): a safety evaluation for vulnerable young users. 547 tests in English and Turkish built on the UN Convention on the Rights of the Child, scoring what a good answer must *contain* when a child discloses a risk, and penalising over-reaction to ordinary teenage messages. Showcase repository; full set available on request.
 
@@ -25,7 +25,7 @@ Social protection and care services · family and child policy · youth employme
 
 **Toolkit**
 
-Python (pandas, statsmodels, matplotlib) · regression and survey-weighted analysis · LLM APIs · prompt and evaluation design · SPSS · Excel · research methods
+Python (pandas, statsmodels, scikit-learn, LightGBM, SHAP) · survey-weighted, multilevel and decomposition methods · machine learning and fairness auditing · LLM APIs · prompt and evaluation design · SPSS · Excel · research methods
 
 **Languages:** Turkish (native) · English (C1) · French (B1)
 
