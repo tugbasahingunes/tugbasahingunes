@@ -23,6 +23,8 @@ Social protection and care services · family and child policy · youth employme
 
 📋 [**CaseNote AI**](https://github.com/tugbasahingunes/casenote-ai): AI support for social care home-visit notes, with expert-defined criteria, evidence quotes for every flag, coverage-gap reporting and an evaluation that separates *missed signals* from *harmful over-flagging*. Criteria live in a separate file, so the same pipeline can serve another country, service or client group.
 
+💼 [**Freelance Portfolio**](freelance-portfolio): 15 sample projects, one per service: data cleaning, Excel dashboards, survey statistics, visualization, scraping, automation, mobile app, graphic design, landing page, TR⇄EN translation, chatbot prompts & evaluation, research writing, machine learning, SQL and Google Sheets automation.
+
 **Toolkit**
 
 Python (pandas, statsmodels, scikit-learn, LightGBM, SHAP) · survey-weighted, multilevel and decomposition methods · causal inference (synthetic control, SDID) · forecasting · machine learning and fairness auditing · LLM APIs · prompt and evaluation design · SPSS · Excel · research methods

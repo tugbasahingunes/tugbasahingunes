@@ -1,0 +1,11 @@
+import assert from "node:assert";
+import { addTx, summary } from "./logic.js";
+let l = [];
+l = addTx(l, { amount: "1500", category: "Diğer", type: "gelir", date: "2026-11-01" });
+l = addTx(l, { amount: "250,5", category: "Market", date: "2026-11-02" });
+l = addTx(l, { amount: 100, category: "Ulaşım", date: "2026-11-03" });
+l = addTx(l, { amount: 999, category: "Market", date: "2026-10-30" });
+const s = summary(l, "2026-11");
+assert.equal(s.gelir, 1500); assert.equal(s.gider, 350.5); assert.equal(s.bakiye, 1149.5); assert.equal(s.byCat.Market, 250.5);
+assert.throws(() => addTx(l, { amount: "abc", category: "Market" }));
+console.log("all tests passed");

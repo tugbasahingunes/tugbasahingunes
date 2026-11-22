@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" width="270" height="480">
+  <rect width="1080" height="1920" fill="#2F6B4F"/>
+  <text x="540" y="420" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="56" letter-spacing="8" fill="#F4C95D">YENİ ÜRÜN</text>
+  <circle cx="540" cy="900" r="300" fill="#F4C95D"/>
+  <path d="M540 700 C 680 800, 680 1000, 540 1100 C 400 1000, 400 800, 540 700 Z" fill="#2F6B4F"/>
+  <text x="540" y="1420" text-anchor="middle" font-family="Georgia, serif" font-size="110" font-weight="700" fill="#FFF8F0">Lavanta Balmı</text>
+  <text x="540" y="1530" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="48" fill="#FFF8F0">%100 doğal · el yapımı</text>
+  <text x="540" y="1780" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#F4C95D">Yukarı kaydır ↑</text>
+</svg>

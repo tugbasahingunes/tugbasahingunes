@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="540" height="540">
+  <rect width="1080" height="1080" fill="#FFF8F0"/>
+  <circle cx="880" cy="200" r="260" fill="#F4C95D" opacity=".55"/>
+  <circle cx="160" cy="950" r="220" fill="#2F6B4F" opacity=".15"/>
+  <text x="90" y="300" font-family="Georgia, serif" font-size="96" font-weight="700" fill="#2F6B4F">Kış Bakım</text>
+  <text x="90" y="410" font-family="Georgia, serif" font-size="96" font-weight="700" fill="#2F6B4F">Seti</text>
+  <text x="90" y="500" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#1E1E1E">Zeytinyağlı sabun · Lavanta balmı · Dudak kremi</text>
+  <rect x="90" y="600" width="420" height="120" rx="60" fill="#B5543C"/>
+  <text x="300" y="680" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#fff">%20 İNDİRİM</text>
+  <text x="90" y="980" font-family="Helvetica, Arial, sans-serif" font-size="34" letter-spacing="3" fill="#2F6B4F">@yaprakdogal</text>
+</svg>

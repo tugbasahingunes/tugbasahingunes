@@ -1,0 +1,12 @@
+AUC: {'Logistic': 0.792828685258964, 'GradBoost': 0.7912728259192867}
+Best: Logistic
+Top-200 risk list catches churners at 2.3x the base rate (25.1%).
+
+              precision    recall  f1-score   support
+
+           0       0.79      0.94      0.86       749
+           1       0.61      0.27      0.38       251
+
+    accuracy                           0.77      1000
+   macro avg       0.70      0.61      0.62      1000
+weighted avg       0.75      0.77      0.74      1000

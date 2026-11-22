@@ -1,0 +1,10 @@
+pandas
+numpy
+openpyxl
+scipy
+statsmodels
+matplotlib
+scikit-learn
+beautifulsoup4
+reportlab
+tabulate

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 160" width="600" height="160" font-family="Helvetica, Arial, sans-serif" font-size="13">
+  <rect width="600" height="160" fill="#fff"/>
+  <g><rect x="20" y="20" width="100" height="90" rx="10" fill="#2F6B4F"/><text x="20" y="130">Orman #2F6B4F</text></g>
+  <g><rect x="135" y="20" width="100" height="90" rx="10" fill="#F4C95D"/><text x="135" y="130">Bal #F4C95D</text></g>
+  <g><rect x="250" y="20" width="100" height="90" rx="10" fill="#B5543C"/><text x="250" y="130">Kil #B5543C</text></g>
+  <g><rect x="365" y="20" width="100" height="90" rx="10" fill="#FFF8F0" stroke="#ddd"/><text x="365" y="130">Krem #FFF8F0</text></g>
+  <g><rect x="480" y="20" width="100" height="90" rx="10" fill="#1E1E1E"/><text x="480" y="130">Metin #1E1E1E</text></g>
+</svg>

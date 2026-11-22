@@ -1,0 +1,9 @@
+urun,fiyat_tl,puan,stokta,link,sayfa
+Kablosuz Kulaklık,1299.9,3.8,True,/urun/0,page1.html
+Akıllı Saat,2450.0,3.8,False,/urun/1,page1.html
+Bluetooth Hoparlör,899.5,4.2,False,/urun/2,page1.html
+Powerbank 20000,749.0,4.6,True,/urun/3,page1.html
+Laptop Standı,420.0,3.8,True,/urun/0,page2.html
+USB-C Hub,615.0,4.9,False,/urun/1,page2.html
+Mekanik Klavye,1890.0,4.6,False,/urun/2,page2.html
+Webcam 1080p,1150.0,4.6,True,/urun/3,page2.html

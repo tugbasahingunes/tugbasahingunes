@@ -1,0 +1,5 @@
+Cronbach alpha (5 items): 0.87
+Chi-square departman x ayrilma niyeti: chi2=9.48, df=3, p=0.0235
+Welch t-test kadin vs erkek: t=-1.32, p=0.189
+One-way ANOVA departman: F=1.75, p=0.1566
+OLS R2=0.025; kidem b=-0.016 (p=0.0580)
