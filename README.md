@@ -17,7 +17,7 @@ Social protection and care services · family and child policy · youth employme
 
 **Selected work**
 
-📊 [**Social Policy Data Lab**](https://github.com/tugbasahingunes/social-policy-data-lab): 11 reproducible analyses with open international data (Eurostat, European Social Survey, ILO). Youth NEET and its gender gap, who works in the jobs most exposed to generative AI, why Finnish adults are among Europe's most active AI users, what makes Europeans happy, and a fairness audit of a machine-learning early-warning model. Methods include weighted logistic and multilevel regression, Oaxaca–Blinder decomposition, dominance analysis, multiple imputation, gradient boosting with SHAP, and bootstrap inference, each with a methodology note.
+📊 [**Social Policy Data Lab**](https://github.com/tugbasahingunes/social-policy-data-lab): 13 reproducible analyses with open international data (Eurostat, European Social Survey, ILO). Youth NEET and its gender gap, who works in the jobs most exposed to generative AI, why Finnish adults are among Europe's most active AI users, what makes Europeans happy, a fairness audit of a machine-learning early-warning model, youth unemployment forecasts, and whether Germany's minimum wage cost young people jobs. Methods include weighted logistic and multilevel regression, Oaxaca–Blinder decomposition, dominance analysis, multiple imputation, gradient boosting with SHAP, time-series forecasting with conformal intervals, synthetic control and synthetic difference-in-differences, and bootstrap inference, each with a methodology note.
 
 🛡️ [**When a child tells a chatbot**](https://github.com/tugbasahingunes/vulnerable-user-ai-test): a safety evaluation for vulnerable young users. 547 tests in English and Turkish built on the UN Convention on the Rights of the Child, scoring what a good answer must *contain* when a child discloses a risk, and penalising over-reaction to ordinary teenage messages. Showcase repository; full set available on request.
 
@@ -25,7 +25,7 @@ Social protection and care services · family and child policy · youth employme
 
 **Toolkit**
 
-Python (pandas, statsmodels, scikit-learn, LightGBM, SHAP) · survey-weighted, multilevel and decomposition methods · machine learning and fairness auditing · LLM APIs · prompt and evaluation design · SPSS · Excel · research methods
+Python (pandas, statsmodels, scikit-learn, LightGBM, SHAP) · survey-weighted, multilevel and decomposition methods · causal inference (synthetic control, SDID) · forecasting · machine learning and fairness auditing · LLM APIs · prompt and evaluation design · SPSS · Excel · research methods
 
 **Languages:** Turkish (native) · English (C1) · French (B1)
 
