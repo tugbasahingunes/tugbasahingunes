@@ -1,0 +1,35 @@
+title: "3 signs your child is ready to read"
+brand: {name: "Hece Hece", primary: "#2457A6", accent: "#F4C95D", bg: "#FFF8F0"}
+format: {width: 1080, height: 1920, fps: 30}
+voice: "warm female voice, Turkish, calm pace (ElevenLabs: 'Selin' or similar)"
+scenes:
+  - id: 1
+    seconds: 3.5
+    caption: "Çocuğunuz okumaya hazır mı?"
+    voiceover: "Çocuğunuz okumaya hazır mı? Üç işarete bakın."
+    image_prompt: "soft watercolor illustration, a 5-year-old girl and her mother looking at a picture book on a sofa, warm morning light, cream background, minimal, children's book style, no text"
+    motion: "slow zoom in"
+  - id: 2
+    seconds: 3.5
+    caption: "1 · Sesleri fark ediyor"
+    voiceover: "Birincisi: kelimelerin ilk sesini fark ediyor. Elma 'e' ile başlıyor diyebiliyor."
+    image_prompt: "watercolor illustration of a child pointing at a red apple with a big letter E floating above it, playful, cream background, no text"
+    motion: "pan right"
+  - id: 3
+    seconds: 3.5
+    caption: "2 · Harflere ilgi duyuyor"
+    voiceover: "İkincisi: tabelalardaki harflere ilgi duyuyor ve soruyor."
+    image_prompt: "watercolor illustration of a child on a street pointing at colorful shop signs, curious expression, soft colors, no readable text"
+    motion: "slow zoom out"
+  - id: 4
+    seconds: 3.5
+    caption: "3 · Hikâyeyi sıralayabiliyor"
+    voiceover: "Üçüncüsü: dinlediği bir hikâyeyi başı, ortası ve sonuyla anlatabiliyor."
+    image_prompt: "watercolor illustration of three picture cards in a row showing a story beginning, middle and end, a child arranging them, cream background, no text"
+    motion: "pan left"
+  - id: 5
+    seconds: 3.0
+    caption: "Hece Hece ile evde 10 dakika"
+    voiceover: "Hece Hece ile her gün evde on dakika. Bağlantı açıklamada."
+    image_prompt: "flat illustration of a phone showing a friendly letter character, cream background, brand colors blue and honey yellow, no text"
+    motion: "static"

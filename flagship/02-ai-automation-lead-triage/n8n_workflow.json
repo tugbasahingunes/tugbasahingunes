@@ -1,0 +1,250 @@
+{
+  "name": "AI Lead & Message Triage",
+  "nodes": [
+    {
+      "id": "1",
+      "name": "Webhook (form / e-mail)",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [
+        0,
+        300
+      ],
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "triage",
+        "responseMode": "onReceived"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Claude: classify",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        240,
+        300
+      ],
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.anthropic.com/v1/messages",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "x-api-key",
+              "value": "={{$env.ANTHROPIC_API_KEY}}"
+            },
+            {
+              "name": "anthropic-version",
+              "value": "2023-06-01"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({model:'claude-sonnet-4-5',max_tokens:500,system:\"You triage customer messages for a small Turkish e-commerce business.\\nReturn ONLY a JSON object with keys:\\nintent: one of [order_status, return_refund, product_question, wholesale_b2b, complaint, spam, other]\\nurgency: one of [high, medium, low]   (high = angry customer, payment problem, or legal threat)\\nlanguage: \\\"tr\\\" or \\\"en\\\"\\ncustomer_name: string or null\\norder_id: string or null   (format like #12345)\\nsummary: one sentence in English\\nreply_draft: a polite reply in the customer's language, max 3 sentences, never promise refunds or dates\\nneeds_human: true if complaint, wholesale_b2b, high urgency, or unclear\",messages:[{role:'user',content:$json.body.message}]}) }}"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Parse & validate JSON",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        480,
+        300
+      ],
+      "parameters": {
+        "jsCode": "const t=$json.content[0].text;const d=JSON.parse(t.slice(t.indexOf('{'),t.lastIndexOf('}')+1));\nconst I=['order_status','return_refund','product_question','wholesale_b2b','complaint','spam','other'];\nif(!I.includes(d.intent))d.intent='other';if(!['high','medium','low'].includes(d.urgency))d.urgency='medium';\nd.needs_human=!!d.needs_human||['complaint','wholesale_b2b'].includes(d.intent)||d.urgency==='high';\nd.message=$('Webhook (form / e-mail)').item.json.body.message;d.received_at=new Date().toISOString();\nreturn [{json:d}];"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Spam?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [
+        720,
+        300
+      ],
+      "parameters": {
+        "conditions": {
+          "conditions": [
+            {
+              "leftValue": "={{$json.intent}}",
+              "rightValue": "spam",
+              "operator": {
+                "type": "string",
+                "operation": "notEquals"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "5",
+      "name": "Append to Google Sheets CRM",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.5,
+      "position": [
+        960,
+        200
+      ],
+      "parameters": {
+        "operation": "append",
+        "documentId": {
+          "__rl": true,
+          "mode": "id",
+          "value": "YOUR_SHEET_ID"
+        },
+        "sheetName": {
+          "__rl": true,
+          "mode": "name",
+          "value": "Leads"
+        },
+        "columns": {
+          "mappingMode": "autoMapInputData"
+        }
+      }
+    },
+    {
+      "id": "6",
+      "name": "Needs human?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [
+        1200,
+        200
+      ],
+      "parameters": {
+        "conditions": {
+          "conditions": [
+            {
+              "leftValue": "={{$json.needs_human}}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "true"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "7",
+      "name": "Slack alert",
+      "type": "n8n-nodes-base.slack",
+      "typeVersion": 2.2,
+      "position": [
+        1440,
+        100
+      ],
+      "parameters": {
+        "select": "channel",
+        "channelId": {
+          "__rl": true,
+          "mode": "name",
+          "value": "#customer-alerts"
+        },
+        "text": "=🚨 {{$json.urgency.toUpperCase()}} · {{$json.intent}}\n{{$json.summary}}\n> {{$json.message}}"
+      }
+    },
+    {
+      "id": "8",
+      "name": "Send auto-reply (draft)",
+      "type": "n8n-nodes-base.gmail",
+      "typeVersion": 2.1,
+      "position": [
+        1440,
+        300
+      ],
+      "parameters": {
+        "resource": "draft",
+        "subject": "Re: your message",
+        "message": "={{$json.reply_draft}}"
+      }
+    }
+  ],
+  "connections": {
+    "Webhook (form / e-mail)": {
+      "main": [
+        [
+          {
+            "node": "Claude: classify",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Claude: classify": {
+      "main": [
+        [
+          {
+            "node": "Parse & validate JSON",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Parse & validate JSON": {
+      "main": [
+        [
+          {
+            "node": "Spam?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Spam?": {
+      "main": [
+        [
+          {
+            "node": "Append to Google Sheets CRM",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        []
+      ]
+    },
+    "Append to Google Sheets CRM": {
+      "main": [
+        [
+          {
+            "node": "Needs human?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Needs human?": {
+      "main": [
+        [
+          {
+            "node": "Slack alert",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Send auto-reply (draft)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  }
+}

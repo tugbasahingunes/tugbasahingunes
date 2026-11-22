@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Youth Employability Programme · Results Dashboard</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<style>
+:root{--ink:#1d2a3a;--mut:#6b7a8c;--bg:#f4f6fa;--card:#fff;--blue:#2457a6;--green:#2a9d8f;--amber:#e9a23b;--red:#d1495b}
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",sans-serif;background:var(--bg);color:var(--ink)}
+header{padding:22px 28px 6px}h1{margin:0;font-size:1.45rem}header p{margin:4px 0 0;color:var(--mut)}
+.bar{display:flex;gap:12px;flex-wrap:wrap;padding:10px 28px}select{padding:8px 10px;border-radius:8px;border:1px solid #cfd8e3;font:inherit;background:#fff}
+.grid{display:grid;gap:16px;padding:12px 28px 28px;grid-template-columns:repeat(4,1fr)}
+.card{background:var(--card);border-radius:14px;padding:16px 18px;box-shadow:0 2px 10px #1d2a3a0d}
+.kpi .v{font-size:1.9rem;font-weight:750;margin-top:4px}.kpi .l{color:var(--mut);font-size:.85rem}.kpi .t{font-size:.8rem;margin-top:6px}
+.wide{grid-column:span 2}.full{grid-column:1/-1}h3{margin:0 0 10px;font-size:1rem}
+table{width:100%;border-collapse:collapse;font-size:.88rem}th,td{padding:7px 8px;text-align:right;border-bottom:1px solid #eef1f5}th:first-child,td:first-child{text-align:left}
+.rag{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px;vertical-align:middle}
+footer{padding:0 28px 28px;color:var(--mut);font-size:.8rem}
+@media(max-width:900px){.grid{grid-template-columns:1fr 1fr}.wide{grid-column:1/-1}}
+</style></head><body>
+<header><h1>Youth Employability Programme: Results Dashboard</h1><p>Enrolment, completion and job outcomes against logframe targets · fictional data</p></header>
+<div class="bar"><select id="fRegion"></select><select id="fQuarter"></select></div>
+<div class="grid">
+  <div class="card kpi"><div class="l">Participants enrolled</div><div class="v" id="kEnr"></div><div class="t" id="tEnr"></div></div>
+  <div class="card kpi"><div class="l">Completion rate</div><div class="v" id="kComp"></div><div class="t" id="tComp"></div></div>
+  <div class="card kpi"><div class="l">Employed within 6 months</div><div class="v" id="kEmp"></div><div class="t" id="tEmp"></div></div>
+  <div class="card kpi"><div class="l">Cost per job outcome</div><div class="v" id="kCost"></div><div class="t" id="tCost"></div></div>
+  <div class="card wide"><h3>Results chain by quarter</h3><canvas id="cTrend" height="140"></canvas></div>
+  <div class="card wide"><h3>Employment rate by region vs target</h3><canvas id="cRegion" height="140"></canvas></div>
+  <div class="card full"><h3>Indicator tracking</h3><table id="tbl"></table></div>
+</div>
+<footer>Built with Chart.js · single HTML file, data embedded · RAG: green ≥ target, amber within 10%, red below.</footer>
+<script>
+const D=__DATA__, T=__TARGETS__;
+const regions=[...new Set(D.map(d=>d.region))], quarters=[...new Set(D.map(d=>d.quarter))];
+const fR=document.getElementById('fRegion'), fQ=document.getElementById('fQuarter');
+fR.innerHTML='<option value="">All regions</option>'+regions.map(r=>`<option>${r}</option>`).join('');
+fQ.innerHTML='<option value="">All quarters</option>'+quarters.map(q=>`<option>${q}</option>`).join('');
+const sum=(a,k)=>a.reduce((s,d)=>s+d[k],0), pct=x=>(100*x).toFixed(1)+'%', fmt=n=>n.toLocaleString('en-US');
+const rag=(v,t)=>v>=t?'var(--green)':v>=t*.9?'var(--amber)':'var(--red)';
+let c1,c2;
+function render(){
+  const sel=D.filter(d=>(!fR.value||d.region===fR.value)&&(!fQ.value||d.quarter===fQ.value));
+  const enr=sum(sel,'enrolled'), comp=sum(sel,'completed'), emp=sum(sel,'employed_6m'), fem=sum(sel,'female'), cost=sum(sel,'cost_try');
+  const sat=sel.reduce((s,d)=>s+d.satisfaction*d.enrolled,0)/enr;
+  const cr=comp/enr, er=emp/comp, fs=fem/enr;
+  kEnr.textContent=fmt(enr); tEnr.innerHTML=`<span class="rag" style="background:${rag(fs,T.female_share)}"></span>${pct(fs)} young women (target ${pct(T.female_share)})`;
+  kComp.textContent=pct(cr); tComp.innerHTML=`<span class="rag" style="background:${rag(cr,T.completion_rate)}"></span>target ${pct(T.completion_rate)}`;
+  kEmp.textContent=pct(er); tEmp.innerHTML=`<span class="rag" style="background:${rag(er,T.employment_rate)}"></span>${fmt(emp)} young people · target ${pct(T.employment_rate)}`;
+  kCost.textContent=fmt(Math.round(cost/emp))+' TL'; tCost.textContent=`total spend ${fmt(Math.round(cost/1e6*10)/10)}M TL`;
+  const byQ=quarters.map(q=>sel.filter(d=>d.quarter===q));
+  const ds=(k,c)=>({label:k,data:byQ.map(a=>sum(a,k)),backgroundColor:c,borderRadius:4});
+  c1&&c1.destroy(); c1=new Chart(cTrend,{type:'bar',data:{labels:quarters,datasets:[ds('enrolled','#9db4c0'),ds('completed','#2457a6'),ds('employed_6m','#2a9d8f')]},options:{plugins:{legend:{position:'bottom'}},scales:{x:{grid:{display:false}}}}});
+  const rs=regions.map(r=>{const a=D.filter(d=>d.region===r&&(!fQ.value||d.quarter===fQ.value));return sum(a,'employed_6m')/sum(a,'completed')});
+  c2&&c2.destroy(); c2=new Chart(cRegion,{type:'bar',data:{labels:regions,datasets:[{label:'Employment rate',data:rs.map(x=>+(100*x).toFixed(1)),backgroundColor:rs.map(x=>rag(x,T.employment_rate).replace('var(--green)','#2a9d8f').replace('var(--amber)','#e9a23b').replace('var(--red)','#d1495b')),borderRadius:4},
+    {type:'line',label:'Target',data:regions.map(()=>100*T.employment_rate),borderColor:'#1d2a3a',borderDash:[6,4],pointRadius:0}]},options:{indexAxis:'x',plugins:{legend:{position:'bottom'}},scales:{y:{ticks:{callback:v=>v+'%'}},x:{grid:{display:false}}}}});
+  const rows=[['Completion rate',cr,T.completion_rate,pct],['Employment within 6 months',er,T.employment_rate,pct],['Share of young women',fs,T.female_share,pct],['Participant satisfaction (1–5)',sat,T.satisfaction,v=>v.toFixed(2)]];
+  tbl.innerHTML='<tr><th>Indicator</th><th>Actual</th><th>Target</th><th>Gap</th><th>Status</th></tr>'+rows.map(([n,v,t,f])=>`<tr><td>${n}</td><td>${f(v)}</td><td>${f(t)}</td><td>${(v-t>=0?'+':'')+f(v-t)}</td><td><span class="rag" style="background:${rag(v,t)}"></span>${v>=t?'On track':v>=t*.9?'Watch':'Off track'}</td></tr>`).join('');
+}
+fR.onchange=fQ.onchange=render; render();
+</script></body></html>

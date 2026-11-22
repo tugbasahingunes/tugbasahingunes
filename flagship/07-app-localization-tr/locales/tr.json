@@ -1,0 +1,22 @@
+{
+  "app.title": "FitPlan",
+  "onboarding.welcome": "Hoş geldin, {name}!",
+  "onboarding.subtitle": "Haftana uyan bir plan oluşturalım.",
+  "onboarding.cta": "Başla",
+  "workout.count": "Bu hafta {count, plural, one {# antrenman} other {# antrenman}}",
+  "workout.minutes": "{minutes} dk",
+  "workout.complete": "Harika! Art arda {count, plural, one {# antrenmanı} other {# antrenmanı}} tamamladın.",
+  "settings.notifications": "Anlık bildirimler",
+  "settings.units": "Birimler",
+  "settings.units.metric": "Metrik (kg, km)",
+  "settings.delete_account": "Hesabı sil",
+  "settings.delete_confirm": "Bu işlem tüm verilerini kalıcı olarak siler ve geri alınamaz.",
+  "paywall.title": "Premium'un kilidini aç",
+  "paywall.price": "Aylık {price}, istediğin zaman iptal et",
+  "paywall.trial": "{days} günlük ücretsiz denemeni başlat",
+  "error.network": "İnternet bağlantısı yok. Lütfen tekrar dene.",
+  "error.generic": "Bir şeyler ters gitti. Ekibimiz bilgilendirildi.",
+  "share.message": "FitPlan'de {workout} antrenmanını bitirdim 💪",
+  "reminder.push": "Selam {name}, {workout} antrenmanın {minutes} dakika sonra başlıyor.",
+  "profile.member_since": "{date} tarihinden beri üye"
+}

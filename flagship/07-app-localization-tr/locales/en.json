@@ -1,0 +1,22 @@
+{
+  "app.title": "FitPlan",
+  "onboarding.welcome": "Welcome, {name}!",
+  "onboarding.subtitle": "Let's build a plan that fits your week.",
+  "onboarding.cta": "Get started",
+  "workout.count": "{count, plural, one {# workout} other {# workouts}} this week",
+  "workout.minutes": "{minutes} min",
+  "workout.complete": "Great job! You completed {count, plural, one {# workout} other {# workouts}} in a row.",
+  "settings.notifications": "Push notifications",
+  "settings.units": "Units",
+  "settings.units.metric": "Metric (kg, km)",
+  "settings.delete_account": "Delete account",
+  "settings.delete_confirm": "This will permanently delete your data. This action cannot be undone.",
+  "paywall.title": "Unlock Premium",
+  "paywall.price": "{price} per month, cancel anytime",
+  "paywall.trial": "Start your {days}-day free trial",
+  "error.network": "No internet connection. Please try again.",
+  "error.generic": "Something went wrong. Our team has been notified.",
+  "share.message": "I just finished {workout} on FitPlan 💪",
+  "reminder.push": "Hey {name}, your {workout} session starts in {minutes} minutes.",
+  "profile.member_since": "Member since {date}"
+}

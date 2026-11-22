@@ -23,6 +23,8 @@ Social protection and care services · family and child policy · youth employme
 
 📋 [**CaseNote AI**](https://github.com/tugbasahingunes/casenote-ai): AI support for social care home-visit notes, with expert-defined criteria, evidence quotes for every flag, coverage-gap reporting and an evaluation that separates *missed signals* from *harmful over-flagging*. Criteria live in a separate file, so the same pipeline can serve another country, service or client group.
 
+⭐ [**Flagship projects**](flagship): eight in-depth client-style projects: a Turkish LLM preference dataset with agreement analysis, an n8n + Claude message-triage automation, a pricing and segmentation study, an NGO results dashboard, a project-operations toolkit, an AI short-video pipeline, EN→TR app localization with automated QA, and a full-stack booking app.
+
 🎓 [**TezKit**](tezkit): six tools for Turkish thesis writers in one web app: thesis formatting checker, SPSS/Excel survey → APA “Findings” chapter, APA 7 citation checker, Likert scale scoring, G*Power-consistent sample-size calculator and a PDF → literature table extractor.
 
 💼 [**Freelance Portfolio**](freelance-portfolio): 15 sample projects, one per service: data cleaning, Excel dashboards, survey statistics, visualization, scraping, automation, mobile app, graphic design, landing page, TR⇄EN translation, chatbot prompts & evaluation, research writing, machine learning, SQL and Google Sheets automation.

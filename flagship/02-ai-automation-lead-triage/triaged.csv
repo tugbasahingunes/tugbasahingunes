@@ -1,0 +1,8 @@
+received_at,channel,intent,urgency,language,customer_name,order_id,summary,reply_draft,needs_human,message
+2026-11-20T09:12,web_form,order_status,medium,tr,Ayşe,#48213,order status message (tr),"Merhaba Ayşe, siparişinizin durumunu kontrol ediyoruz ve en kısa sürede size bilgi vereceğiz.",False,"Merhaba, ben Ayşe. #48213 numaralı siparişim 6 gündür gelmedi, kargo nerede?"
+2026-11-20T09:40,email,wholesale_b2b,medium,en,Mark,,wholesale b2b message (en),"Hi Mark, thank you for your business enquiry. Our sales team will contact you.",True,"Hi, I'm Mark from Berlin. We are a distributor and interested in wholesale prices for 500 units."
+2026-11-20T10:05,whatsapp,complaint,high,tr,,,complaint message (tr),"Merhaba, yaşadığınız sorun için gerçekten üzgünüz. Talebiniz öncelikli olarak bir yetkiliye iletildi.",True,"REZALET!! Kartımdan iki kez çekim yapıldı, tüketici hakem heyetine gideceğim."
+2026-11-20T10:31,web_form,product_question,low,tr,,,product question message (tr),"Merhaba, sorunuz için teşekkürler. Ürünle ilgili detayları kısa süre içinde paylaşacağız.",False,Lavanta balmının içeriğinde paraben var mı? Stokta 50 ml boyutu var mı?
+2026-11-20T11:02,email,spam,low,en,,,spam message (en),,False,"Congratulations! You have won a free iPhone, click here to claim your bitcoin prize."
+2026-11-20T11:20,web_form,return_refund,medium,tr,,,return refund message (tr),"Merhaba, iade talebinizi aldık. İade koşullarımızı ve sonraki adımları ekibimiz size iletecek.",False,"Aldığım kremi iade etmek istiyorum, kutusu açılmadı. Ne yapmalıyım?"
+2026-11-20T12:15,email,order_status,medium,en,,#77120,order status message (en),"Hi, we're checking your order status and will update you shortly.",False,Where is my order 77120? Tracking hasn't updated in 4 days.

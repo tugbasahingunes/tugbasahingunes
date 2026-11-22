@@ -1,0 +1,35 @@
+<!DOCTYPE html><html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Randevu Al</title>
+<style>
+:root{--b:#2457a6;--ink:#1d2a3a;--bg:#f5f7fb}*{box-sizing:border-box}
+body{margin:0;font-family:system-ui,sans-serif;background:var(--bg);color:var(--ink)}
+main{max-width:640px;margin:auto;padding:24px}h1{margin:.2em 0}.card{background:#fff;border-radius:16px;padding:20px;margin:14px 0;box-shadow:0 2px 12px #0001}
+.svc,.slot{display:inline-block;margin:4px;padding:10px 14px;border:1px solid #cdd6e3;border-radius:10px;cursor:pointer;background:#fff}
+.on{background:var(--b);color:#fff;border-color:var(--b)}.on small{color:#dfe8f7}input,textarea{width:100%;padding:11px;margin:6px 0;border:1px solid #cdd6e3;border-radius:10px;font:inherit}
+button{background:var(--b);color:#fff;border:0;border-radius:10px;padding:12px 18px;font:inherit;font-weight:700;cursor:pointer}
+.msg{padding:12px;border-radius:10px;margin-top:10px}.ok{background:#e3f4ee}.err{background:#fde8ea}small{color:#6b7a8c}
+</style></head><body><main>
+<h1>Randevu al</h1><small>Hafta içi 09:00–18:00 · öğle arası 12:30–13:30</small>
+<div class="card"><b>1. Hizmet</b><div id="svcs"></div></div>
+<div class="card"><b>2. Gün ve saat</b><input type="date" id="day"><div id="slots"><small>Önce hizmet ve gün seçin.</small></div></div>
+<div class="card"><b>3. Bilgileriniz</b>
+<input id="name" placeholder="Ad Soyad" autocomplete="name"><input id="email" type="email" placeholder="E-posta" autocomplete="email">
+<input id="phone" placeholder="Telefon (isteğe bağlı)" autocomplete="tel"><textarea id="note" rows="2" placeholder="Not (isteğe bağlı)"></textarea>
+<button id="go">Randevuyu onayla</button><div id="msg"></div></div>
+</main><script>
+let svc=null, slot=null; const $=id=>document.getElementById(id);
+const iso=d=>new Date(d-d.getTimezoneOffset()*6e4).toISOString().slice(0,10); const t=new Date(); t.setDate(t.getDate()+1); $('day').min=iso(new Date()); $('day').value=iso(t);
+fetch('/api/services').then(r=>r.json()).then(list=>{$('svcs').innerHTML=list.map(s=>`<span class="svc" data-id="${s.id}">${s.name}<br><small>${s.minutes} dk · ${s.price?s.price+' TL':'ücretsiz'}</small></span>`).join('');
+  document.querySelectorAll('.svc').forEach(e=>e.onclick=()=>{document.querySelectorAll('.svc').forEach(x=>x.classList.remove('on'));e.classList.add('on');svc=+e.dataset.id;load()})});
+$('day').onchange=load;
+function load(){ if(!svc) return; slot=null;
+  fetch(`/api/slots?service_id=${svc}&day=${$('day').value}`).then(r=>r.json()).then(s=>{
+   $('slots').innerHTML=s.length?s.map(x=>`<span class="slot" data-t="${x}">${x.slice(11)}</span>`).join(''):'<small>Bu gün için uygun saat yok.</small>';
+   document.querySelectorAll('.slot').forEach(e=>e.onclick=()=>{document.querySelectorAll('.slot').forEach(x=>x.classList.remove('on'));e.classList.add('on');slot=e.dataset.t})})}
+$('go').onclick=async()=>{ const m=$('msg');
+  if(!svc||!slot){m.className='msg err';m.textContent='Lütfen hizmet ve saat seçin.';return}
+  const r=await fetch('/api/bookings',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({service_id:svc,start:slot,name:$('name').value,email:$('email').value,phone:$('phone').value||null,note:$('note').value||null})});
+  const j=await r.json();
+  if(r.ok){m.className='msg ok';m.innerHTML=`✔ Randevunuz alındı: <b>${j.service}</b>, ${j.start.replace('T',' ')}<br>İptal kodu: <b>${j.code}</b>`;load()}
+  else{m.className='msg err';m.textContent=r.status===409?'Bu saat az önce doldu, lütfen başka bir saat seçin.':'Lütfen bilgilerinizi kontrol edin.'}};
+</script></body></html>
