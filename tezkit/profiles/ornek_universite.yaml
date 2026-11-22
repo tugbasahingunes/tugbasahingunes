@@ -1,0 +1,8 @@
+# Örnek: daha sıkı bir üniversite profili (soldan 4 cm, 1.5 satır, 12 punto)
+ad: "Örnek Üniversite Sosyal Bilimler Enstitüsü"
+sayfa: {boyut: A4, kenar_cm: {sol: 4.0, sag: 2.5, ust: 3.0, alt: 2.5}, tolerans_cm: 0.1}
+govde: {font: "Times New Roman", punto: 12, satir_araligi: 1.5, hizalama: "iki_yana"}
+baslik: {font: "Times New Roman", numarali: true}
+tablo_baslik_kalibi: '^Tablo\s+\d+(\.\d+)*\.?\s'
+sekil_baslik_kalibi: '^Şekil\s+\d+(\.\d+)*\.?\s'
+zorunlu_bolumler: ["ÖZET", "ABSTRACT", "ÖNSÖZ", "İÇİNDEKİLER", "TABLOLAR LİSTESİ", "GİRİŞ", "SONUÇ VE ÖNERİLER", "KAYNAKÇA"]

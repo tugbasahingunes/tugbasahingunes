@@ -1,0 +1,20 @@
+name: TezKit tests
+on:
+  push:
+    paths: ["tezkit/**"]
+  pull_request:
+    paths: ["tezkit/**"]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: tezkit
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt pytest
+      - run: python samples/make_samples.py
+      - run: pytest -q

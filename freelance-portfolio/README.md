@@ -19,6 +19,7 @@ One sample project for each service I offer. Every project is self-contained, ru
 | 13 | [Machine learning](13-machine-learning) | Customer churn model + ranked call list | scikit-learn |
 | 14 | [SQL analysis](14-sql-analysis) | E-commerce DB: growth, LTV, RFM segments | SQL, window functions |
 | 15 | [Google Sheets automation / virtual assistant](15-google-sheets-automation) | Form → ID, e-mail, daily summary | Apps Script |
+| 16 | [Thesis toolkit (TezKit)](../tezkit) | 6 tools for thesis writers: format, citations, survey stats, sample size | python-docx, scipy, Streamlit |
 
 **Background:** 10+ years of social research and data work in the public sector · Sociology (Ankara University) · Google Data Analytics & AI certificates · Turkish (native), English (C1), French (B1).
 

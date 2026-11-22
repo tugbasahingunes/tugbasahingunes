@@ -1,0 +1,15 @@
+# Örnek ölçek tanımı. Kendi ölçeğinize göre madde adlarını, ters maddeleri ve alt boyutları değiştirin.
+ad: "Aile Desteği ve Gelecek Umudu (kurgusal)"
+min: 1
+max: 5
+yontem: ortalama          # ortalama | toplam
+min_yanit_orani: 0.8      # alt boyuttaki maddelerin en az %80'i yanıtlanmış olmalı
+ters_maddeler: [AD3, AD6]
+boyutlar:
+  Aile_Destegi:
+    maddeler: [AD1, AD2, AD3, AD4, AD5, AD6]
+  Gelecek_Umudu:
+    maddeler: [GU1, GU2, GU3, GU4, GU5]
+kesme:                    # 1-5 ortalama puan için düzeyler
+  sinirlar: [2.33, 3.67]
+  etiketler: [Düşük, Orta, Yüksek]

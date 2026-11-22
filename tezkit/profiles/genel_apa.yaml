@@ -1,0 +1,17 @@
+# Genel profil. Kendi üniversitenizin Tez Yazım Kılavuzu'na göre kopyalayıp düzenleyin.
+ad: "Genel (APA 7 temelli, YÖK tez yazım kılavuzlarında sık görülen kurallar)"
+sayfa:
+  boyut: A4            # A4 = 21 x 29.7 cm
+  kenar_cm: {sol: 3.0, sag: 2.5, ust: 2.5, alt: 2.5}
+  tolerans_cm: 0.1
+govde:
+  font: "Times New Roman"
+  punto: 12
+  satir_araligi: 1.5   # 1.0 / 1.15 / 1.5 / 2.0
+  hizalama: "iki_yana" # sol / iki_yana
+baslik:
+  font: "Times New Roman"
+  numarali: true       # 1., 1.1., 1.1.1.
+tablo_baslik_kalibi: '^Tablo\s+\d+(\.\d+)*\.?\s'
+sekil_baslik_kalibi: '^Şekil\s+\d+(\.\d+)*\.?\s'
+zorunlu_bolumler: ["ÖZET", "ABSTRACT", "İÇİNDEKİLER", "GİRİŞ", "SONUÇ", "KAYNAKÇA"]
