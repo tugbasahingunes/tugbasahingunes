@@ -1,0 +1,281 @@
+id,answer,human_code,ai_code,confidence,needs_review
+8,Definitely courses for new skills please,training,flexibility,0.33576735846712613,True
+220,For me it would be career development,training,workload,0.3765288580450544,True
+19,remote work to be honest,flexibility,flexibility,0.7704657852430031,False
+22,"too much work would help a bit, but mostly honestly, remote work and maybe more breaks, also too much work",flexibility,workload,0.7606651075803941,False
+380,better software as soon as possible,tools,workload,0.33448898091700036,True
+294,I think career development please,training,pay,0.4964841699304304,True
+160,pay that matches inflation,pay,pay,0.9588912308835581,False
+384,"I think a faster laptop please, also transparent decisions",tools,management,0.4073305984420999,True
+133,"pay rise would help a bit, but mostly we need work from home two days",flexibility,flexibility,0.3316646037727092,True
+2,I think work from home two days this year,flexibility,flexibility,0.6819501939317244,False
+11,"Honestly, work from home two days to be honest",flexibility,flexibility,0.7175372989684862,False
+157,"For me it would be flexible hours this year, also learning budget",flexibility,flexibility,0.5068818298311535,False
+95,Definitely less micromanagement and maybe more breaks,management,management,0.5938519204856849,False
+197,"Honestly, modern equipment this year",tools,tools,0.3294588015151583,True
+337,Definitely career development and maybe more breaks,training,pay,0.31710689551365834,True
+325,For me it would be a faster laptop,tools,workload,0.38990149575130695,True
+383,We need less micromanagement to be honest,management,management,0.4409873237865801,True
+184,"learning budget would help a bit, but mostly for me it would be better software to be honest",tools,tools,0.3108461083535691,True
+116,We need hybrid schedule please,flexibility,flexibility,0.7793520213811996,False
+194,We need clearer communication from managers and maybe more breaks,management,management,0.8453922529630332,False
+4,I think understaffed to be honest,workload,workload,0.4871622334737478,True
+124,I think better salary,pay,pay,0.8639608952825553,False
+397,"Honestly, more people on the team",workload,workload,0.9176719679910631,False
+292,"I think a faster laptop please, also transparent decisions",tools,management,0.4073305984420999,True
+141,We need pay that matches inflation,pay,pay,0.9386295499112828,False
+245,We need constant overtime,workload,workload,0.8045472252881634,False
+219,We need impossible deadlines,workload,workload,0.8612585871903427,False
+127,We need too much work as soon as possible,workload,workload,0.8313827025044476,False
+269,pay that matches inflation to be honest,pay,pay,0.9217793647583082,False
+188,transparent decisions to be honest,management,management,0.7748874636638776,False
+244,I think hybrid schedule to be honest,flexibility,flexibility,0.8061002070009224,False
+115,"systems that do not crash would help a bit, but mostly more people on the team, also systems that do not crash",workload,workload,0.4104197025102573,True
+84,"work from home two days would help a bit, but mostly i think bonus system this year, also shorter commute",pay,flexibility,0.48523540672636395,True
+248,We need a working VPN to be honest,tools,tools,0.6323955185108451,False
+211,"Honestly, understaffed as soon as possible",workload,workload,0.8215064152814366,False
+102,"Honestly, feedback from my boss and maybe more breaks",management,management,0.8517274521004752,False
+38,For me it would be modern equipment,tools,workload,0.35786916839877275,True
+339,"feedback from my boss would help a bit, but mostly i think remote work this year",flexibility,management,0.5407646867638808,False
+138,For me it would be transparent decisions to be honest,management,management,0.5468137635667025,False
+27,"Honestly, feedback from my boss and maybe more breaks",management,management,0.8517274521004752,False
+338,Definitely pay that matches inflation and maybe more breaks,pay,pay,0.8640134381243118,False
+187,"understaffed would help a bit, but mostly i think shorter commute please",flexibility,flexibility,0.37688380884650563,True
+348,We need more people on the team this year,workload,workload,0.8967659341047053,False
+389,We need shorter commute,flexibility,flexibility,0.556231041313886,False
+314,"Definitely fair wages as soon as possible, also shorter commute",pay,pay,0.6252902424955898,False
+285,"Honestly, remote work to be honest",flexibility,flexibility,0.776316806955839,False
+286,fair wages as soon as possible,pay,pay,0.7138377656704546,False
+278,"Honestly, too much work to be honest",workload,workload,0.7785654163178781,False
+40,For me it would be too much work and maybe more breaks,workload,workload,0.8905612484532042,False
+181,For me it would be transparent decisions please,management,management,0.6256714320754558,False
+130,I think a working VPN this year,tools,tools,0.29304682133421694,True
+1,For me it would be flexible hours to be honest,flexibility,flexibility,0.6334915308389861,False
+24,We need pay that matches inflation and maybe more breaks,pay,pay,0.8334404586547072,False
+125,work from home two days to be honest,flexibility,flexibility,0.7072814914844857,False
+256,understaffed and maybe more breaks,workload,workload,0.735756976472347,False
+247,pay rise,pay,pay,0.936211467116032,False
+282,I think work from home two days this year,flexibility,flexibility,0.6819501939317244,False
+250,We need better salary and maybe more breaks,pay,pay,0.523882041601774,False
+221,I think shorter commute and maybe more breaks,flexibility,flexibility,0.467681371977829,True
+295,I think feedback from my boss to be honest,management,management,0.8116169030475157,False
+15,feedback from my boss please,management,management,0.8944026180475962,False
+182,"Honestly, fair wages and maybe more breaks",pay,pay,0.5289293641319712,False
+99,Definitely hybrid schedule to be honest,flexibility,flexibility,0.8257893981484986,False
+271,pay that matches inflation please,pay,pay,0.9500687219804921,False
+205,I think a working VPN please,tools,tools,0.5717284347648919,False
+224,impossible deadlines this year,workload,workload,0.8257387113657965,False
+216,"Honestly, impossible deadlines as soon as possible",workload,workload,0.8458616217493842,False
+279,We need hybrid schedule as soon as possible,flexibility,flexibility,0.5508088828571219,False
+144,"Honestly, clearer communication from managers to be honest",management,management,0.7811365022301991,False
+100,Definitely constant overtime and maybe more breaks,workload,workload,0.768760107660087,False
+267,"Honestly, flexible hours",flexibility,flexibility,0.7780222247672536,False
+343,We need clearer communication from managers and maybe more breaks,management,management,0.8453922529630332,False
+103,modern equipment,tools,tools,0.42002319273276856,True
+74,"Definitely pay that matches inflation please, also modern equipment",pay,pay,0.8689770574750935,False
+361,For me it would be bonus system please,pay,pay,0.478617938325734,True
+330,I think fair wages as soon as possible,pay,pay,0.7145448256697717,False
+297,"mentoring would help a bit, but mostly honestly, shorter commute this year, also mentoring",flexibility,flexibility,0.4175110290214925,True
+398,We need systems that do not crash to be honest,tools,tools,0.4154511745308295,True
+375,fair wages please,pay,pay,0.7787529847078033,False
+53,For me it would be too much work as soon as possible,workload,workload,0.8773567225692429,False
+310,"Honestly, constant overtime to be honest",workload,workload,0.6417339555494092,False
+284,We need constant overtime to be honest,workload,workload,0.6553190486611341,False
+251,"mentoring would help a bit, but mostly for me it would be a working vpn as soon as possible",tools,workload,0.6615351608303307,False
+45,"Honestly, clearer communication from managers please",management,management,0.8621697736043783,False
+90,Definitely understaffed to be honest,workload,workload,0.40341821892214547,True
+209,For me it would be work from home two days to be honest,flexibility,flexibility,0.6786003137479271,False
+303,"hybrid schedule would help a bit, but mostly definitely impossible deadlines, also remote work",workload,flexibility,0.6374197121836461,False
+335,I think remote work as soon as possible,flexibility,flexibility,0.69221869729748,False
+117,understaffed and maybe more breaks,workload,workload,0.735756976472347,False
+147,I think better salary,pay,pay,0.8639608952825553,False
+123,I think remote work to be honest,flexibility,flexibility,0.7727474714883821,False
+143,We need managers who listen,management,management,0.769436043064914,False
+386,bonus system please,pay,pay,0.8082583868163745,False
+327,I think more people on the team and maybe more breaks,workload,workload,0.876405350465378,False
+23,For me it would be remote work please,flexibility,flexibility,0.5988104096891673,False
+334,"For me it would be flexible hours and maybe more breaks, also pay that matches inflation",flexibility,pay,0.5231007095998532,False
+234,mentoring please,training,training,0.5059415441589311,False
+30,fair wages,pay,pay,0.8340209063262564,False
+376,"Honestly, understaffed",workload,workload,0.8196641893682514,False
+371,We need constant overtime to be honest,workload,workload,0.6553190486611341,False
+280,For me it would be too much work,workload,workload,0.9013182920720809,False
+320,For me it would be constant overtime as soon as possible,workload,workload,0.893297119634543,False
+311,We need flexible hours as soon as possible,flexibility,flexibility,0.49330943463816274,True
+168,For me it would be impossible deadlines please,workload,workload,0.878010142195409,False
+163,We need work from home two days to be honest,flexibility,flexibility,0.6586884749987774,False
+41,I think too much work please,workload,workload,0.801972334576861,False
+359,"pay rise would help a bit, but mostly honestly, less micromanagement please, also pay that matches inflation",management,pay,0.8998326580417102,False
+213,"career development would help a bit, but mostly definitely modern equipment, also career development",tools,pay,0.5346068521285033,False
+82,"a working VPN would help a bit, but mostly i think courses for new skills and maybe more breaks, also modern equipment",training,management,0.22978964631098003,True
+290,shorter commute and maybe more breaks,flexibility,flexibility,0.3904557458069497,True
+350,"Honestly, fair wages please",pay,pay,0.7589899758868255,False
+0,For me it would be constant overtime,workload,workload,0.865766887805345,False
+366,Definitely constant overtime and maybe more breaks,workload,workload,0.768760107660087,False
+75,"Honestly, less micromanagement as soon as possible",management,workload,0.320269146324375,True
+120,"Definitely constant overtime please, also flexible hours",workload,workload,0.46506494094656714,True
+68,"Honestly, a faster laptop and maybe more breaks",tools,tools,0.6336291871283608,False
+110,constant overtime,workload,workload,0.8379336703037776,False
+204,Definitely pay that matches inflation and maybe more breaks,pay,pay,0.8640134381243118,False
+80,"Honestly, impossible deadlines",workload,workload,0.8347892779000389,False
+276,Definitely better salary,pay,pay,0.8954438212000239,False
+55,"a faster laptop would help a bit, but mostly we need hybrid schedule and maybe more breaks, also modern equipment",flexibility,flexibility,0.2615179048269496,True
+113,"feedback from my boss would help a bit, but mostly i think better software this year, also managers who listen",tools,management,0.8755342184153327,False
+351,Definitely transparent decisions and maybe more breaks,management,management,0.8031470458610079,False
+140,"Honestly, understaffed this year",workload,workload,0.8191100570833814,False
+238,Definitely shorter commute,flexibility,flexibility,0.6395081074151768,False
+78,We need too much work this year,workload,workload,0.7798549421030958,False
+25,I think hybrid schedule to be honest,flexibility,flexibility,0.8061002070009224,False
+81,"fair wages would help a bit, but mostly i think more training",training,pay,0.4737703631013941,True
+283,"better software would help a bit, but mostly i think pay rise as soon as possible, also systems that do not crash",pay,pay,0.7583206682706146,False
+274,"more people on the team would help a bit, but mostly i think less micromanagement to be honest, also too much work",management,workload,0.8782455822853638,False
+356,For me it would be feedback from my boss as soon as possible,management,management,0.5494836706748795,False
+46,bonus system as soon as possible,pay,pay,0.732310164158696,False
+104,transparent decisions,management,management,0.9225753693276437,False
+237,"more training would help a bit, but mostly for me it would be pay that matches inflation as soon as possible, also learning budget",pay,pay,0.6069755855852751,False
+323,For me it would be fair wages,pay,pay,0.5054296924653517,False
+259,"managers who listen and maybe more breaks, also fair wages",management,management,0.6043072704952611,False
+198,For me it would be understaffed this year,workload,workload,0.8719787828181439,False
+215,"Honestly, understaffed this year",workload,workload,0.8191100570833814,False
+155,hybrid schedule to be honest,flexibility,flexibility,0.8156766412088129,False
+63,"courses for new skills would help a bit, but mostly definitely more people on the team, also more training",workload,workload,0.6191856646970944,False
+232,"transparent decisions would help a bit, but mostly we need fair wages please",pay,management,0.47185751238383195,True
+326,For me it would be bonus system please,pay,pay,0.478617938325734,True
+302,"Definitely impossible deadlines to be honest, also better salary",workload,pay,0.45086125728724863,True
+97,Definitely learning budget and maybe more breaks,training,training,0.4005039744571914,True
+88,I think understaffed and maybe more breaks,workload,workload,0.7096095371537797,False
+159,"For me it would be less micromanagement as soon as possible, also work from home two days",management,flexibility,0.416306328249363,True
+258,"Honestly, constant overtime and maybe more breaks",workload,workload,0.7671975169339051,False
+364,"a faster laptop would help a bit, but mostly honestly, bonus system to be honest",pay,pay,0.5921977705209258,False
+374,"fair wages this year, also too much work",pay,workload,0.47432658016489304,True
+260,Definitely feedback from my boss,management,management,0.8946674126055588,False
+393,We need transparent decisions and maybe more breaks,management,management,0.8000158209112892,False
+119,constant overtime this year,workload,workload,0.7705228239228871,False
+126,Definitely better salary,pay,pay,0.8954438212000239,False
+355,For me it would be more people on the team,workload,workload,0.9306483323626784,False
+324,"shorter commute, also modern equipment",flexibility,flexibility,0.38918439719898695,True
+132,Definitely understaffed,workload,workload,0.7337350349692098,False
+236,"learning budget would help a bit, but mostly understaffed as soon as possible, also learning budget",workload,workload,0.4734849681713746,True
+316,For me it would be constant overtime this year,workload,workload,0.8430943486015687,False
+162,I think pay rise to be honest,pay,pay,0.8609968924600597,False
+36,We need transparent decisions,management,management,0.8248265857903948,False
+146,"Honestly, feedback from my boss please",management,management,0.8588171899152216,False
+246,For me it would be impossible deadlines as soon as possible,workload,workload,0.9079432562049546,False
+301,We need less micromanagement please,management,management,0.5925939834458419,False
+240,constant overtime please,workload,workload,0.7897318429348401,False
+145,transparent decisions please,management,management,0.8657791284095012,False
+96,"understaffed would help a bit, but mostly less micromanagement this year",management,workload,0.3681497786860805,True
+272,"For me it would be transparent decisions this year, also pay rise",management,pay,0.39706011257152446,True
+105,"pay that matches inflation would help a bit, but mostly honestly, too much work and maybe more breaks, also pay that matches inflation",workload,pay,0.7733042121901382,False
+164,Definitely transparent decisions as soon as possible,management,management,0.4633352385186193,True
+39,We need more people on the team and maybe more breaks,workload,workload,0.8973572453034474,False
+208,I think fair wages please,pay,pay,0.7708217498279981,False
+385,We need fair wages,pay,pay,0.755798902448734,False
+10,Definitely pay rise and maybe more breaks,pay,pay,0.6964071382518179,False
+101,"better salary, also understaffed",pay,pay,0.7431707567091285,False
+214,"impossible deadlines please, also learning budget",workload,workload,0.42864209803138675,True
+128,We need better salary to be honest,pay,pay,0.7457596550129326,False
+135,Definitely better software this year,tools,pay,0.40397855562021306,True
+106,"remote work would help a bit, but mostly we need pay that matches inflation please, also work from home two days",pay,pay,0.4272847795374197,True
+228,understaffed,workload,workload,0.9155459232005292,False
+210,"mentoring would help a bit, but mostly we need work from home two days as soon as possible",flexibility,flexibility,0.3938143720442018,True
+328,I think shorter commute,flexibility,flexibility,0.6991614426648046,False
+56,Definitely fair wages,pay,pay,0.8537890199567324,False
+152,"For me it would be hybrid schedule to be honest, also more people on the team",flexibility,workload,0.6487582070887362,False
+233,"work from home two days would help a bit, but mostly honestly, feedback from my boss to be honest",management,management,0.638209884567045,False
+349,Definitely too much work and maybe more breaks,workload,workload,0.8288528154601833,False
+298,I think fair wages to be honest,pay,pay,0.7257049827807899,False
+92,I think managers who listen this year,management,management,0.7439323610763857,False
+344,Definitely mentoring as soon as possible,training,workload,0.31923163443267955,True
+142,I think more people on the team this year,workload,workload,0.8696239145380549,False
+52,"clearer communication from managers would help a bit, but mostly we need too much work as soon as possible, also transparent decisions",workload,management,0.64389743389155,False
+304,We need pay rise this year,pay,pay,0.8039552862716053,False
+273,Definitely pay rise this year,pay,pay,0.8467584010702751,False
+31,"Honestly, pay rise please",pay,pay,0.8598160929665384,False
+322,We need better salary please,pay,pay,0.7839512052867011,False
+379,Definitely impossible deadlines to be honest,workload,workload,0.6763197122959042,False
+73,too much work,workload,workload,0.896856618320321,False
+300,"less micromanagement would help a bit, but mostly definitely more people on the team, also feedback from my boss",workload,management,0.524986441431572,False
+309,"Honestly, more people on the team please",workload,workload,0.8892045260465147,False
+93,For me it would be hybrid schedule to be honest,flexibility,flexibility,0.7125711247405448,False
+57,"Honestly, fair wages as soon as possible",pay,pay,0.7141804516744495,False
+180,Definitely pay that matches inflation please,pay,pay,0.9493262873596795,False
+94,"courses for new skills would help a bit, but mostly honestly, managers who listen as soon as possible",management,management,0.5401910514568316,False
+59,"a faster laptop would help a bit, but mostly definitely impossible deadlines and maybe more breaks",workload,workload,0.741548737390751,False
+60,"feedback from my boss would help a bit, but mostly we need impossible deadlines this year",workload,management,0.5631678851617578,False
+293,"better software as soon as possible, also shorter commute",tools,flexibility,0.29699784358902526,True
+5,We need mentoring this year,training,workload,0.268678989270599,True
+114,"Honestly, work from home two days this year, also systems that do not crash",flexibility,flexibility,0.4042216001260374,True
+222,"For me it would be impossible deadlines, also pay that matches inflation",workload,pay,0.6152041626581151,False
+291,For me it would be remote work please,flexibility,flexibility,0.5988104096891673,False
+254,"We need managers who listen as soon as possible, also shorter commute",management,management,0.353432984039494,True
+47,We need understaffed and maybe more breaks,workload,workload,0.7823022131888951,False
+370,Definitely mentoring please,training,training,0.6361086141628561,False
+172,"Honestly, more people on the team to be honest",workload,workload,0.8567172259112482,False
+158,I think better salary and maybe more breaks,pay,pay,0.53938007631069,False
+167,"work from home two days would help a bit, but mostly for me it would be career development and maybe more breaks",training,flexibility,0.28997681833675176,True
+91,For me it would be a faster laptop this year,tools,workload,0.4317384612864896,True
+242,"For me it would be fair wages and maybe more breaks, also courses for new skills",pay,pay,0.2661423561703075,True
+319,more people on the team please,workload,workload,0.8993392540108546,False
+217,We need bonus system,pay,pay,0.7561290385883819,False
+14,"Honestly, understaffed please",workload,workload,0.7908682399022998,False
+206,"transparent decisions would help a bit, but mostly understaffed",workload,management,0.6073113888240255,False
+395,"mentoring would help a bit, but mostly honestly, clearer communication from managers please, also more training",management,management,0.628513104104304,False
+192,"less micromanagement would help a bit, but mostly we need work from home two days this year",flexibility,management,0.46593519201652195,True
+33,For me it would be modern equipment please,tools,workload,0.3312896520886974,True
+48,impossible deadlines to be honest,workload,workload,0.7363821978123659,False
+69,I think too much work please,workload,workload,0.801972334576861,False
+54,For me it would be a working VPN,tools,tools,0.38111348824026947,True
+112,Definitely impossible deadlines and maybe more breaks,workload,workload,0.7890114051853399,False
+149,"too much work as soon as possible, also modern equipment",workload,workload,0.7139377923501594,False
+176,systems that do not crash to be honest,tools,tools,0.426656628459322,True
+352,pay rise and maybe more breaks,pay,pay,0.6234027958919528,False
+241,We need understaffed and maybe more breaks,workload,workload,0.7823022131888951,False
+29,constant overtime and maybe more breaks,workload,workload,0.7700359608688945,False
+230,For me it would be clearer communication from managers this year,management,management,0.7229608581583327,False
+111,We need fair wages as soon as possible,pay,pay,0.6681149511671949,False
+331,I think pay rise please,pay,pay,0.9027287790659895,False
+399,For me it would be feedback from my boss please,management,management,0.7599756044701013,False
+357,"pay that matches inflation would help a bit, but mostly i think too much work and maybe more breaks",workload,workload,0.4604470416112933,True
+51,For me it would be less micromanagement this year,management,management,0.3326238638111506,True
+166,"Honestly, impossible deadlines and maybe more breaks",workload,workload,0.8063887803005614,False
+223,We need pay that matches inflation this year,pay,pay,0.9125364939546424,False
+392,"more people on the team would help a bit, but mostly we need feedback from my boss please, also impossible deadlines",management,workload,0.6728484300674696,False
+18,better software this year,tools,tools,0.413076800678398,True
+174,For me it would be feedback from my boss as soon as possible,management,management,0.5494836706748795,False
+346,"courses for new skills would help a bit, but mostly i think better software, also learning budget",tools,flexibility,0.24648237535911122,True
+77,"Honestly, better software",tools,tools,0.6879422255383066,False
+118,Definitely flexible hours please,flexibility,flexibility,0.7672083086709529,False
+368,"Honestly, a working VPN this year",tools,tools,0.3600661648669225,True
+137,We need more people on the team please,workload,workload,0.894128926228672,False
+390,We need more people on the team as soon as possible,workload,workload,0.9136128251253266,False
+318,For me it would be hybrid schedule this year,flexibility,flexibility,0.7131491016365682,False
+289,I think fair wages to be honest,pay,pay,0.7257049827807899,False
+354,"shorter commute would help a bit, but mostly definitely managers who listen to be honest, also remote work",management,flexibility,0.5047311945886224,False
+79,Definitely better salary to be honest,pay,pay,0.8316585499760806,False
+26,"feedback from my boss would help a bit, but mostly for me it would be understaffed and maybe more breaks, also less micromanagement",workload,management,0.6210457207389216,False
+306,For me it would be better salary please,pay,pay,0.5374765279817879,False
+200,"Honestly, better salary please",pay,pay,0.7572568354846883,False
+377,"better salary, also impossible deadlines",pay,pay,0.5788035274338423,False
+195,I think clearer communication from managers as soon as possible,management,management,0.7125732221715334,False
+288,"career development would help a bit, but mostly i think understaffed as soon as possible",workload,workload,0.6266543090411208,False
+136,Definitely managers who listen as soon as possible,management,management,0.4693981909218946,True
+129,"I think bonus system this year, also mentoring",pay,pay,0.7352064069773491,False
+7,"Honestly, more people on the team this year",workload,workload,0.891292847047692,False
+122,Definitely flexible hours this year,flexibility,flexibility,0.7339481929348122,False
+212,Definitely shorter commute to be honest,flexibility,flexibility,0.6541902755407715,False
+37,constant overtime to be honest,workload,workload,0.6450682096423939,False
+12,I think clearer communication from managers to be honest,management,management,0.8042551462360833,False
+58,more people on the team,workload,workload,0.9316616778941679,False
+367,We need too much work to be honest,workload,workload,0.7568963667429007,False
+170,work from home two days please,flexibility,flexibility,0.6485701562065044,False
+134,I think more training as soon as possible,training,workload,0.39421346060560775,True
+345,"learning budget would help a bit, but mostly definitely systems that do not crash and maybe more breaks",tools,tools,0.2999260436631536,True
+277,"Honestly, courses for new skills and maybe more breaks",training,management,0.3494015684888525,True
+20,For me it would be career development please,training,workload,0.3552837861518901,True
+153,"hybrid schedule would help a bit, but mostly better salary and maybe more breaks, also shorter commute",pay,flexibility,0.5077455152932537,False
+253,We need pay that matches inflation and maybe more breaks,pay,pay,0.8334404586547072,False
+66,"managers who listen would help a bit, but mostly i think constant overtime this year, also clearer communication from managers",workload,management,0.8130092119264788,False
+249,For me it would be better software,tools,tools,0.5463555996749232,False
+199,"feedback from my boss would help a bit, but mostly systems that do not crash and maybe more breaks",tools,management,0.5958424455058364,False
+178,Definitely fair wages as soon as possible,pay,pay,0.7830013034870272,False

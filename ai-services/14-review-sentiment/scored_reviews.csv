@@ -1,0 +1,1201 @@
+review,sentiment,pred,aspects
+broke after a week,neutral,negative,['quality']
+"arrived quickly, but too expensive",positive,positive,"['price', 'delivery']"
+fast delivery,positive,positive,['delivery']
+shipping took forever,positive,negative,['delivery']
+"arrived late, but helpful support team",negative,negative,"['delivery', 'service']"
+friendly staff,neutral,positive,['service']
+excellent quality material,positive,positive,['quality']
+"sturdy and well made, but too expensive",positive,positive,"['price', 'quality']"
+shipping took forever,negative,negative,['delivery']
+"shipping took forever, but great value",negative,negative,"['price', 'delivery']"
+shipping took forever,negative,negative,['delivery']
+ordered the blue one,neutral,neutral,[]
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+excellent quality material,positive,positive,['quality']
+"sturdy and well made, but too expensive",positive,positive,"['price', 'quality']"
+sturdy and well made,positive,positive,['quality']
+"cheap material, poor quality, but fast delivery",negative,negative,"['price', 'delivery', 'quality']"
+excellent quality material,positive,positive,['quality']
+great value,positive,positive,['price']
+it is okay I guess,neutral,neutral,[]
+fine for the price,neutral,neutral,['price']
+"not worth the price, but sturdy and well made",negative,negative,"['price', 'quality']"
+excellent quality material,positive,positive,['quality']
+not worth the price,negative,negative,['price']
+"fair price, but broke after a week",positive,positive,"['price', 'quality']"
+ordered the blue one,neutral,neutral,[]
+support never replied,negative,negative,['service']
+excellent quality material,positive,positive,['quality']
+"not worth the price, but helpful support team",negative,negative,"['price', 'service']"
+fair price,positive,positive,['price']
+arrived quickly,positive,positive,['delivery']
+support never replied,negative,negative,['service']
+arrived late,negative,negative,['delivery']
+shipping took forever,positive,negative,['delivery']
+sturdy and well made,negative,positive,['quality']
+shipping took forever,negative,negative,['delivery']
+shipping took forever,negative,negative,['delivery']
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+ordered the blue one,neutral,neutral,[]
+"arrived quickly, but too expensive",positive,positive,"['price', 'delivery']"
+"sturdy and well made, but too expensive",positive,positive,"['price', 'quality']"
+arrived late,negative,negative,['delivery']
+"friendly staff, but not worth the price",positive,positive,"['price', 'service']"
+fast delivery,positive,positive,['delivery']
+"great value, but arrived late",positive,positive,"['price', 'delivery']"
+"support never replied, but sturdy and well made",negative,negative,"['quality', 'service']"
+friendly staff,positive,positive,['service']
+"sturdy and well made, but arrived late",positive,positive,"['delivery', 'quality']"
+fast delivery,positive,positive,['delivery']
+it is okay I guess,neutral,neutral,[]
+great value,positive,positive,['price']
+"excellent quality material, but shipping took forever",positive,positive,"['delivery', 'quality']"
+arrived quickly,positive,positive,['delivery']
+"excellent quality material, but not worth the price",positive,positive,"['price', 'quality']"
+"fast delivery, but refund was refused",positive,positive,"['delivery', 'service']"
+excellent quality material,positive,positive,['quality']
+too expensive,negative,negative,['price']
+excellent quality material,positive,positive,['quality']
+fast delivery,positive,positive,['delivery']
+broke after a week,negative,negative,['quality']
+friendly staff,positive,positive,['service']
+excellent quality material,positive,positive,['quality']
+"sturdy and well made, but too expensive",positive,positive,"['price', 'quality']"
+sturdy and well made,positive,positive,['quality']
+too expensive,negative,negative,['price']
+"great value, but shipping took forever",positive,positive,"['price', 'delivery']"
+"sturdy and well made, but arrived late",neutral,positive,"['delivery', 'quality']"
+not worth the price,negative,negative,['price']
+excellent quality material,positive,positive,['quality']
+broke after a week,negative,negative,['quality']
+bought it for the kitchen,neutral,neutral,[]
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+"arrived quickly, but broke after a week",positive,positive,"['delivery', 'quality']"
+friendly staff,positive,positive,['service']
+support never replied,negative,negative,['service']
+"cheap material, poor quality, but fast delivery",negative,negative,"['price', 'delivery', 'quality']"
+"cheap material, poor quality, but fair price",negative,negative,"['price', 'quality']"
+fair price,positive,positive,['price']
+"arrived quickly, but too expensive",positive,positive,"['price', 'delivery']"
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+fast delivery,positive,positive,['delivery']
+refund was refused,negative,negative,['service']
+bought it for the kitchen,neutral,neutral,[]
+excellent quality material,positive,positive,['quality']
+fair price,positive,positive,['price']
+"arrived late, but fair price",negative,negative,"['price', 'delivery']"
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+arrived quickly,positive,positive,['delivery']
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+arrived quickly,positive,positive,['delivery']
+"broke after a week, but great value",negative,negative,"['price', 'quality']"
+it is okay I guess,neutral,neutral,[]
+shipping took forever,negative,negative,['delivery']
+fair price,positive,positive,['price']
+fine for the price,neutral,neutral,['price']
+it is okay I guess,neutral,neutral,[]
+"great value, but cheap material, poor quality",positive,positive,"['price', 'quality']"
+"arrived quickly, but cheap material, poor quality",positive,positive,"['price', 'delivery', 'quality']"
+sturdy and well made,positive,positive,['quality']
+not worth the price,negative,negative,['price']
+shipping took forever,positive,negative,['delivery']
+friendly staff,positive,positive,['service']
+excellent quality material,positive,positive,['quality']
+"friendly staff, but not worth the price",positive,positive,"['price', 'service']"
+it is a lamp,neutral,neutral,[]
+shipping took forever,negative,negative,['delivery']
+friendly staff,positive,positive,['service']
+helpful support team,negative,positive,['service']
+fair price,positive,positive,['price']
+sturdy and well made,positive,positive,['quality']
+broke after a week,negative,negative,['quality']
+arrived late,negative,negative,['delivery']
+fair price,positive,positive,['price']
+"sturdy and well made, but not worth the price",positive,positive,"['price', 'quality']"
+fast delivery,positive,positive,['delivery']
+arrived quickly,positive,positive,['delivery']
+friendly staff,positive,positive,['service']
+"sturdy and well made, but too expensive",positive,positive,"['price', 'quality']"
+great value,positive,positive,['price']
+great value,positive,positive,['price']
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+broke after a week,negative,negative,['quality']
+friendly staff,positive,positive,['service']
+it is okay I guess,neutral,neutral,[]
+arrived quickly,positive,positive,['delivery']
+sturdy and well made,positive,positive,['quality']
+too expensive,positive,negative,['price']
+helpful support team,positive,positive,['service']
+"fair price, but refund was refused",positive,positive,"['price', 'service']"
+sturdy and well made,positive,positive,['quality']
+sturdy and well made,positive,positive,['quality']
+arrived quickly,positive,positive,['delivery']
+broke after a week,positive,negative,['quality']
+it is okay I guess,negative,neutral,[]
+"arrived late, but fair price",positive,negative,"['price', 'delivery']"
+great value,positive,positive,['price']
+friendly staff,positive,positive,['service']
+support never replied,negative,negative,['service']
+it is okay I guess,neutral,neutral,[]
+"arrived quickly, but refund was refused",positive,positive,"['delivery', 'service']"
+shipping took forever,negative,negative,['delivery']
+sturdy and well made,positive,positive,['quality']
+great value,positive,positive,['price']
+"too expensive, but arrived quickly",negative,negative,"['price', 'delivery']"
+excellent quality material,positive,positive,['quality']
+sturdy and well made,positive,positive,['quality']
+"great value, but shipping took forever",positive,positive,"['price', 'delivery']"
+it is a lamp,neutral,neutral,[]
+broke after a week,negative,negative,['quality']
+ordered the blue one,neutral,neutral,[]
+fair price,positive,positive,['price']
+"sturdy and well made, but shipping took forever",positive,positive,"['delivery', 'quality']"
+fast delivery,positive,positive,['delivery']
+sturdy and well made,positive,positive,['quality']
+too expensive,negative,negative,['price']
+"broke after a week, but great value",negative,negative,"['price', 'quality']"
+great value,positive,positive,['price']
+arrived quickly,positive,positive,['delivery']
+"arrived quickly, but too expensive",positive,positive,"['price', 'delivery']"
+sturdy and well made,positive,positive,['quality']
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+too expensive,negative,negative,['price']
+excellent quality material,positive,positive,['quality']
+refund was refused,negative,negative,['service']
+"fast delivery, but too expensive",positive,positive,"['price', 'delivery']"
+arrived late,neutral,negative,['delivery']
+not worth the price,negative,negative,['price']
+sturdy and well made,positive,positive,['quality']
+refund was refused,negative,negative,['service']
+"not worth the price, but helpful support team",negative,negative,"['price', 'service']"
+arrived quickly,positive,positive,['delivery']
+broke after a week,neutral,negative,['quality']
+support never replied,negative,negative,['service']
+sturdy and well made,positive,positive,['quality']
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+"shipping took forever, but fair price",negative,negative,"['price', 'delivery']"
+fine for the price,neutral,neutral,['price']
+fast delivery,positive,positive,['delivery']
+ordered the blue one,positive,neutral,[]
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+it is a lamp,neutral,neutral,[]
+great value,positive,positive,['price']
+fast delivery,positive,positive,['delivery']
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+"not worth the price, but fast delivery",neutral,negative,"['price', 'delivery']"
+great value,positive,positive,['price']
+excellent quality material,positive,positive,['quality']
+it is okay I guess,neutral,neutral,[]
+"excellent quality material, but arrived late",positive,positive,"['delivery', 'quality']"
+excellent quality material,positive,positive,['quality']
+shipping took forever,negative,negative,['delivery']
+fast delivery,positive,positive,['delivery']
+excellent quality material,positive,positive,['quality']
+"too expensive, but fast delivery",negative,negative,"['price', 'delivery']"
+"arrived quickly, but cheap material, poor quality",positive,positive,"['price', 'delivery', 'quality']"
+excellent quality material,positive,positive,['quality']
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+"excellent quality material, but too expensive",positive,positive,"['price', 'quality']"
+excellent quality material,positive,positive,['quality']
+not worth the price,negative,negative,['price']
+fine for the price,neutral,neutral,['price']
+friendly staff,positive,positive,['service']
+"friendly staff, but too expensive",positive,positive,"['price', 'service']"
+fair price,positive,positive,['price']
+broke after a week,negative,negative,['quality']
+friendly staff,positive,positive,['service']
+friendly staff,positive,positive,['service']
+broke after a week,negative,negative,['quality']
+excellent quality material,neutral,positive,['quality']
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+great value,positive,positive,['price']
+it is okay I guess,neutral,neutral,[]
+"excellent quality material, but too expensive",positive,positive,"['price', 'quality']"
+"refund was refused, but sturdy and well made",negative,negative,"['quality', 'service']"
+support never replied,negative,negative,['service']
+"arrived quickly, but refund was refused",positive,positive,"['delivery', 'service']"
+it is okay I guess,positive,neutral,[]
+helpful support team,positive,positive,['service']
+"excellent quality material, but too expensive",positive,positive,"['price', 'quality']"
+friendly staff,positive,positive,['service']
+shipping took forever,negative,negative,['delivery']
+broke after a week,positive,negative,['quality']
+it is a lamp,neutral,neutral,[]
+fine for the price,neutral,neutral,['price']
+"great value, but arrived late",positive,positive,"['price', 'delivery']"
+excellent quality material,positive,positive,['quality']
+fair price,positive,positive,['price']
+"broke after a week, but fair price",negative,negative,"['price', 'quality']"
+sturdy and well made,positive,positive,['quality']
+refund was refused,negative,negative,['service']
+arrived quickly,positive,positive,['delivery']
+"arrived late, but helpful support team",negative,negative,"['delivery', 'service']"
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+fair price,positive,positive,['price']
+bought it for the kitchen,neutral,neutral,[]
+"sturdy and well made, but arrived late",positive,positive,"['delivery', 'quality']"
+it is okay I guess,neutral,neutral,[]
+"sturdy and well made, but support never replied",positive,positive,"['quality', 'service']"
+ordered the blue one,neutral,neutral,[]
+"sturdy and well made, but arrived late",positive,positive,"['delivery', 'quality']"
+"great value, but arrived late",positive,positive,"['price', 'delivery']"
+excellent quality material,neutral,positive,['quality']
+it is okay I guess,positive,neutral,[]
+broke after a week,negative,negative,['quality']
+"delivery was normal, quality is average",positive,neutral,"['delivery', 'quality']"
+refund was refused,negative,negative,['service']
+it is okay I guess,neutral,neutral,[]
+excellent quality material,positive,positive,['quality']
+fair price,positive,positive,['price']
+great value,positive,positive,['price']
+"arrived late, but fair price",negative,negative,"['price', 'delivery']"
+excellent quality material,positive,positive,['quality']
+arrived quickly,positive,positive,['delivery']
+"fast delivery, but not worth the price",positive,positive,"['price', 'delivery']"
+"arrived quickly, but support never replied",positive,positive,"['delivery', 'service']"
+excellent quality material,positive,positive,['quality']
+excellent quality material,positive,positive,['quality']
+arrived quickly,positive,positive,['delivery']
+helpful support team,positive,positive,['service']
+"arrived quickly, but support never replied",positive,positive,"['delivery', 'service']"
+fair price,negative,positive,['price']
+it is okay I guess,neutral,neutral,[]
+"excellent quality material, but refund was refused",positive,positive,"['quality', 'service']"
+"arrived quickly, but too expensive",positive,positive,"['price', 'delivery']"
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+it is okay I guess,neutral,neutral,[]
+"delivery was normal, quality is average",positive,neutral,"['delivery', 'quality']"
+ordered the blue one,neutral,neutral,[]
+it is a lamp,neutral,neutral,[]
+arrived late,negative,negative,['delivery']
+"excellent quality material, but not worth the price",positive,positive,"['price', 'quality']"
+"fair price, but arrived late",positive,positive,"['price', 'delivery']"
+ordered the blue one,neutral,neutral,[]
+fast delivery,positive,positive,['delivery']
+sturdy and well made,positive,positive,['quality']
+excellent quality material,positive,positive,['quality']
+sturdy and well made,positive,positive,['quality']
+sturdy and well made,positive,positive,['quality']
+it is okay I guess,neutral,neutral,[]
+too expensive,negative,negative,['price']
+fast delivery,positive,positive,['delivery']
+great value,positive,positive,['price']
+not worth the price,negative,negative,['price']
+"delivery was normal, quality is average",negative,neutral,"['delivery', 'quality']"
+fast delivery,positive,positive,['delivery']
+friendly staff,positive,positive,['service']
+"shipping took forever, but helpful support team",negative,negative,"['delivery', 'service']"
+fast delivery,positive,positive,['delivery']
+"not worth the price, but friendly staff",negative,negative,"['price', 'service']"
+"support never replied, but fair price",negative,negative,"['price', 'service']"
+fine for the price,neutral,neutral,['price']
+excellent quality material,positive,positive,['quality']
+"cheap material, poor quality, but fast delivery",negative,negative,"['price', 'delivery', 'quality']"
+refund was refused,negative,negative,['service']
+"fair price, but cheap material, poor quality",positive,positive,"['price', 'quality']"
+arrived quickly,positive,positive,['delivery']
+excellent quality material,positive,positive,['quality']
+fine for the price,neutral,neutral,['price']
+shipping took forever,negative,negative,['delivery']
+"arrived late, but friendly staff",negative,negative,"['delivery', 'service']"
+too expensive,negative,negative,['price']
+not worth the price,negative,negative,['price']
+arrived late,negative,negative,['delivery']
+sturdy and well made,positive,positive,['quality']
+"sturdy and well made, but support never replied",positive,positive,"['quality', 'service']"
+support never replied,negative,negative,['service']
+fast delivery,positive,positive,['delivery']
+shipping took forever,positive,negative,['delivery']
+arrived late,negative,negative,['delivery']
+fast delivery,positive,positive,['delivery']
+shipping took forever,negative,negative,['delivery']
+sturdy and well made,positive,positive,['quality']
+helpful support team,positive,positive,['service']
+ordered the blue one,neutral,neutral,[]
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+sturdy and well made,neutral,positive,['quality']
+excellent quality material,positive,positive,['quality']
+fast delivery,positive,positive,['delivery']
+helpful support team,positive,positive,['service']
+fair price,positive,positive,['price']
+ordered the blue one,neutral,neutral,[]
+helpful support team,positive,positive,['service']
+"arrived late, but fair price",negative,negative,"['price', 'delivery']"
+bought it for the kitchen,neutral,neutral,[]
+arrived quickly,positive,positive,['delivery']
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+fast delivery,positive,positive,['delivery']
+fine for the price,neutral,neutral,['price']
+excellent quality material,positive,positive,['quality']
+arrived late,negative,negative,['delivery']
+"cheap material, poor quality, but great value",negative,negative,"['price', 'quality']"
+bought it for the kitchen,positive,neutral,[]
+"fast delivery, but broke after a week",positive,positive,"['delivery', 'quality']"
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+excellent quality material,positive,positive,['quality']
+excellent quality material,positive,positive,['quality']
+refund was refused,negative,negative,['service']
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+excellent quality material,positive,positive,['quality']
+bought it for the kitchen,neutral,neutral,[]
+friendly staff,positive,positive,['service']
+fair price,positive,positive,['price']
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+fair price,positive,positive,['price']
+great value,positive,positive,['price']
+arrived quickly,positive,positive,['delivery']
+support never replied,negative,negative,['service']
+refund was refused,negative,negative,['service']
+not worth the price,negative,negative,['price']
+fair price,positive,positive,['price']
+"fair price, but arrived late",positive,positive,"['price', 'delivery']"
+fair price,negative,positive,['price']
+broke after a week,negative,negative,['quality']
+excellent quality material,positive,positive,['quality']
+shipping took forever,negative,negative,['delivery']
+friendly staff,positive,positive,['service']
+bought it for the kitchen,neutral,neutral,[]
+support never replied,negative,negative,['service']
+broke after a week,negative,negative,['quality']
+it is a lamp,neutral,neutral,[]
+arrived quickly,positive,positive,['delivery']
+great value,positive,positive,['price']
+arrived late,negative,negative,['delivery']
+too expensive,negative,negative,['price']
+"arrived late, but sturdy and well made",negative,negative,"['delivery', 'quality']"
+excellent quality material,positive,positive,['quality']
+sturdy and well made,positive,positive,['quality']
+arrived quickly,positive,positive,['delivery']
+fair price,positive,positive,['price']
+arrived quickly,positive,positive,['delivery']
+friendly staff,positive,positive,['service']
+arrived quickly,positive,positive,['delivery']
+sturdy and well made,positive,positive,['quality']
+excellent quality material,positive,positive,['quality']
+sturdy and well made,positive,positive,['quality']
+friendly staff,positive,positive,['service']
+"fair price, but broke after a week",positive,positive,"['price', 'quality']"
+friendly staff,positive,positive,['service']
+it is a lamp,neutral,neutral,[]
+"fast delivery, but not worth the price",positive,positive,"['price', 'delivery']"
+great value,negative,positive,['price']
+fast delivery,positive,positive,['delivery']
+it is okay I guess,neutral,neutral,[]
+excellent quality material,positive,positive,['quality']
+bought it for the kitchen,neutral,neutral,[]
+"excellent quality material, but too expensive",neutral,positive,"['price', 'quality']"
+it is okay I guess,neutral,neutral,[]
+"excellent quality material, but refund was refused",positive,positive,"['quality', 'service']"
+helpful support team,positive,positive,['service']
+fast delivery,positive,positive,['delivery']
+sturdy and well made,positive,positive,['quality']
+"friendly staff, but shipping took forever",positive,positive,"['delivery', 'service']"
+too expensive,negative,negative,['price']
+it is a lamp,neutral,neutral,[]
+"excellent quality material, but not worth the price",positive,positive,"['price', 'quality']"
+fast delivery,negative,positive,['delivery']
+"support never replied, but arrived quickly",negative,negative,"['delivery', 'service']"
+bought it for the kitchen,neutral,neutral,[]
+"arrived quickly, but not worth the price",positive,positive,"['price', 'delivery']"
+"fast delivery, but broke after a week",positive,positive,"['delivery', 'quality']"
+arrived late,negative,negative,['delivery']
+"broke after a week, but fair price",negative,negative,"['price', 'quality']"
+bought it for the kitchen,neutral,neutral,[]
+"arrived quickly, but broke after a week",positive,positive,"['delivery', 'quality']"
+"great value, but shipping took forever",positive,positive,"['price', 'delivery']"
+"fair price, but arrived late",negative,positive,"['price', 'delivery']"
+fair price,positive,positive,['price']
+"cheap material, poor quality, but fast delivery",negative,negative,"['price', 'delivery', 'quality']"
+fair price,positive,positive,['price']
+ordered the blue one,neutral,neutral,[]
+fine for the price,neutral,neutral,['price']
+fine for the price,neutral,neutral,['price']
+fast delivery,positive,positive,['delivery']
+fine for the price,neutral,neutral,['price']
+"fast delivery, but too expensive",positive,positive,"['price', 'delivery']"
+excellent quality material,positive,positive,['quality']
+excellent quality material,positive,positive,['quality']
+arrived late,negative,negative,['delivery']
+helpful support team,positive,positive,['service']
+excellent quality material,positive,positive,['quality']
+great value,positive,positive,['price']
+support never replied,negative,negative,['service']
+excellent quality material,positive,positive,['quality']
+fair price,positive,positive,['price']
+"fair price, but cheap material, poor quality",positive,positive,"['price', 'quality']"
+"sturdy and well made, but refund was refused",negative,positive,"['quality', 'service']"
+sturdy and well made,negative,positive,['quality']
+arrived late,negative,negative,['delivery']
+support never replied,positive,negative,['service']
+shipping took forever,negative,negative,['delivery']
+support never replied,negative,negative,['service']
+"helpful support team, but arrived late",positive,positive,"['delivery', 'service']"
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+fast delivery,positive,positive,['delivery']
+too expensive,negative,negative,['price']
+excellent quality material,positive,positive,['quality']
+shipping took forever,negative,negative,['delivery']
+excellent quality material,positive,positive,['quality']
+"excellent quality material, but arrived late",positive,positive,"['delivery', 'quality']"
+"too expensive, but sturdy and well made",negative,negative,"['price', 'quality']"
+too expensive,negative,negative,['price']
+sturdy and well made,positive,positive,['quality']
+"not worth the price, but friendly staff",negative,negative,"['price', 'service']"
+sturdy and well made,positive,positive,['quality']
+ordered the blue one,neutral,neutral,[]
+broke after a week,positive,negative,['quality']
+fast delivery,positive,positive,['delivery']
+arrived quickly,positive,positive,['delivery']
+it is a lamp,neutral,neutral,[]
+not worth the price,negative,negative,['price']
+fast delivery,positive,positive,['delivery']
+"broke after a week, but fair price",positive,negative,"['price', 'quality']"
+excellent quality material,positive,positive,['quality']
+too expensive,negative,negative,['price']
+fast delivery,positive,positive,['delivery']
+"friendly staff, but broke after a week",positive,positive,"['quality', 'service']"
+fair price,positive,positive,['price']
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+"excellent quality material, but arrived late",positive,positive,"['delivery', 'quality']"
+excellent quality material,positive,positive,['quality']
+arrived late,negative,negative,['delivery']
+excellent quality material,positive,positive,['quality']
+sturdy and well made,positive,positive,['quality']
+"friendly staff, but broke after a week",positive,positive,"['quality', 'service']"
+broke after a week,negative,negative,['quality']
+great value,positive,positive,['price']
+fast delivery,positive,positive,['delivery']
+ordered the blue one,neutral,neutral,[]
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+excellent quality material,positive,positive,['quality']
+broke after a week,negative,negative,['quality']
+too expensive,negative,negative,['price']
+"broke after a week, but arrived quickly",negative,positive,"['delivery', 'quality']"
+arrived quickly,positive,positive,['delivery']
+fast delivery,positive,positive,['delivery']
+excellent quality material,positive,positive,['quality']
+great value,positive,positive,['price']
+broke after a week,negative,negative,['quality']
+"cheap material, poor quality, but friendly staff",negative,negative,"['price', 'quality', 'service']"
+"cheap material, poor quality, but fast delivery",negative,negative,"['price', 'delivery', 'quality']"
+"support never replied, but arrived quickly",negative,negative,"['delivery', 'service']"
+excellent quality material,positive,positive,['quality']
+fast delivery,positive,positive,['delivery']
+support never replied,negative,negative,['service']
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+"sturdy and well made, but refund was refused",positive,positive,"['quality', 'service']"
+shipping took forever,negative,negative,['delivery']
+friendly staff,positive,positive,['service']
+great value,positive,positive,['price']
+broke after a week,negative,negative,['quality']
+arrived quickly,positive,positive,['delivery']
+fast delivery,negative,positive,['delivery']
+shipping took forever,negative,negative,['delivery']
+"excellent quality material, but support never replied",positive,positive,"['quality', 'service']"
+"friendly staff, but arrived late",positive,positive,"['delivery', 'service']"
+fair price,positive,positive,['price']
+"arrived quickly, but too expensive",positive,positive,"['price', 'delivery']"
+it is a lamp,neutral,neutral,[]
+"support never replied, but fair price",negative,negative,"['price', 'service']"
+great value,positive,positive,['price']
+helpful support team,positive,positive,['service']
+"excellent quality material, but shipping took forever",positive,positive,"['delivery', 'quality']"
+great value,neutral,positive,['price']
+broke after a week,negative,negative,['quality']
+broke after a week,negative,negative,['quality']
+support never replied,negative,negative,['service']
+excellent quality material,positive,positive,['quality']
+fast delivery,positive,positive,['delivery']
+"excellent quality material, but support never replied",positive,positive,"['quality', 'service']"
+support never replied,negative,negative,['service']
+arrived late,negative,negative,['delivery']
+"shipping took forever, but friendly staff",negative,negative,"['delivery', 'service']"
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+sturdy and well made,positive,positive,['quality']
+arrived late,negative,negative,['delivery']
+"broke after a week, but arrived quickly",neutral,positive,"['delivery', 'quality']"
+"arrived late, but great value",negative,negative,"['price', 'delivery']"
+bought it for the kitchen,neutral,neutral,[]
+"shipping took forever, but great value",negative,negative,"['price', 'delivery']"
+helpful support team,positive,positive,['service']
+fair price,positive,positive,['price']
+it is okay I guess,neutral,neutral,[]
+"helpful support team, but broke after a week",positive,positive,"['quality', 'service']"
+"fast delivery, but support never replied",positive,positive,"['delivery', 'service']"
+shipping took forever,negative,negative,['delivery']
+"helpful support team, but shipping took forever",positive,positive,"['delivery', 'service']"
+it is okay I guess,neutral,neutral,[]
+excellent quality material,positive,positive,['quality']
+arrived late,negative,negative,['delivery']
+"helpful support team, but not worth the price",positive,positive,"['price', 'service']"
+"not worth the price, but sturdy and well made",negative,negative,"['price', 'quality']"
+shipping took forever,negative,negative,['delivery']
+broke after a week,negative,negative,['quality']
+refund was refused,negative,negative,['service']
+fine for the price,neutral,neutral,['price']
+support never replied,negative,negative,['service']
+"arrived late, but sturdy and well made",negative,negative,"['delivery', 'quality']"
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+excellent quality material,positive,positive,['quality']
+not worth the price,negative,negative,['price']
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+fair price,positive,positive,['price']
+"refund was refused, but great value",negative,negative,"['price', 'service']"
+shipping took forever,negative,negative,['delivery']
+"arrived quickly, but refund was refused",positive,positive,"['delivery', 'service']"
+"cheap material, poor quality, but helpful support team",negative,negative,"['price', 'quality', 'service']"
+excellent quality material,positive,positive,['quality']
+shipping took forever,negative,negative,['delivery']
+fair price,positive,positive,['price']
+fast delivery,positive,positive,['delivery']
+excellent quality material,positive,positive,['quality']
+fine for the price,neutral,neutral,['price']
+great value,positive,positive,['price']
+it is a lamp,neutral,neutral,[]
+not worth the price,negative,negative,['price']
+"fair price, but support never replied",positive,positive,"['price', 'service']"
+not worth the price,neutral,negative,['price']
+excellent quality material,positive,positive,['quality']
+great value,neutral,positive,['price']
+"fair price, but cheap material, poor quality",positive,positive,"['price', 'quality']"
+fine for the price,neutral,neutral,['price']
+"great value, but cheap material, poor quality",positive,positive,"['price', 'quality']"
+broke after a week,negative,negative,['quality']
+excellent quality material,positive,positive,['quality']
+"excellent quality material, but not worth the price",positive,positive,"['price', 'quality']"
+excellent quality material,neutral,positive,['quality']
+"cheap material, poor quality, but fast delivery",negative,negative,"['price', 'delivery', 'quality']"
+"too expensive, but friendly staff",negative,negative,"['price', 'service']"
+"friendly staff, but shipping took forever",positive,positive,"['delivery', 'service']"
+excellent quality material,positive,positive,['quality']
+sturdy and well made,positive,positive,['quality']
+support never replied,negative,negative,['service']
+"broke after a week, but fast delivery",negative,negative,"['delivery', 'quality']"
+arrived late,negative,negative,['delivery']
+great value,positive,positive,['price']
+arrived quickly,negative,positive,['delivery']
+helpful support team,positive,positive,['service']
+fast delivery,positive,positive,['delivery']
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+friendly staff,positive,positive,['service']
+sturdy and well made,positive,positive,['quality']
+broke after a week,negative,negative,['quality']
+arrived quickly,positive,positive,['delivery']
+arrived late,negative,negative,['delivery']
+great value,positive,positive,['price']
+arrived quickly,positive,positive,['delivery']
+broke after a week,negative,negative,['quality']
+sturdy and well made,positive,positive,['quality']
+arrived late,neutral,negative,['delivery']
+ordered the blue one,neutral,neutral,[]
+great value,positive,positive,['price']
+sturdy and well made,positive,positive,['quality']
+friendly staff,positive,positive,['service']
+fast delivery,positive,positive,['delivery']
+support never replied,negative,negative,['service']
+it is okay I guess,neutral,neutral,[]
+arrived late,negative,negative,['delivery']
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+sturdy and well made,positive,positive,['quality']
+excellent quality material,positive,positive,['quality']
+arrived late,negative,negative,['delivery']
+"not worth the price, but fast delivery",negative,negative,"['price', 'delivery']"
+excellent quality material,positive,positive,['quality']
+it is a lamp,neutral,neutral,[]
+it is a lamp,neutral,neutral,[]
+sturdy and well made,positive,positive,['quality']
+"helpful support team, but arrived late",positive,positive,"['delivery', 'service']"
+too expensive,negative,negative,['price']
+sturdy and well made,positive,positive,['quality']
+refund was refused,negative,negative,['service']
+excellent quality material,positive,positive,['quality']
+"helpful support team, but shipping took forever",positive,positive,"['delivery', 'service']"
+"broke after a week, but fast delivery",positive,negative,"['delivery', 'quality']"
+excellent quality material,positive,positive,['quality']
+arrived late,neutral,negative,['delivery']
+shipping took forever,negative,negative,['delivery']
+great value,positive,positive,['price']
+fine for the price,neutral,neutral,['price']
+"excellent quality material, but shipping took forever",positive,positive,"['delivery', 'quality']"
+refund was refused,negative,negative,['service']
+sturdy and well made,positive,positive,['quality']
+it is okay I guess,positive,neutral,[]
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+it is okay I guess,neutral,neutral,[]
+"refund was refused, but fair price",negative,negative,"['price', 'service']"
+"sturdy and well made, but too expensive",neutral,positive,"['price', 'quality']"
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+fine for the price,neutral,neutral,['price']
+fast delivery,positive,positive,['delivery']
+"fair price, but shipping took forever",neutral,positive,"['price', 'delivery']"
+"excellent quality material, but refund was refused",positive,positive,"['quality', 'service']"
+"fast delivery, but cheap material, poor quality",positive,positive,"['price', 'delivery', 'quality']"
+fine for the price,neutral,neutral,['price']
+broke after a week,negative,negative,['quality']
+"helpful support team, but cheap material, poor quality",positive,positive,"['price', 'quality', 'service']"
+excellent quality material,positive,positive,['quality']
+"cheap material, poor quality, but arrived quickly",negative,negative,"['price', 'delivery', 'quality']"
+"fair price, but cheap material, poor quality",positive,positive,"['price', 'quality']"
+"cheap material, poor quality",positive,negative,"['price', 'quality']"
+"sturdy and well made, but arrived late",neutral,positive,"['delivery', 'quality']"
+"great value, but arrived late",positive,positive,"['price', 'delivery']"
+"shipping took forever, but great value",negative,negative,"['price', 'delivery']"
+fine for the price,neutral,neutral,['price']
+"shipping took forever, but helpful support team",negative,negative,"['delivery', 'service']"
+bought it for the kitchen,neutral,neutral,[]
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+it is a lamp,neutral,neutral,[]
+broke after a week,negative,negative,['quality']
+fast delivery,positive,positive,['delivery']
+"arrived quickly, but not worth the price",positive,positive,"['price', 'delivery']"
+support never replied,negative,negative,['service']
+"fair price, but shipping took forever",positive,positive,"['price', 'delivery']"
+"sturdy and well made, but refund was refused",positive,positive,"['quality', 'service']"
+it is a lamp,neutral,neutral,[]
+sturdy and well made,negative,positive,['quality']
+excellent quality material,positive,positive,['quality']
+arrived quickly,positive,positive,['delivery']
+support never replied,negative,negative,['service']
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+"sturdy and well made, but refund was refused",positive,positive,"['quality', 'service']"
+"shipping took forever, but great value",negative,negative,"['price', 'delivery']"
+arrived late,negative,negative,['delivery']
+broke after a week,negative,negative,['quality']
+fine for the price,neutral,neutral,['price']
+friendly staff,positive,positive,['service']
+friendly staff,positive,positive,['service']
+great value,positive,positive,['price']
+fast delivery,positive,positive,['delivery']
+fast delivery,positive,positive,['delivery']
+excellent quality material,positive,positive,['quality']
+excellent quality material,positive,positive,['quality']
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+"too expensive, but arrived quickly",negative,negative,"['price', 'delivery']"
+"sturdy and well made, but shipping took forever",positive,positive,"['delivery', 'quality']"
+ordered the blue one,neutral,neutral,[]
+excellent quality material,positive,positive,['quality']
+"sturdy and well made, but refund was refused",positive,positive,"['quality', 'service']"
+"arrived late, but sturdy and well made",negative,negative,"['delivery', 'quality']"
+"arrived quickly, but cheap material, poor quality",positive,positive,"['price', 'delivery', 'quality']"
+sturdy and well made,positive,positive,['quality']
+fair price,positive,positive,['price']
+helpful support team,positive,positive,['service']
+broke after a week,negative,negative,['quality']
+"fair price, but support never replied",positive,positive,"['price', 'service']"
+arrived late,negative,negative,['delivery']
+excellent quality material,positive,positive,['quality']
+ordered the blue one,neutral,neutral,[]
+shipping took forever,negative,negative,['delivery']
+ordered the blue one,neutral,neutral,[]
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+"not worth the price, but helpful support team",neutral,negative,"['price', 'service']"
+"arrived late, but excellent quality material",negative,negative,"['delivery', 'quality']"
+too expensive,negative,negative,['price']
+arrived late,negative,negative,['delivery']
+great value,positive,positive,['price']
+"excellent quality material, but arrived late",positive,positive,"['delivery', 'quality']"
+"sturdy and well made, but not worth the price",positive,positive,"['price', 'quality']"
+excellent quality material,positive,positive,['quality']
+excellent quality material,positive,positive,['quality']
+arrived quickly,positive,positive,['delivery']
+"friendly staff, but too expensive",positive,positive,"['price', 'service']"
+excellent quality material,positive,positive,['quality']
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+"broke after a week, but helpful support team",negative,negative,"['quality', 'service']"
+too expensive,negative,negative,['price']
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+"helpful support team, but too expensive",positive,positive,"['price', 'service']"
+arrived quickly,positive,positive,['delivery']
+"sturdy and well made, but not worth the price",positive,positive,"['price', 'quality']"
+broke after a week,negative,negative,['quality']
+sturdy and well made,positive,positive,['quality']
+"sturdy and well made, but arrived late",positive,positive,"['delivery', 'quality']"
+"not worth the price, but friendly staff",negative,negative,"['price', 'service']"
+"fair price, but cheap material, poor quality",positive,positive,"['price', 'quality']"
+arrived quickly,positive,positive,['delivery']
+"fair price, but support never replied",positive,positive,"['price', 'service']"
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+excellent quality material,positive,positive,['quality']
+arrived late,negative,negative,['delivery']
+friendly staff,positive,positive,['service']
+fast delivery,positive,positive,['delivery']
+fast delivery,positive,positive,['delivery']
+sturdy and well made,positive,positive,['quality']
+fast delivery,positive,positive,['delivery']
+"fair price, but refund was refused",positive,positive,"['price', 'service']"
+not worth the price,negative,negative,['price']
+excellent quality material,positive,positive,['quality']
+fast delivery,positive,positive,['delivery']
+refund was refused,negative,negative,['service']
+sturdy and well made,positive,positive,['quality']
+"too expensive, but friendly staff",negative,negative,"['price', 'service']"
+fair price,positive,positive,['price']
+refund was refused,negative,negative,['service']
+too expensive,negative,negative,['price']
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+excellent quality material,positive,positive,['quality']
+sturdy and well made,positive,positive,['quality']
+arrived late,negative,negative,['delivery']
+fast delivery,positive,positive,['delivery']
+it is a lamp,neutral,neutral,[]
+fast delivery,positive,positive,['delivery']
+"arrived quickly, but support never replied",positive,positive,"['delivery', 'service']"
+"broke after a week, but fair price",negative,negative,"['price', 'quality']"
+friendly staff,positive,positive,['service']
+great value,positive,positive,['price']
+sturdy and well made,neutral,positive,['quality']
+friendly staff,positive,positive,['service']
+shipping took forever,positive,negative,['delivery']
+"arrived quickly, but broke after a week",positive,positive,"['delivery', 'quality']"
+fair price,positive,positive,['price']
+broke after a week,negative,negative,['quality']
+"fast delivery, but broke after a week",positive,positive,"['delivery', 'quality']"
+helpful support team,positive,positive,['service']
+friendly staff,positive,positive,['service']
+"support never replied, but fast delivery",negative,negative,"['delivery', 'service']"
+arrived quickly,positive,positive,['delivery']
+not worth the price,negative,negative,['price']
+it is okay I guess,neutral,neutral,[]
+arrived late,negative,negative,['delivery']
+fine for the price,neutral,neutral,['price']
+sturdy and well made,positive,positive,['quality']
+arrived quickly,positive,positive,['delivery']
+fine for the price,neutral,neutral,['price']
+it is a lamp,neutral,neutral,[]
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+support never replied,negative,negative,['service']
+fair price,positive,positive,['price']
+friendly staff,positive,positive,['service']
+sturdy and well made,positive,positive,['quality']
+"fair price, but cheap material, poor quality",positive,positive,"['price', 'quality']"
+"not worth the price, but helpful support team",negative,negative,"['price', 'service']"
+helpful support team,positive,positive,['service']
+helpful support team,positive,positive,['service']
+excellent quality material,positive,positive,['quality']
+sturdy and well made,neutral,positive,['quality']
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+great value,positive,positive,['price']
+"broke after a week, but great value",negative,negative,"['price', 'quality']"
+"fast delivery, but cheap material, poor quality",positive,positive,"['price', 'delivery', 'quality']"
+excellent quality material,positive,positive,['quality']
+helpful support team,positive,positive,['service']
+"fast delivery, but refund was refused",positive,positive,"['delivery', 'service']"
+friendly staff,positive,positive,['service']
+"not worth the price, but sturdy and well made",negative,negative,"['price', 'quality']"
+excellent quality material,positive,positive,['quality']
+arrived late,neutral,negative,['delivery']
+fair price,positive,positive,['price']
+"helpful support team, but not worth the price",positive,positive,"['price', 'service']"
+fast delivery,positive,positive,['delivery']
+ordered the blue one,neutral,neutral,[]
+"helpful support team, but broke after a week",positive,positive,"['quality', 'service']"
+not worth the price,negative,negative,['price']
+fair price,positive,positive,['price']
+too expensive,negative,negative,['price']
+arrived quickly,positive,positive,['delivery']
+arrived quickly,positive,positive,['delivery']
+"excellent quality material, but arrived late",positive,positive,"['delivery', 'quality']"
+arrived quickly,positive,positive,['delivery']
+sturdy and well made,positive,positive,['quality']
+arrived quickly,positive,positive,['delivery']
+great value,positive,positive,['price']
+arrived quickly,positive,positive,['delivery']
+ordered the blue one,neutral,neutral,[]
+arrived quickly,positive,positive,['delivery']
+ordered the blue one,neutral,neutral,[]
+"arrived quickly, but refund was refused",positive,positive,"['delivery', 'service']"
+ordered the blue one,neutral,neutral,[]
+"cheap material, poor quality, but fast delivery",negative,negative,"['price', 'delivery', 'quality']"
+broke after a week,negative,negative,['quality']
+"excellent quality material, but not worth the price",positive,positive,"['price', 'quality']"
+fast delivery,positive,positive,['delivery']
+fine for the price,neutral,neutral,['price']
+excellent quality material,positive,positive,['quality']
+ordered the blue one,neutral,neutral,[]
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+shipping took forever,positive,negative,['delivery']
+"fair price, but broke after a week",positive,positive,"['price', 'quality']"
+"broke after a week, but friendly staff",negative,negative,"['quality', 'service']"
+broke after a week,negative,negative,['quality']
+fast delivery,positive,positive,['delivery']
+excellent quality material,positive,positive,['quality']
+"cheap material, poor quality, but fair price",negative,negative,"['price', 'quality']"
+it is okay I guess,neutral,neutral,[]
+excellent quality material,positive,positive,['quality']
+refund was refused,negative,negative,['service']
+arrived late,negative,negative,['delivery']
+"great value, but cheap material, poor quality",positive,positive,"['price', 'quality']"
+sturdy and well made,positive,positive,['quality']
+shipping took forever,negative,negative,['delivery']
+"fair price, but arrived late",neutral,positive,"['price', 'delivery']"
+bought it for the kitchen,neutral,neutral,[]
+great value,positive,positive,['price']
+helpful support team,positive,positive,['service']
+ordered the blue one,negative,neutral,[]
+bought it for the kitchen,neutral,neutral,[]
+fast delivery,positive,positive,['delivery']
+arrived late,negative,negative,['delivery']
+fair price,positive,positive,['price']
+"sturdy and well made, but support never replied",positive,positive,"['quality', 'service']"
+broke after a week,negative,negative,['quality']
+"shipping took forever, but fair price",negative,negative,"['price', 'delivery']"
+support never replied,negative,negative,['service']
+"fair price, but cheap material, poor quality",positive,positive,"['price', 'quality']"
+fine for the price,neutral,neutral,['price']
+broke after a week,negative,negative,['quality']
+"too expensive, but arrived quickly",negative,negative,"['price', 'delivery']"
+great value,positive,positive,['price']
+broke after a week,negative,negative,['quality']
+sturdy and well made,positive,positive,['quality']
+helpful support team,positive,positive,['service']
+friendly staff,positive,positive,['service']
+fine for the price,neutral,neutral,['price']
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+support never replied,negative,negative,['service']
+ordered the blue one,neutral,neutral,[]
+excellent quality material,positive,positive,['quality']
+sturdy and well made,positive,positive,['quality']
+broke after a week,negative,negative,['quality']
+broke after a week,negative,negative,['quality']
+refund was refused,negative,negative,['service']
+refund was refused,negative,negative,['service']
+"arrived late, but excellent quality material",negative,negative,"['delivery', 'quality']"
+friendly staff,positive,positive,['service']
+fast delivery,positive,positive,['delivery']
+ordered the blue one,neutral,neutral,[]
+not worth the price,negative,negative,['price']
+sturdy and well made,positive,positive,['quality']
+sturdy and well made,positive,positive,['quality']
+"friendly staff, but shipping took forever",positive,positive,"['delivery', 'service']"
+arrived quickly,positive,positive,['delivery']
+"shipping took forever, but helpful support team",negative,negative,"['delivery', 'service']"
+it is okay I guess,neutral,neutral,[]
+too expensive,negative,negative,['price']
+fine for the price,positive,neutral,['price']
+arrived quickly,positive,positive,['delivery']
+broke after a week,negative,negative,['quality']
+great value,positive,positive,['price']
+"sturdy and well made, but too expensive",positive,positive,"['price', 'quality']"
+broke after a week,negative,negative,['quality']
+"shipping took forever, but fair price",negative,negative,"['price', 'delivery']"
+arrived late,negative,negative,['delivery']
+friendly staff,positive,positive,['service']
+helpful support team,neutral,positive,['service']
+"fast delivery, but cheap material, poor quality",negative,positive,"['price', 'delivery', 'quality']"
+arrived quickly,negative,positive,['delivery']
+sturdy and well made,positive,positive,['quality']
+arrived quickly,positive,positive,['delivery']
+not worth the price,negative,negative,['price']
+great value,positive,positive,['price']
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+it is okay I guess,neutral,neutral,[]
+it is a lamp,neutral,neutral,[]
+it is a lamp,neutral,neutral,[]
+support never replied,negative,negative,['service']
+helpful support team,positive,positive,['service']
+"fair price, but refund was refused",positive,positive,"['price', 'service']"
+fair price,positive,positive,['price']
+ordered the blue one,neutral,neutral,[]
+excellent quality material,positive,positive,['quality']
+arrived quickly,positive,positive,['delivery']
+"support never replied, but fast delivery",negative,negative,"['delivery', 'service']"
+"fair price, but shipping took forever",positive,positive,"['price', 'delivery']"
+"helpful support team, but too expensive",positive,positive,"['price', 'service']"
+fine for the price,neutral,neutral,['price']
+broke after a week,negative,negative,['quality']
+bought it for the kitchen,neutral,neutral,[]
+great value,positive,positive,['price']
+fast delivery,positive,positive,['delivery']
+excellent quality material,positive,positive,['quality']
+"arrived late, but excellent quality material",negative,negative,"['delivery', 'quality']"
+fast delivery,positive,positive,['delivery']
+arrived quickly,positive,positive,['delivery']
+arrived quickly,positive,positive,['delivery']
+broke after a week,negative,negative,['quality']
+sturdy and well made,positive,positive,['quality']
+ordered the blue one,neutral,neutral,[]
+"excellent quality material, but shipping took forever",positive,positive,"['delivery', 'quality']"
+sturdy and well made,positive,positive,['quality']
+arrived late,negative,negative,['delivery']
+too expensive,negative,negative,['price']
+it is a lamp,neutral,neutral,[]
+not worth the price,negative,negative,['price']
+great value,positive,positive,['price']
+"arrived quickly, but broke after a week",positive,positive,"['delivery', 'quality']"
+support never replied,negative,negative,['service']
+great value,positive,positive,['price']
+"sturdy and well made, but support never replied",positive,positive,"['quality', 'service']"
+"not worth the price, but excellent quality material",negative,positive,"['price', 'quality']"
+arrived quickly,positive,positive,['delivery']
+"arrived quickly, but broke after a week",positive,positive,"['delivery', 'quality']"
+too expensive,negative,negative,['price']
+shipping took forever,neutral,negative,['delivery']
+great value,positive,positive,['price']
+"fast delivery, but refund was refused",negative,positive,"['delivery', 'service']"
+friendly staff,positive,positive,['service']
+broke after a week,negative,negative,['quality']
+broke after a week,positive,negative,['quality']
+excellent quality material,positive,positive,['quality']
+sturdy and well made,positive,positive,['quality']
+"cheap material, poor quality, but arrived quickly",negative,negative,"['price', 'delivery', 'quality']"
+broke after a week,negative,negative,['quality']
+shipping took forever,negative,negative,['delivery']
+not worth the price,negative,negative,['price']
+great value,positive,positive,['price']
+arrived quickly,positive,positive,['delivery']
+"sturdy and well made, but refund was refused",positive,positive,"['quality', 'service']"
+broke after a week,negative,negative,['quality']
+sturdy and well made,positive,positive,['quality']
+fine for the price,neutral,neutral,['price']
+it is okay I guess,neutral,neutral,[]
+"great value, but cheap material, poor quality",positive,positive,"['price', 'quality']"
+"excellent quality material, but shipping took forever",positive,positive,"['delivery', 'quality']"
+fast delivery,positive,positive,['delivery']
+arrived late,negative,negative,['delivery']
+"excellent quality material, but not worth the price",positive,positive,"['price', 'quality']"
+fast delivery,positive,positive,['delivery']
+sturdy and well made,positive,positive,['quality']
+"helpful support team, but too expensive",positive,positive,"['price', 'service']"
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+sturdy and well made,positive,positive,['quality']
+friendly staff,positive,positive,['service']
+excellent quality material,positive,positive,['quality']
+sturdy and well made,positive,positive,['quality']
+great value,positive,positive,['price']
+sturdy and well made,positive,positive,['quality']
+bought it for the kitchen,neutral,neutral,[]
+not worth the price,negative,negative,['price']
+great value,positive,positive,['price']
+arrived late,negative,negative,['delivery']
+"sturdy and well made, but arrived late",positive,positive,"['delivery', 'quality']"
+excellent quality material,positive,positive,['quality']
+it is okay I guess,neutral,neutral,[]
+it is a lamp,neutral,neutral,[]
+excellent quality material,positive,positive,['quality']
+fair price,positive,positive,['price']
+"cheap material, poor quality, but fair price",negative,negative,"['price', 'quality']"
+sturdy and well made,positive,positive,['quality']
+it is okay I guess,neutral,neutral,[]
+excellent quality material,positive,positive,['quality']
+great value,negative,positive,['price']
+friendly staff,positive,positive,['service']
+fast delivery,neutral,positive,['delivery']
+arrived late,neutral,negative,['delivery']
+excellent quality material,positive,positive,['quality']
+fair price,positive,positive,['price']
+arrived quickly,positive,positive,['delivery']
+sturdy and well made,positive,positive,['quality']
+bought it for the kitchen,neutral,neutral,[]
+arrived quickly,positive,positive,['delivery']
+"friendly staff, but broke after a week",positive,positive,"['quality', 'service']"
+shipping took forever,negative,negative,['delivery']
+great value,positive,positive,['price']
+it is okay I guess,positive,neutral,[]
+not worth the price,negative,negative,['price']
+arrived quickly,positive,positive,['delivery']
+broke after a week,neutral,negative,['quality']
+"fair price, but cheap material, poor quality",positive,positive,"['price', 'quality']"
+arrived late,negative,negative,['delivery']
+fair price,positive,positive,['price']
+not worth the price,neutral,negative,['price']
+fast delivery,positive,positive,['delivery']
+fast delivery,positive,positive,['delivery']
+fair price,positive,positive,['price']
+excellent quality material,positive,positive,['quality']
+"fair price, but cheap material, poor quality",positive,positive,"['price', 'quality']"
+helpful support team,positive,positive,['service']
+refund was refused,negative,negative,['service']
+fair price,neutral,positive,['price']
+too expensive,positive,negative,['price']
+excellent quality material,positive,positive,['quality']
+"sturdy and well made, but not worth the price",positive,positive,"['price', 'quality']"
+"fast delivery, but not worth the price",positive,positive,"['price', 'delivery']"
+excellent quality material,positive,positive,['quality']
+friendly staff,positive,positive,['service']
+"helpful support team, but not worth the price",positive,positive,"['price', 'service']"
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+friendly staff,positive,positive,['service']
+"fast delivery, but not worth the price",positive,positive,"['price', 'delivery']"
+ordered the blue one,neutral,neutral,[]
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+"sturdy and well made, but shipping took forever",positive,positive,"['delivery', 'quality']"
+fair price,positive,positive,['price']
+sturdy and well made,positive,positive,['quality']
+fast delivery,positive,positive,['delivery']
+broke after a week,negative,negative,['quality']
+friendly staff,positive,positive,['service']
+it is okay I guess,neutral,neutral,[]
+shipping took forever,negative,negative,['delivery']
+fair price,positive,positive,['price']
+excellent quality material,positive,positive,['quality']
+too expensive,negative,negative,['price']
+bought it for the kitchen,neutral,neutral,[]
+sturdy and well made,positive,positive,['quality']
+friendly staff,positive,positive,['service']
+helpful support team,positive,positive,['service']
+"excellent quality material, but refund was refused",positive,positive,"['quality', 'service']"
+broke after a week,negative,negative,['quality']
+arrived late,negative,negative,['delivery']
+excellent quality material,positive,positive,['quality']
+sturdy and well made,positive,positive,['quality']
+fine for the price,neutral,neutral,['price']
+fine for the price,neutral,neutral,['price']
+"great value, but cheap material, poor quality",positive,positive,"['price', 'quality']"
+fair price,positive,positive,['price']
+"fair price, but arrived late",positive,positive,"['price', 'delivery']"
+arrived quickly,positive,positive,['delivery']
+fair price,positive,positive,['price']
+shipping took forever,positive,negative,['delivery']
+support never replied,negative,negative,['service']
+great value,positive,positive,['price']
+fast delivery,positive,positive,['delivery']
+arrived late,negative,negative,['delivery']
+ordered the blue one,neutral,neutral,[]
+bought it for the kitchen,neutral,neutral,[]
+"sturdy and well made, but shipping took forever",positive,positive,"['delivery', 'quality']"
+friendly staff,positive,positive,['service']
+arrived quickly,positive,positive,['delivery']
+great value,positive,positive,['price']
+it is okay I guess,neutral,neutral,[]
+fine for the price,neutral,neutral,['price']
+too expensive,negative,negative,['price']
+ordered the blue one,neutral,neutral,[]
+excellent quality material,positive,positive,['quality']
+fine for the price,neutral,neutral,['price']
+"fair price, but cheap material, poor quality",positive,positive,"['price', 'quality']"
+"sturdy and well made, but refund was refused",positive,positive,"['quality', 'service']"
+friendly staff,positive,positive,['service']
+sturdy and well made,positive,positive,['quality']
+bought it for the kitchen,neutral,neutral,[]
+too expensive,positive,negative,['price']
+helpful support team,positive,positive,['service']
+sturdy and well made,positive,positive,['quality']
+broke after a week,negative,negative,['quality']
+fine for the price,neutral,neutral,['price']
+"helpful support team, but too expensive",positive,positive,"['price', 'service']"
+it is okay I guess,neutral,neutral,[]
+friendly staff,positive,positive,['service']
+fast delivery,positive,positive,['delivery']
+helpful support team,positive,positive,['service']
+fair price,positive,positive,['price']
+arrived late,negative,negative,['delivery']
+too expensive,negative,negative,['price']
+great value,positive,positive,['price']
+it is a lamp,neutral,neutral,[]
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+broke after a week,negative,negative,['quality']
+"arrived quickly, but cheap material, poor quality",positive,positive,"['price', 'delivery', 'quality']"
+refund was refused,positive,negative,['service']
+it is a lamp,neutral,neutral,[]
+arrived quickly,positive,positive,['delivery']
+friendly staff,positive,positive,['service']
+not worth the price,positive,negative,['price']
+sturdy and well made,positive,positive,['quality']
+friendly staff,positive,positive,['service']
+excellent quality material,positive,positive,['quality']
+arrived late,negative,negative,['delivery']
+too expensive,negative,negative,['price']
+fine for the price,neutral,neutral,['price']
+broke after a week,negative,negative,['quality']
+arrived quickly,positive,positive,['delivery']
+arrived quickly,positive,positive,['delivery']
+ordered the blue one,neutral,neutral,[]
+arrived quickly,positive,positive,['delivery']
+fast delivery,positive,positive,['delivery']
+"friendly staff, but broke after a week",positive,positive,"['quality', 'service']"
+arrived quickly,positive,positive,['delivery']
+"sturdy and well made, but too expensive",positive,positive,"['price', 'quality']"
+support never replied,negative,negative,['service']
+it is a lamp,neutral,neutral,[]
+shipping took forever,negative,negative,['delivery']
+friendly staff,positive,positive,['service']
+great value,positive,positive,['price']
+fast delivery,positive,positive,['delivery']
+fair price,positive,positive,['price']
+friendly staff,positive,positive,['service']
+bought it for the kitchen,neutral,neutral,[]
+shipping took forever,negative,negative,['delivery']
+sturdy and well made,positive,positive,['quality']
+sturdy and well made,positive,positive,['quality']
+support never replied,negative,negative,['service']
+excellent quality material,positive,positive,['quality']
+great value,positive,positive,['price']
+fine for the price,neutral,neutral,['price']
+"excellent quality material, but shipping took forever",positive,positive,"['delivery', 'quality']"
+great value,positive,positive,['price']
+sturdy and well made,positive,positive,['quality']
+"delivery was normal, quality is average",neutral,neutral,"['delivery', 'quality']"
+sturdy and well made,negative,positive,['quality']
+"delivery was normal, quality is average",positive,neutral,"['delivery', 'quality']"
+arrived quickly,positive,positive,['delivery']
+it is okay I guess,neutral,neutral,[]
+helpful support team,positive,positive,['service']
+too expensive,negative,negative,['price']
+not worth the price,negative,negative,['price']
+fine for the price,neutral,neutral,['price']
+"broke after a week, but arrived quickly",negative,positive,"['delivery', 'quality']"
+"not worth the price, but friendly staff",negative,negative,"['price', 'service']"
+fair price,positive,positive,['price']
+"fast delivery, but refund was refused",negative,positive,"['delivery', 'service']"
+"excellent quality material, but too expensive",positive,positive,"['price', 'quality']"
+"excellent quality material, but shipping took forever",positive,positive,"['delivery', 'quality']"
+broke after a week,negative,negative,['quality']
+arrived late,negative,negative,['delivery']
+ordered the blue one,neutral,neutral,[]
+"excellent quality material, but too expensive",neutral,positive,"['price', 'quality']"
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+fair price,positive,positive,['price']
+excellent quality material,positive,positive,['quality']
+ordered the blue one,neutral,neutral,[]
+support never replied,neutral,negative,['service']
+excellent quality material,positive,positive,['quality']
+sturdy and well made,positive,positive,['quality']
+fast delivery,positive,positive,['delivery']
+friendly staff,positive,positive,['service']
+"cheap material, poor quality, but arrived quickly",negative,negative,"['price', 'delivery', 'quality']"
+"excellent quality material, but too expensive",positive,positive,"['price', 'quality']"
+great value,positive,positive,['price']
+fine for the price,neutral,neutral,['price']
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+arrived quickly,positive,positive,['delivery']
+sturdy and well made,positive,positive,['quality']
+arrived quickly,positive,positive,['delivery']
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+great value,positive,positive,['price']
+sturdy and well made,positive,positive,['quality']
+"great value, but arrived late",positive,positive,"['price', 'delivery']"
+arrived quickly,positive,positive,['delivery']
+excellent quality material,negative,positive,['quality']
+"sturdy and well made, but not worth the price",positive,positive,"['price', 'quality']"
+friendly staff,positive,positive,['service']
+"cheap material, poor quality",negative,negative,"['price', 'quality']"
+excellent quality material,positive,positive,['quality']
+"shipping took forever, but great value",negative,negative,"['price', 'delivery']"
+sturdy and well made,positive,positive,['quality']
+"sturdy and well made, but shipping took forever",positive,positive,"['delivery', 'quality']"
+sturdy and well made,positive,positive,['quality']
+broke after a week,negative,negative,['quality']
+fast delivery,negative,positive,['delivery']
+helpful support team,positive,positive,['service']
+"great value, but support never replied",positive,positive,"['price', 'service']"
+"cheap material, poor quality, but helpful support team",negative,negative,"['price', 'quality', 'service']"
+arrived quickly,positive,positive,['delivery']
+too expensive,neutral,negative,['price']
+sturdy and well made,positive,positive,['quality']
+not worth the price,negative,negative,['price']
+broke after a week,negative,negative,['quality']
+fast delivery,positive,positive,['delivery']
+"refund was refused, but fair price",negative,negative,"['price', 'service']"
+sturdy and well made,positive,positive,['quality']
+"arrived quickly, but broke after a week",positive,positive,"['delivery', 'quality']"
+broke after a week,negative,negative,['quality']
+sturdy and well made,positive,positive,['quality']
+great value,positive,positive,['price']
+fast delivery,positive,positive,['delivery']
+great value,positive,positive,['price']
+"support never replied, but fast delivery",negative,negative,"['delivery', 'service']"
+"arrived quickly, but not worth the price",positive,positive,"['price', 'delivery']"
+not worth the price,negative,negative,['price']

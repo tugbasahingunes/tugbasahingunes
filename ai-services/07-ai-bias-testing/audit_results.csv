@@ -1,0 +1,4 @@
+attribute,comparison,mean_score_gap,p_value,shortlist_rate_a,shortlist_rate_b,impact_ratio,flag
+name_group,B vs A,-3.96,0.0005,0.357,0.243,0.68,FAIL (<0.8)
+sex,man vs woman,0.0,1.0,0.3,0.3,1.0,ok
+age,52 vs 30,-2.96,0.0005,0.347,0.253,0.73,FAIL (<0.8)

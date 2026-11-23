@@ -25,6 +25,8 @@ Social protection and care services · family and child policy · youth employme
 
 ⭐ [**Flagship projects**](flagship): eight in-depth client-style projects: a Turkish LLM preference dataset with agreement analysis, an n8n + Claude message-triage automation, a pricing and segmentation study, an NGO results dashboard, a project-operations toolkit, an AI short-video pipeline, EN→TR app localization with automated QA, and a full-stack booking app.
 
+🤖 [**AI Services**](ai-services): 20 AI services, each with a tested, runnable sample: GEO content rewrite and monthly AI-visibility tracking, chatbot QA, bias testing, red-teaming, gold-set creation, open-ended survey coding, review sentiment, a team prompt library, custom-assistant acceptance testing, an AI workflow audit and an AI use policy.
+
 🎓 [**TezKit**](tezkit): six tools for Turkish thesis writers in one web app: thesis formatting checker, SPSS/Excel survey → APA “Findings” chapter, APA 7 citation checker, Likert scale scoring, G*Power-consistent sample-size calculator and a PDF → literature table extractor.
 
 💼 [**Freelance Portfolio**](freelance-portfolio): 15 sample projects, one per service: data cleaning, Excel dashboards, survey statistics, visualization, scraping, automation, mobile app, graphic design, landing page, TR⇄EN translation, chatbot prompts & evaluation, research writing, machine learning, SQL and Google Sheets automation.

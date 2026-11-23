@@ -1,0 +1,13 @@
+task,team,hours_per_week,repetitive,text_heavy,rule_based,data_sensitivity,error_cost
+Answering routine donor emails,Fundraising,6,5,5,4,2,2
+Writing monthly activity reports,Programmes,5,4,5,3,2,3
+Meeting notes and action lists,All,7,5,4,4,2,2
+Translating materials EN-TR,Communications,4,3,5,3,1,3
+Social media post drafts,Communications,3,4,4,2,1,2
+Screening grant calls for fit,Fundraising,3,4,5,4,1,2
+Entering survey data into Excel,M&E,6,5,2,5,3,3
+Cleaning beneficiary database,M&E,4,4,1,4,5,5
+Case notes for vulnerable families,Social work,8,3,5,2,5,5
+Budget variance checks,Finance,3,4,1,5,4,5
+Payroll,Finance,2,5,1,5,5,5
+Scheduling volunteers,Operations,3,5,2,5,2,2

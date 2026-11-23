@@ -1,0 +1,81 @@
+item_id,text,a1,a2,gold,source
+0,Are you hiring?,other,delivery,other,adjudicated
+1,Can I get a copy of my invoice?,billing,billing,billing,agreement
+2,Can I get a copy of my invoice?,billing,billing,billing,agreement
+3,Can I change my delivery address?,delivery,delivery,delivery,agreement
+4,I was charged twice for my order,other,technical,billing,adjudicated
+5,Love your products!,other,other,other,agreement
+6,Do you have a store in Izmir?,other,other,other,agreement
+7,I returned it but no refund yet,returns,returns,returns,agreement
+8,Can I get a copy of my invoice?,billing,billing,billing,agreement
+9,Why is there an extra fee on my invoice?,billing,billing,billing,agreement
+10,My package is late by a week,delivery,delivery,delivery,agreement
+11,I returned it but no refund yet,returns,returns,returns,agreement
+12,I can't reset my password,technical,technical,technical,agreement
+13,I returned it but no refund yet,returns,returns,returns,agreement
+14,The courier says delivered but I have nothing,delivery,delivery,delivery,agreement
+15,I was charged twice for my order,billing,billing,billing,agreement
+16,The checkout page won't load,technical,technical,technical,agreement
+17,Promo code field gives an error,technical,technical,technical,agreement
+18,My card payment failed but money left my account,billing,returns,billing,adjudicated
+19,Why is there an extra fee on my invoice?,billing,technical,billing,adjudicated
+20,I returned it but no refund yet,returns,returns,returns,agreement
+21,The courier says delivered but I have nothing,delivery,delivery,delivery,agreement
+22,Are you hiring?,other,other,other,agreement
+23,How do I send this back?,returns,returns,returns,agreement
+24,How do I send this back?,returns,returns,returns,agreement
+25,"Wrong size, can I exchange it?",returns,returns,returns,agreement
+26,Promo code field gives an error,technical,other,technical,adjudicated
+27,"The item is broken, I want a refund",returns,returns,returns,agreement
+28,My card payment failed but money left my account,billing,billing,billing,agreement
+29,Promo code field gives an error,returns,technical,technical,adjudicated
+30,The app crashes when I log in,technical,technical,technical,agreement
+31,Are you hiring?,other,other,other,agreement
+32,The checkout page won't load,technical,technical,technical,agreement
+33,Can I change my delivery address?,delivery,delivery,delivery,agreement
+34,The courier says delivered but I have nothing,delivery,delivery,delivery,agreement
+35,I can't reset my password,technical,technical,technical,agreement
+36,The app crashes when I log in,other,technical,technical,adjudicated
+37,The checkout page won't load,technical,returns,technical,adjudicated
+38,Can I suggest a new colour?,returns,other,other,adjudicated
+39,Where is my parcel?,delivery,delivery,delivery,agreement
+40,Can I suggest a new colour?,other,other,other,agreement
+41,I was charged twice for my order,billing,billing,billing,agreement
+42,I was charged twice for my order,billing,billing,billing,agreement
+43,Love your products!,other,other,other,agreement
+44,Do you have a store in Izmir?,other,technical,other,adjudicated
+45,My package is late by a week,delivery,other,delivery,adjudicated
+46,Why is there an extra fee on my invoice?,billing,billing,billing,agreement
+47,Can I change my delivery address?,delivery,delivery,delivery,agreement
+48,Can I get a copy of my invoice?,billing,delivery,billing,adjudicated
+49,Can I suggest a new colour?,other,other,other,agreement
+50,I can't reset my password,technical,technical,technical,agreement
+51,How do I send this back?,returns,returns,returns,agreement
+52,The courier says delivered but I have nothing,delivery,delivery,delivery,agreement
+53,I returned it but no refund yet,returns,returns,returns,agreement
+54,My card payment failed but money left my account,billing,billing,billing,agreement
+55,The app crashes when I log in,technical,technical,technical,agreement
+56,I returned it but no refund yet,returns,returns,returns,agreement
+57,Can I get a copy of my invoice?,billing,billing,billing,agreement
+58,My package is late by a week,delivery,delivery,delivery,agreement
+59,The checkout page won't load,technical,technical,technical,agreement
+60,I returned it but no refund yet,returns,returns,returns,agreement
+61,Can I change my delivery address?,delivery,delivery,delivery,agreement
+62,Can I change my delivery address?,returns,returns,returns,agreement
+63,Can I get a copy of my invoice?,billing,billing,billing,agreement
+64,The checkout page won't load,technical,technical,technical,agreement
+65,Promo code field gives an error,technical,technical,technical,agreement
+66,"The item is broken, I want a refund",returns,returns,returns,agreement
+67,Can I suggest a new colour?,other,technical,other,adjudicated
+68,Can I suggest a new colour?,billing,other,other,adjudicated
+69,Where is my parcel?,delivery,delivery,delivery,agreement
+70,The checkout page won't load,technical,other,technical,adjudicated
+71,I can't reset my password,technical,technical,technical,agreement
+72,Where is my parcel?,other,delivery,delivery,adjudicated
+73,Where is my parcel?,delivery,delivery,delivery,agreement
+74,"The item is broken, I want a refund",returns,returns,returns,agreement
+75,The app crashes when I log in,other,technical,technical,adjudicated
+76,Can I change my delivery address?,delivery,delivery,delivery,agreement
+77,The app crashes when I log in,technical,technical,technical,agreement
+78,The checkout page won't load,technical,technical,technical,agreement
+79,My package is late by a week,delivery,delivery,delivery,agreement

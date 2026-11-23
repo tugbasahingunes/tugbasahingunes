@@ -1,0 +1,541 @@
+month,engine,prompt_id,brands
+2025-01,ChatGPT,0,Defterim
+2025-01,ChatGPT,1,NotaBene
+2025-01,ChatGPT,2,Kagit Evi;NotaBene;Defterim
+2025-01,ChatGPT,3,Kagit Evi
+2025-01,ChatGPT,4,
+2025-01,ChatGPT,5,Kagit Evi;Defterim
+2025-01,ChatGPT,6,Mavi Kalem;Kagit Evi
+2025-01,ChatGPT,7,Kagit Evi;Defterim
+2025-01,ChatGPT,8,Mavi Kalem;Kagit Evi;Defterim
+2025-01,ChatGPT,9,Kagit Evi;Defterim
+2025-01,ChatGPT,10,
+2025-01,ChatGPT,11,NotaBene
+2025-01,ChatGPT,12,NotaBene
+2025-01,ChatGPT,13,Mavi Kalem;Kagit Evi;NotaBene;Defterim
+2025-01,ChatGPT,14,Kagit Evi
+2025-01,ChatGPT,15,Kagit Evi;Defterim
+2025-01,ChatGPT,16,Kagit Evi;NotaBene;Defterim
+2025-01,ChatGPT,17,Kagit Evi
+2025-01,ChatGPT,18,Kagit Evi;NotaBene
+2025-01,ChatGPT,19,Defterim
+2025-01,ChatGPT,20,Defterim
+2025-01,ChatGPT,21,Kagit Evi
+2025-01,ChatGPT,22,Kagit Evi;NotaBene
+2025-01,ChatGPT,23,Kagit Evi;NotaBene
+2025-01,ChatGPT,24,Mavi Kalem;Kagit Evi;NotaBene;Defterim
+2025-01,ChatGPT,25,Kagit Evi;NotaBene
+2025-01,ChatGPT,26,Kagit Evi
+2025-01,ChatGPT,27,Kagit Evi
+2025-01,ChatGPT,28,Mavi Kalem;NotaBene
+2025-01,ChatGPT,29,Kagit Evi;NotaBene
+2025-01,Gemini,0,Mavi Kalem;Kagit Evi
+2025-01,Gemini,1,Kagit Evi;NotaBene
+2025-01,Gemini,2,Mavi Kalem;Kagit Evi
+2025-01,Gemini,3,Kagit Evi
+2025-01,Gemini,4,Kagit Evi
+2025-01,Gemini,5,Kagit Evi;NotaBene
+2025-01,Gemini,6,NotaBene
+2025-01,Gemini,7,NotaBene
+2025-01,Gemini,8,
+2025-01,Gemini,9,Kagit Evi;NotaBene;Defterim
+2025-01,Gemini,10,Defterim
+2025-01,Gemini,11,Kagit Evi
+2025-01,Gemini,12,
+2025-01,Gemini,13,Kagit Evi;NotaBene
+2025-01,Gemini,14,Defterim
+2025-01,Gemini,15,
+2025-01,Gemini,16,Kagit Evi;NotaBene;Defterim
+2025-01,Gemini,17,Kagit Evi;NotaBene
+2025-01,Gemini,18,Mavi Kalem;Kagit Evi;NotaBene
+2025-01,Gemini,19,Mavi Kalem;Kagit Evi
+2025-01,Gemini,20,Kagit Evi;Defterim
+2025-01,Gemini,21,Kagit Evi
+2025-01,Gemini,22,Kagit Evi;NotaBene
+2025-01,Gemini,23,Mavi Kalem;Kagit Evi
+2025-01,Gemini,24,NotaBene
+2025-01,Gemini,25,Kagit Evi
+2025-01,Gemini,26,Kagit Evi
+2025-01,Gemini,27,NotaBene
+2025-01,Gemini,28,NotaBene;Defterim
+2025-01,Gemini,29,Kagit Evi
+2025-01,Perplexity,0,Kagit Evi
+2025-01,Perplexity,1,Mavi Kalem;Kagit Evi;NotaBene
+2025-01,Perplexity,2,Kagit Evi;NotaBene
+2025-01,Perplexity,3,Kagit Evi;NotaBene
+2025-01,Perplexity,4,Mavi Kalem;Defterim
+2025-01,Perplexity,5,Mavi Kalem;NotaBene;Defterim
+2025-01,Perplexity,6,Mavi Kalem;Kagit Evi;Defterim
+2025-01,Perplexity,7,Defterim
+2025-01,Perplexity,8,NotaBene
+2025-01,Perplexity,9,Mavi Kalem
+2025-01,Perplexity,10,Kagit Evi;NotaBene
+2025-01,Perplexity,11,Kagit Evi;NotaBene
+2025-01,Perplexity,12,NotaBene;Defterim
+2025-01,Perplexity,13,Kagit Evi
+2025-01,Perplexity,14,
+2025-01,Perplexity,15,Kagit Evi
+2025-01,Perplexity,16,Kagit Evi;NotaBene
+2025-01,Perplexity,17,Mavi Kalem
+2025-01,Perplexity,18,NotaBene
+2025-01,Perplexity,19,Kagit Evi;NotaBene
+2025-01,Perplexity,20,Kagit Evi
+2025-01,Perplexity,21,Kagit Evi;NotaBene
+2025-01,Perplexity,22,Mavi Kalem;Kagit Evi
+2025-01,Perplexity,23,Kagit Evi;Defterim
+2025-01,Perplexity,24,Kagit Evi;Defterim
+2025-01,Perplexity,25,Kagit Evi
+2025-01,Perplexity,26,Mavi Kalem
+2025-01,Perplexity,27,Kagit Evi;NotaBene;Defterim
+2025-01,Perplexity,28,Mavi Kalem;Kagit Evi;NotaBene;Defterim
+2025-01,Perplexity,29,Kagit Evi;NotaBene
+2025-02,ChatGPT,0,Kagit Evi;NotaBene
+2025-02,ChatGPT,1,Kagit Evi;NotaBene
+2025-02,ChatGPT,2,Kagit Evi;NotaBene;Defterim
+2025-02,ChatGPT,3,NotaBene
+2025-02,ChatGPT,4,Kagit Evi
+2025-02,ChatGPT,5,Mavi Kalem;Kagit Evi;Defterim
+2025-02,ChatGPT,6,Kagit Evi
+2025-02,ChatGPT,7,
+2025-02,ChatGPT,8,NotaBene;Defterim
+2025-02,ChatGPT,9,Kagit Evi
+2025-02,ChatGPT,10,NotaBene
+2025-02,ChatGPT,11,Mavi Kalem
+2025-02,ChatGPT,12,
+2025-02,ChatGPT,13,Kagit Evi;NotaBene
+2025-02,ChatGPT,14,Kagit Evi;Defterim
+2025-02,ChatGPT,15,NotaBene
+2025-02,ChatGPT,16,Mavi Kalem
+2025-02,ChatGPT,17,Kagit Evi;Defterim
+2025-02,ChatGPT,18,Kagit Evi;Defterim
+2025-02,ChatGPT,19,Kagit Evi;Defterim
+2025-02,ChatGPT,20,Kagit Evi;NotaBene
+2025-02,ChatGPT,21,Kagit Evi
+2025-02,ChatGPT,22,
+2025-02,ChatGPT,23,Kagit Evi
+2025-02,ChatGPT,24,Kagit Evi
+2025-02,ChatGPT,25,
+2025-02,ChatGPT,26,Kagit Evi
+2025-02,ChatGPT,27,NotaBene
+2025-02,ChatGPT,28,Kagit Evi
+2025-02,ChatGPT,29,Kagit Evi;NotaBene;Defterim
+2025-02,Gemini,0,Kagit Evi;NotaBene
+2025-02,Gemini,1,Kagit Evi;NotaBene
+2025-02,Gemini,2,NotaBene;Defterim
+2025-02,Gemini,3,Kagit Evi;Defterim
+2025-02,Gemini,4,Kagit Evi;Defterim
+2025-02,Gemini,5,
+2025-02,Gemini,6,Kagit Evi;NotaBene
+2025-02,Gemini,7,Kagit Evi
+2025-02,Gemini,8,Mavi Kalem
+2025-02,Gemini,9,Mavi Kalem;Kagit Evi;NotaBene
+2025-02,Gemini,10,Kagit Evi;NotaBene
+2025-02,Gemini,11,Kagit Evi;NotaBene
+2025-02,Gemini,12,Kagit Evi;NotaBene;Defterim
+2025-02,Gemini,13,Defterim
+2025-02,Gemini,14,Mavi Kalem;Kagit Evi
+2025-02,Gemini,15,Kagit Evi
+2025-02,Gemini,16,Kagit Evi;NotaBene
+2025-02,Gemini,17,Kagit Evi;NotaBene
+2025-02,Gemini,18,Mavi Kalem;Kagit Evi;NotaBene;Defterim
+2025-02,Gemini,19,Kagit Evi;NotaBene;Defterim
+2025-02,Gemini,20,Kagit Evi;Defterim
+2025-02,Gemini,21,NotaBene
+2025-02,Gemini,22,Kagit Evi;Defterim
+2025-02,Gemini,23,Defterim
+2025-02,Gemini,24,Kagit Evi;Defterim
+2025-02,Gemini,25,NotaBene
+2025-02,Gemini,26,Mavi Kalem
+2025-02,Gemini,27,Kagit Evi
+2025-02,Gemini,28,Kagit Evi;NotaBene
+2025-02,Gemini,29,Mavi Kalem
+2025-02,Perplexity,0,NotaBene;Defterim
+2025-02,Perplexity,1,Mavi Kalem;Kagit Evi;NotaBene
+2025-02,Perplexity,2,Kagit Evi
+2025-02,Perplexity,3,Kagit Evi;NotaBene
+2025-02,Perplexity,4,Kagit Evi
+2025-02,Perplexity,5,Kagit Evi;Defterim
+2025-02,Perplexity,6,Kagit Evi;Defterim
+2025-02,Perplexity,7,Kagit Evi
+2025-02,Perplexity,8,Mavi Kalem;Kagit Evi
+2025-02,Perplexity,9,Kagit Evi
+2025-02,Perplexity,10,
+2025-02,Perplexity,11,
+2025-02,Perplexity,12,Mavi Kalem;Defterim
+2025-02,Perplexity,13,Kagit Evi
+2025-02,Perplexity,14,Kagit Evi;NotaBene;Defterim
+2025-02,Perplexity,15,Kagit Evi;NotaBene;Defterim
+2025-02,Perplexity,16,Kagit Evi
+2025-02,Perplexity,17,Kagit Evi;Defterim
+2025-02,Perplexity,18,Mavi Kalem
+2025-02,Perplexity,19,Mavi Kalem;Kagit Evi
+2025-02,Perplexity,20,Mavi Kalem;Kagit Evi;NotaBene
+2025-02,Perplexity,21,Mavi Kalem;Kagit Evi
+2025-02,Perplexity,22,NotaBene;Defterim
+2025-02,Perplexity,23,Kagit Evi;NotaBene
+2025-02,Perplexity,24,Kagit Evi
+2025-02,Perplexity,25,
+2025-02,Perplexity,26,Kagit Evi
+2025-02,Perplexity,27,Mavi Kalem;Kagit Evi;Defterim
+2025-02,Perplexity,28,NotaBene;Defterim
+2025-02,Perplexity,29,Kagit Evi
+2025-03,ChatGPT,0,Mavi Kalem;Defterim
+2025-03,ChatGPT,1,Kagit Evi
+2025-03,ChatGPT,2,Mavi Kalem;Kagit Evi;NotaBene
+2025-03,ChatGPT,3,Kagit Evi;NotaBene
+2025-03,ChatGPT,4,NotaBene;Defterim
+2025-03,ChatGPT,5,Defterim
+2025-03,ChatGPT,6,Kagit Evi;Defterim
+2025-03,ChatGPT,7,Kagit Evi
+2025-03,ChatGPT,8,Kagit Evi;NotaBene;Defterim
+2025-03,ChatGPT,9,Mavi Kalem;Kagit Evi;NotaBene
+2025-03,ChatGPT,10,Kagit Evi;NotaBene;Defterim
+2025-03,ChatGPT,11,NotaBene
+2025-03,ChatGPT,12,Kagit Evi
+2025-03,ChatGPT,13,NotaBene;Defterim
+2025-03,ChatGPT,14,Kagit Evi;Defterim
+2025-03,ChatGPT,15,Kagit Evi;NotaBene
+2025-03,ChatGPT,16,Kagit Evi;Defterim
+2025-03,ChatGPT,17,Mavi Kalem;Kagit Evi;Defterim
+2025-03,ChatGPT,18,Kagit Evi;NotaBene
+2025-03,ChatGPT,19,Kagit Evi
+2025-03,ChatGPT,20,Kagit Evi
+2025-03,ChatGPT,21,Defterim
+2025-03,ChatGPT,22,
+2025-03,ChatGPT,23,Kagit Evi;NotaBene
+2025-03,ChatGPT,24,Kagit Evi;NotaBene
+2025-03,ChatGPT,25,Mavi Kalem;Kagit Evi
+2025-03,ChatGPT,26,NotaBene;Defterim
+2025-03,ChatGPT,27,Kagit Evi
+2025-03,ChatGPT,28,Kagit Evi;NotaBene;Defterim
+2025-03,ChatGPT,29,NotaBene
+2025-03,Gemini,0,Mavi Kalem;Kagit Evi;Defterim
+2025-03,Gemini,1,Kagit Evi;Defterim
+2025-03,Gemini,2,Kagit Evi;Defterim
+2025-03,Gemini,3,Kagit Evi;Defterim
+2025-03,Gemini,4,Defterim
+2025-03,Gemini,5,Kagit Evi
+2025-03,Gemini,6,Kagit Evi;NotaBene
+2025-03,Gemini,7,Mavi Kalem;Kagit Evi;NotaBene;Defterim
+2025-03,Gemini,8,Mavi Kalem;NotaBene;Defterim
+2025-03,Gemini,9,Kagit Evi;NotaBene
+2025-03,Gemini,10,Kagit Evi;NotaBene
+2025-03,Gemini,11,Mavi Kalem;Kagit Evi;NotaBene;Defterim
+2025-03,Gemini,12,Kagit Evi;NotaBene
+2025-03,Gemini,13,Kagit Evi;NotaBene
+2025-03,Gemini,14,Kagit Evi;Defterim
+2025-03,Gemini,15,Kagit Evi
+2025-03,Gemini,16,Kagit Evi;NotaBene
+2025-03,Gemini,17,Mavi Kalem;Kagit Evi
+2025-03,Gemini,18,Kagit Evi;NotaBene;Defterim
+2025-03,Gemini,19,NotaBene
+2025-03,Gemini,20,Kagit Evi;Defterim
+2025-03,Gemini,21,Kagit Evi
+2025-03,Gemini,22,NotaBene;Defterim
+2025-03,Gemini,23,Kagit Evi;NotaBene;Defterim
+2025-03,Gemini,24,Kagit Evi;NotaBene
+2025-03,Gemini,25,Kagit Evi
+2025-03,Gemini,26,Mavi Kalem;Kagit Evi;NotaBene
+2025-03,Gemini,27,Defterim
+2025-03,Gemini,28,Kagit Evi;Defterim
+2025-03,Gemini,29,Defterim
+2025-03,Perplexity,0,Kagit Evi;NotaBene;Defterim
+2025-03,Perplexity,1,Mavi Kalem;Kagit Evi;NotaBene
+2025-03,Perplexity,2,Kagit Evi;NotaBene
+2025-03,Perplexity,3,Kagit Evi
+2025-03,Perplexity,4,NotaBene
+2025-03,Perplexity,5,Kagit Evi;Defterim
+2025-03,Perplexity,6,Kagit Evi;NotaBene
+2025-03,Perplexity,7,Mavi Kalem;Kagit Evi;Defterim
+2025-03,Perplexity,8,
+2025-03,Perplexity,9,Kagit Evi;Defterim
+2025-03,Perplexity,10,
+2025-03,Perplexity,11,Kagit Evi;NotaBene;Defterim
+2025-03,Perplexity,12,Mavi Kalem;Defterim
+2025-03,Perplexity,13,Mavi Kalem;Kagit Evi;NotaBene;Defterim
+2025-03,Perplexity,14,Kagit Evi;NotaBene;Defterim
+2025-03,Perplexity,15,Kagit Evi;NotaBene
+2025-03,Perplexity,16,Kagit Evi
+2025-03,Perplexity,17,Kagit Evi
+2025-03,Perplexity,18,Kagit Evi;NotaBene
+2025-03,Perplexity,19,Mavi Kalem;Kagit Evi;Defterim
+2025-03,Perplexity,20,Mavi Kalem;Kagit Evi;NotaBene
+2025-03,Perplexity,21,Kagit Evi;NotaBene
+2025-03,Perplexity,22,Kagit Evi;NotaBene
+2025-03,Perplexity,23,Kagit Evi
+2025-03,Perplexity,24,Kagit Evi
+2025-03,Perplexity,25,Kagit Evi
+2025-03,Perplexity,26,Kagit Evi;Defterim
+2025-03,Perplexity,27,
+2025-03,Perplexity,28,Kagit Evi;NotaBene
+2025-03,Perplexity,29,Kagit Evi;NotaBene
+2025-04,ChatGPT,0,Kagit Evi
+2025-04,ChatGPT,1,Mavi Kalem;Kagit Evi;NotaBene
+2025-04,ChatGPT,2,Mavi Kalem;Kagit Evi;NotaBene
+2025-04,ChatGPT,3,NotaBene
+2025-04,ChatGPT,4,Mavi Kalem;Kagit Evi;Defterim
+2025-04,ChatGPT,5,Kagit Evi;NotaBene
+2025-04,ChatGPT,6,Mavi Kalem;NotaBene;Defterim
+2025-04,ChatGPT,7,Kagit Evi;NotaBene
+2025-04,ChatGPT,8,Mavi Kalem;Kagit Evi
+2025-04,ChatGPT,9,Mavi Kalem;Kagit Evi
+2025-04,ChatGPT,10,Kagit Evi
+2025-04,ChatGPT,11,Defterim
+2025-04,ChatGPT,12,Kagit Evi;NotaBene
+2025-04,ChatGPT,13,Kagit Evi;Defterim
+2025-04,ChatGPT,14,Mavi Kalem;Kagit Evi
+2025-04,ChatGPT,15,Defterim
+2025-04,ChatGPT,16,Mavi Kalem;Kagit Evi
+2025-04,ChatGPT,17,Mavi Kalem;Kagit Evi;NotaBene
+2025-04,ChatGPT,18,NotaBene
+2025-04,ChatGPT,19,
+2025-04,ChatGPT,20,Kagit Evi;Defterim
+2025-04,ChatGPT,21,Mavi Kalem;NotaBene
+2025-04,ChatGPT,22,Kagit Evi;NotaBene
+2025-04,ChatGPT,23,Mavi Kalem
+2025-04,ChatGPT,24,Mavi Kalem;Defterim
+2025-04,ChatGPT,25,Kagit Evi;NotaBene
+2025-04,ChatGPT,26,NotaBene
+2025-04,ChatGPT,27,NotaBene
+2025-04,ChatGPT,28,Kagit Evi;NotaBene
+2025-04,ChatGPT,29,NotaBene;Defterim
+2025-04,Gemini,0,Mavi Kalem;NotaBene
+2025-04,Gemini,1,NotaBene;Defterim
+2025-04,Gemini,2,Defterim
+2025-04,Gemini,3,
+2025-04,Gemini,4,NotaBene;Defterim
+2025-04,Gemini,5,Kagit Evi;NotaBene
+2025-04,Gemini,6,Kagit Evi;Defterim
+2025-04,Gemini,7,NotaBene
+2025-04,Gemini,8,Mavi Kalem;NotaBene;Defterim
+2025-04,Gemini,9,Kagit Evi
+2025-04,Gemini,10,Mavi Kalem;Kagit Evi;Defterim
+2025-04,Gemini,11,
+2025-04,Gemini,12,Mavi Kalem;Kagit Evi;Defterim
+2025-04,Gemini,13,Kagit Evi;Defterim
+2025-04,Gemini,14,Kagit Evi
+2025-04,Gemini,15,Kagit Evi;NotaBene
+2025-04,Gemini,16,Kagit Evi;Defterim
+2025-04,Gemini,17,Kagit Evi
+2025-04,Gemini,18,Kagit Evi
+2025-04,Gemini,19,Kagit Evi;Defterim
+2025-04,Gemini,20,Mavi Kalem;Kagit Evi;NotaBene;Defterim
+2025-04,Gemini,21,NotaBene
+2025-04,Gemini,22,Kagit Evi
+2025-04,Gemini,23,NotaBene
+2025-04,Gemini,24,
+2025-04,Gemini,25,NotaBene
+2025-04,Gemini,26,Kagit Evi;NotaBene
+2025-04,Gemini,27,Kagit Evi;NotaBene
+2025-04,Gemini,28,Mavi Kalem;Kagit Evi
+2025-04,Gemini,29,Kagit Evi
+2025-04,Perplexity,0,Kagit Evi;NotaBene
+2025-04,Perplexity,1,Defterim
+2025-04,Perplexity,2,Kagit Evi
+2025-04,Perplexity,3,Kagit Evi
+2025-04,Perplexity,4,Kagit Evi;NotaBene
+2025-04,Perplexity,5,Kagit Evi
+2025-04,Perplexity,6,Mavi Kalem;Kagit Evi;NotaBene
+2025-04,Perplexity,7,Mavi Kalem;Kagit Evi
+2025-04,Perplexity,8,Mavi Kalem;Kagit Evi;NotaBene
+2025-04,Perplexity,9,Mavi Kalem;Kagit Evi;Defterim
+2025-04,Perplexity,10,Kagit Evi
+2025-04,Perplexity,11,NotaBene
+2025-04,Perplexity,12,Kagit Evi
+2025-04,Perplexity,13,Mavi Kalem;Kagit Evi
+2025-04,Perplexity,14,
+2025-04,Perplexity,15,Kagit Evi;NotaBene
+2025-04,Perplexity,16,Kagit Evi;NotaBene;Defterim
+2025-04,Perplexity,17,Kagit Evi;Defterim
+2025-04,Perplexity,18,Kagit Evi;Defterim
+2025-04,Perplexity,19,NotaBene;Defterim
+2025-04,Perplexity,20,Kagit Evi
+2025-04,Perplexity,21,Defterim
+2025-04,Perplexity,22,
+2025-04,Perplexity,23,Kagit Evi
+2025-04,Perplexity,24,Kagit Evi;NotaBene
+2025-04,Perplexity,25,Kagit Evi
+2025-04,Perplexity,26,NotaBene
+2025-04,Perplexity,27,Mavi Kalem;Kagit Evi;Defterim
+2025-04,Perplexity,28,
+2025-04,Perplexity,29,Kagit Evi;Defterim
+2025-05,ChatGPT,0,Mavi Kalem;Kagit Evi
+2025-05,ChatGPT,1,Mavi Kalem;NotaBene
+2025-05,ChatGPT,2,Kagit Evi;NotaBene;Defterim
+2025-05,ChatGPT,3,Mavi Kalem;Kagit Evi;NotaBene
+2025-05,ChatGPT,4,Kagit Evi
+2025-05,ChatGPT,5,Mavi Kalem;Kagit Evi;NotaBene;Defterim
+2025-05,ChatGPT,6,Kagit Evi;NotaBene;Defterim
+2025-05,ChatGPT,7,Kagit Evi;NotaBene
+2025-05,ChatGPT,8,Mavi Kalem
+2025-05,ChatGPT,9,Kagit Evi
+2025-05,ChatGPT,10,Mavi Kalem;Kagit Evi;NotaBene;Defterim
+2025-05,ChatGPT,11,Mavi Kalem;Kagit Evi
+2025-05,ChatGPT,12,Kagit Evi;NotaBene
+2025-05,ChatGPT,13,Kagit Evi;NotaBene
+2025-05,ChatGPT,14,Mavi Kalem;Kagit Evi
+2025-05,ChatGPT,15,NotaBene;Defterim
+2025-05,ChatGPT,16,Mavi Kalem;Kagit Evi
+2025-05,ChatGPT,17,Kagit Evi;NotaBene
+2025-05,ChatGPT,18,Kagit Evi;NotaBene
+2025-05,ChatGPT,19,NotaBene;Defterim
+2025-05,ChatGPT,20,Mavi Kalem;Kagit Evi
+2025-05,ChatGPT,21,Kagit Evi;NotaBene
+2025-05,ChatGPT,22,Kagit Evi;NotaBene
+2025-05,ChatGPT,23,Kagit Evi;NotaBene
+2025-05,ChatGPT,24,Defterim
+2025-05,ChatGPT,25,Mavi Kalem;Kagit Evi;NotaBene;Defterim
+2025-05,ChatGPT,26,Mavi Kalem;Kagit Evi;NotaBene
+2025-05,ChatGPT,27,Mavi Kalem;Kagit Evi
+2025-05,ChatGPT,28,Kagit Evi;Defterim
+2025-05,ChatGPT,29,NotaBene;Defterim
+2025-05,Gemini,0,Kagit Evi
+2025-05,Gemini,1,
+2025-05,Gemini,2,Kagit Evi
+2025-05,Gemini,3,NotaBene;Defterim
+2025-05,Gemini,4,Mavi Kalem;Kagit Evi
+2025-05,Gemini,5,Defterim
+2025-05,Gemini,6,Mavi Kalem;Kagit Evi;Defterim
+2025-05,Gemini,7,Mavi Kalem;Kagit Evi;NotaBene
+2025-05,Gemini,8,Mavi Kalem;Kagit Evi
+2025-05,Gemini,9,Kagit Evi;NotaBene
+2025-05,Gemini,10,Kagit Evi;NotaBene;Defterim
+2025-05,Gemini,11,Mavi Kalem;Kagit Evi;NotaBene
+2025-05,Gemini,12,Kagit Evi;NotaBene
+2025-05,Gemini,13,Mavi Kalem;Kagit Evi;Defterim
+2025-05,Gemini,14,Kagit Evi
+2025-05,Gemini,15,
+2025-05,Gemini,16,Kagit Evi;Defterim
+2025-05,Gemini,17,Mavi Kalem;Kagit Evi;NotaBene;Defterim
+2025-05,Gemini,18,Defterim
+2025-05,Gemini,19,NotaBene;Defterim
+2025-05,Gemini,20,Mavi Kalem;Kagit Evi;NotaBene
+2025-05,Gemini,21,Mavi Kalem;Kagit Evi
+2025-05,Gemini,22,Mavi Kalem
+2025-05,Gemini,23,Mavi Kalem;Defterim
+2025-05,Gemini,24,Kagit Evi;Defterim
+2025-05,Gemini,25,Mavi Kalem;Kagit Evi
+2025-05,Gemini,26,Mavi Kalem;Kagit Evi;NotaBene;Defterim
+2025-05,Gemini,27,Kagit Evi
+2025-05,Gemini,28,Mavi Kalem;Defterim
+2025-05,Gemini,29,Mavi Kalem;Kagit Evi;NotaBene
+2025-05,Perplexity,0,Defterim
+2025-05,Perplexity,1,Mavi Kalem;Kagit Evi
+2025-05,Perplexity,2,NotaBene;Defterim
+2025-05,Perplexity,3,Mavi Kalem;NotaBene;Defterim
+2025-05,Perplexity,4,Mavi Kalem;Kagit Evi;NotaBene
+2025-05,Perplexity,5,Mavi Kalem;NotaBene
+2025-05,Perplexity,6,Mavi Kalem;Defterim
+2025-05,Perplexity,7,Mavi Kalem;Kagit Evi
+2025-05,Perplexity,8,Kagit Evi
+2025-05,Perplexity,9,Kagit Evi;NotaBene;Defterim
+2025-05,Perplexity,10,Mavi Kalem;Kagit Evi;Defterim
+2025-05,Perplexity,11,Mavi Kalem;Kagit Evi;NotaBene;Defterim
+2025-05,Perplexity,12,Mavi Kalem;Kagit Evi
+2025-05,Perplexity,13,Kagit Evi
+2025-05,Perplexity,14,Mavi Kalem;NotaBene;Defterim
+2025-05,Perplexity,15,Kagit Evi;NotaBene
+2025-05,Perplexity,16,Mavi Kalem;Kagit Evi;NotaBene
+2025-05,Perplexity,17,Mavi Kalem;Kagit Evi
+2025-05,Perplexity,18,NotaBene;Defterim
+2025-05,Perplexity,19,Kagit Evi;Defterim
+2025-05,Perplexity,20,Mavi Kalem;Kagit Evi;NotaBene
+2025-05,Perplexity,21,Mavi Kalem
+2025-05,Perplexity,22,NotaBene
+2025-05,Perplexity,23,Kagit Evi;NotaBene
+2025-05,Perplexity,24,Kagit Evi;NotaBene
+2025-05,Perplexity,25,Kagit Evi
+2025-05,Perplexity,26,Kagit Evi;NotaBene;Defterim
+2025-05,Perplexity,27,Mavi Kalem;NotaBene
+2025-05,Perplexity,28,Kagit Evi;NotaBene
+2025-05,Perplexity,29,Mavi Kalem;Defterim
+2025-06,ChatGPT,0,Kagit Evi
+2025-06,ChatGPT,1,Mavi Kalem;Kagit Evi;NotaBene;Defterim
+2025-06,ChatGPT,2,NotaBene
+2025-06,ChatGPT,3,Mavi Kalem;Kagit Evi;NotaBene
+2025-06,ChatGPT,4,Mavi Kalem;Kagit Evi;Defterim
+2025-06,ChatGPT,5,Kagit Evi
+2025-06,ChatGPT,6,
+2025-06,ChatGPT,7,Mavi Kalem;Kagit Evi;NotaBene;Defterim
+2025-06,ChatGPT,8,Mavi Kalem;Defterim
+2025-06,ChatGPT,9,Kagit Evi;NotaBene
+2025-06,ChatGPT,10,NotaBene
+2025-06,ChatGPT,11,Kagit Evi
+2025-06,ChatGPT,12,Mavi Kalem;NotaBene
+2025-06,ChatGPT,13,Kagit Evi
+2025-06,ChatGPT,14,Mavi Kalem;Kagit Evi
+2025-06,ChatGPT,15,Mavi Kalem;Defterim
+2025-06,ChatGPT,16,Kagit Evi
+2025-06,ChatGPT,17,Mavi Kalem;Kagit Evi
+2025-06,ChatGPT,18,Kagit Evi
+2025-06,ChatGPT,19,Mavi Kalem;Kagit Evi;NotaBene;Defterim
+2025-06,ChatGPT,20,Mavi Kalem;Kagit Evi;NotaBene
+2025-06,ChatGPT,21,Mavi Kalem;Kagit Evi;NotaBene
+2025-06,ChatGPT,22,Kagit Evi
+2025-06,ChatGPT,23,NotaBene
+2025-06,ChatGPT,24,Kagit Evi
+2025-06,ChatGPT,25,Mavi Kalem
+2025-06,ChatGPT,26,Kagit Evi
+2025-06,ChatGPT,27,Kagit Evi
+2025-06,ChatGPT,28,Kagit Evi
+2025-06,ChatGPT,29,NotaBene
+2025-06,Gemini,0,Mavi Kalem;NotaBene
+2025-06,Gemini,1,Kagit Evi;NotaBene
+2025-06,Gemini,2,Kagit Evi;Defterim
+2025-06,Gemini,3,Mavi Kalem;Kagit Evi
+2025-06,Gemini,4,Kagit Evi
+2025-06,Gemini,5,Mavi Kalem
+2025-06,Gemini,6,Kagit Evi;NotaBene
+2025-06,Gemini,7,Mavi Kalem;Kagit Evi;Defterim
+2025-06,Gemini,8,NotaBene;Defterim
+2025-06,Gemini,9,
+2025-06,Gemini,10,Mavi Kalem;Kagit Evi;NotaBene
+2025-06,Gemini,11,Mavi Kalem;Kagit Evi;NotaBene;Defterim
+2025-06,Gemini,12,Mavi Kalem;Kagit Evi
+2025-06,Gemini,13,Kagit Evi
+2025-06,Gemini,14,Kagit Evi
+2025-06,Gemini,15,Kagit Evi
+2025-06,Gemini,16,Kagit Evi;NotaBene;Defterim
+2025-06,Gemini,17,Mavi Kalem;NotaBene;Defterim
+2025-06,Gemini,18,
+2025-06,Gemini,19,Mavi Kalem;NotaBene;Defterim
+2025-06,Gemini,20,Mavi Kalem;Kagit Evi
+2025-06,Gemini,21,Kagit Evi
+2025-06,Gemini,22,Mavi Kalem;Kagit Evi;NotaBene
+2025-06,Gemini,23,NotaBene
+2025-06,Gemini,24,Mavi Kalem
+2025-06,Gemini,25,Kagit Evi;Defterim
+2025-06,Gemini,26,Kagit Evi;NotaBene;Defterim
+2025-06,Gemini,27,Mavi Kalem;Kagit Evi;Defterim
+2025-06,Gemini,28,Mavi Kalem;NotaBene
+2025-06,Gemini,29,Mavi Kalem;Kagit Evi;NotaBene
+2025-06,Perplexity,0,Mavi Kalem
+2025-06,Perplexity,1,Mavi Kalem;Kagit Evi;NotaBene
+2025-06,Perplexity,2,Kagit Evi
+2025-06,Perplexity,3,Mavi Kalem;Kagit Evi
+2025-06,Perplexity,4,Mavi Kalem;NotaBene
+2025-06,Perplexity,5,Mavi Kalem;Kagit Evi;NotaBene;Defterim
+2025-06,Perplexity,6,Kagit Evi
+2025-06,Perplexity,7,Kagit Evi;Defterim
+2025-06,Perplexity,8,Mavi Kalem;Kagit Evi;NotaBene;Defterim
+2025-06,Perplexity,9,NotaBene
+2025-06,Perplexity,10,Mavi Kalem;Kagit Evi
+2025-06,Perplexity,11,Mavi Kalem
+2025-06,Perplexity,12,Defterim
+2025-06,Perplexity,13,NotaBene
+2025-06,Perplexity,14,Mavi Kalem;Defterim
+2025-06,Perplexity,15,Kagit Evi;NotaBene
+2025-06,Perplexity,16,Kagit Evi
+2025-06,Perplexity,17,Kagit Evi;NotaBene;Defterim
+2025-06,Perplexity,18,
+2025-06,Perplexity,19,Kagit Evi
+2025-06,Perplexity,20,Mavi Kalem;Kagit Evi;Defterim
+2025-06,Perplexity,21,Mavi Kalem;Kagit Evi;NotaBene
+2025-06,Perplexity,22,NotaBene;Defterim
+2025-06,Perplexity,23,Mavi Kalem
+2025-06,Perplexity,24,Mavi Kalem;Kagit Evi
+2025-06,Perplexity,25,Mavi Kalem;Kagit Evi
+2025-06,Perplexity,26,Kagit Evi
+2025-06,Perplexity,27,Mavi Kalem
+2025-06,Perplexity,28,Mavi Kalem;NotaBene
+2025-06,Perplexity,29,Kagit Evi

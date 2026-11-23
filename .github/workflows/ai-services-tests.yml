@@ -1,0 +1,21 @@
+name: ai-services tests
+on:
+  push:
+    paths: ["ai-services/**"]
+  pull_request:
+    paths: ["ai-services/**"]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install pandas numpy scikit-learn matplotlib pyyaml tabulate pytest
+      - name: Run each sample's tests
+        run: |
+          set -e
+          for d in ai-services/*/; do
+            echo "== $d"; (cd "$d" && pytest -q)
+          done

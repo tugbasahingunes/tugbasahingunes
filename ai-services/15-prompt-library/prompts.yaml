@@ -1,0 +1,59 @@
+- id: email-reply-complaint
+  team: Customer support
+  purpose: Draft a calm reply to a customer complaint
+  variables: [customer_name, complaint, policy_excerpt]
+  template: |
+    ROLE: You are a customer support agent for an online shop. Tone: calm, warm, concise.
+    TASK: Write a reply to {customer_name} about this complaint: "{complaint}".
+    RULES: Only promise what this policy allows: "{policy_excerpt}". If the policy does not cover it, say a colleague will follow up.
+    FORMAT: Max 120 words. Greeting, acknowledgement, solution, next step.
+
+- id: meeting-summary
+  team: Operations
+  purpose: Turn meeting notes into decisions and actions
+  variables: [notes]
+  template: |
+    ROLE: You are an executive assistant.
+    TASK: Summarise these meeting notes: {notes}
+    RULES: Do not invent owners or dates. Mark anything unclear as "TBC".
+    FORMAT: Three headings: Decisions, Actions (owner, due date), Open questions.
+
+- id: survey-question-review
+  team: Research
+  purpose: Check survey questions for bias and clarity
+  variables: [questions, audience]
+  template: |
+    ROLE: You are a survey methodologist.
+    TASK: Review these survey questions for {audience}: {questions}
+    RULES: Flag leading, double-barrelled and ambiguous questions. Suggest a neutral rewrite for each problem.
+    FORMAT: Table with columns: Question, Problem, Suggested rewrite.
+
+- id: job-ad-inclusive
+  team: HR
+  purpose: Rewrite a job ad in clear, inclusive language
+  variables: [job_ad]
+  template: |
+    ROLE: You are an HR writer.
+    TASK: Rewrite this job ad: {job_ad}
+    RULES: Keep all requirements. Remove jargon and unnecessary age- or gender-coded wording. Separate must-have from nice-to-have.
+    FORMAT: Title, 3-line summary, Responsibilities, Must-have, Nice-to-have.
+
+- id: data-insight-explainer
+  team: Analytics
+  purpose: Explain a chart or table to non-technical managers
+  variables: [table, audience]
+  template: |
+    ROLE: You are a data analyst who explains results plainly.
+    TASK: Explain what this table shows for {audience}: {table}
+    RULES: Use only numbers in the table. State one caveat. No causal claims unless the design supports them.
+    FORMAT: 3 bullet points + 1 caveat sentence.
+
+- id: product-description
+  team: E-commerce
+  purpose: Write a product description from specs
+  variables: [product_name, specs]
+  template: |
+    ROLE: You are an e-commerce copywriter.
+    TASK: Write a product description for {product_name} using these specs: {specs}
+    RULES: No claims that are not in the specs. Start with a one-sentence answer to "what is it and who is it for?".
+    FORMAT: 1 sentence summary, 4 bullet points, 1 short paragraph. Max 150 words.
