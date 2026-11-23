@@ -291,19 +291,47 @@ def ki_kare(df: pd.DataFrame, a: str, b: str, etiket: dict) -> Sonuc:
 
 
 # ---------------------------------------------------------------- Word çıktısı
+def _kenar(cell_or_tbl, **sides):
+    """APA tablo çizgileri: yalnızca istenen kenarlara ince çizgi."""
+    from docx.oxml import OxmlElement
+    from docx.oxml.ns import qn
+    el = cell_or_tbl._tc if hasattr(cell_or_tbl, "_tc") else cell_or_tbl._tbl
+    pr = el.get_or_add_tcPr() if hasattr(cell_or_tbl, "_tc") else el.tblPr
+    tag = "w:tcBorders" if hasattr(cell_or_tbl, "_tc") else "w:tblBorders"
+    b = pr.find(qn(tag))
+    if b is None:
+        b = OxmlElement(tag); pr.append(b)
+    for side in ("top", "left", "bottom", "right", "insideH", "insideV"):
+        e = OxmlElement(f"w:{side}")
+        val = sides.get(side)
+        e.set(qn("w:val"), "single" if val else "nil")
+        if val:
+            e.set(qn("w:sz"), str(val)); e.set(qn("w:color"), "000000")
+        b.append(e)
+
+
+def guzel(ad) -> str:
+    return str(ad).replace("_", " ")
+
+
 def _tablo_ekle(doc: Document, no: int, s: Sonuc):
     p = doc.add_paragraph()
     r = p.add_run(f"Tablo {no}"); r.bold = True
-    p2 = doc.add_paragraph(); r2 = p2.add_run(s.baslik); r2.italic = True
-    t = doc.add_table(rows=1, cols=len(s.tablo.columns))
-    t.style = "Table Grid"
-    for i, c in enumerate(s.tablo.columns):
+    p2 = doc.add_paragraph(); r2 = p2.add_run(guzel(s.baslik)); r2.italic = True
+    tab = s.tablo.copy()
+    tab.columns = [guzel(c) for c in tab.columns]
+    t = doc.add_table(rows=1, cols=len(tab.columns))
+    _kenar(t, top=8, bottom=8)                       # APA: tablonun üstünde ve altında çizgi
+    for i, c in enumerate(tab.columns):
         t.rows[0].cells[i].text = str(c)
-        t.rows[0].cells[i].paragraphs[0].runs[0].bold = True
-    for _, row in s.tablo.iterrows():
+        _kenar(t.rows[0].cells[i], top=8, bottom=4)  # başlık satırının altında çizgi
+    for _, row in tab.iterrows():
         cells = t.add_row().cells
         for i, v in enumerate(row):
-            cells[i].text = "" if pd.isna(v) else str(v)
+            v = "" if pd.isna(v) else str(v).replace("Kolmogorov-Smirnov", "K-S")
+            cells[i].text = guzel(v) if i == 0 else v
+    for c in t.rows[-1].cells:
+        _kenar(c, bottom=8)
     for row in t.rows:
         for c in row.cells:
             for pp in c.paragraphs:
@@ -312,7 +340,7 @@ def _tablo_ekle(doc: Document, no: int, s: Sonuc):
                     rr.font.size = Pt(10)
     if s.not_:
         n = doc.add_paragraph(); n.add_run("Not. ").italic = True; n.add_run(s.not_)
-    yp = doc.add_paragraph(s.yorum)
+    yp = doc.add_paragraph(guzel(s.yorum))
     yp.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
 
 
@@ -323,12 +351,22 @@ def word_yaz(sonuclar: list[Sonuc], cikti: str | Path, baslik_no: str = "4"):
     st.paragraph_format.line_spacing = 1.5
     for s in doc.sections:
         s.left_margin = Cm(3); s.right_margin = s.top_margin = s.bottom_margin = Cm(2.5)
+    for hs in ("Heading 1", "Heading 2"):
+        h = doc.styles[hs]; h.font.name = "Times New Roman"; h.font.size = Pt(12); h.font.bold = True
+        h.font.color.rgb = None
+        from docx.shared import RGBColor; h.font.color.rgb = RGBColor(0, 0, 0)
+        h.element.rPr.rFonts.set(__import__("docx.oxml.ns", fromlist=["qn"]).qn("w:asciiTheme"), "") if False else None
+        rf = h.element.get_or_add_rPr().get_or_add_rFonts()
+        for a in ("w:asciiTheme", "w:hAnsiTheme", "w:eastAsiaTheme", "w:cstheme"):
+            rf.attrib.pop(__import__("docx.oxml.ns", fromlist=["qn"]).qn(a), None)
+        rf.set(__import__("docx.oxml.ns", fromlist=["qn"]).qn("w:ascii"), "Times New Roman")
+        rf.set(__import__("docx.oxml.ns", fromlist=["qn"]).qn("w:hAnsi"), "Times New Roman")
     doc.add_heading(f"{baslik_no}. BULGULAR", level=1)
     uyari = doc.add_paragraph()
     uyari.add_run("[TezKit taslağıdır. Yorumları kontrol edip araştırma sorularınızla ve alanyazınla ilişkilendiriniz; "
                   "bu kutuyu teslimden önce siliniz.]").italic = True
     for i, s in enumerate(sonuclar, 1):
-        doc.add_heading(f"{baslik_no}.{i}. {s.baslik}", level=2)
+        doc.add_heading(f"{baslik_no}.{i}. {guzel(s.baslik)}", level=2)
         _tablo_ekle(doc, f"{baslik_no}.{i}", s)
     doc.save(str(cikti))
 

@@ -4,7 +4,7 @@
 
 **Client problem:** "Every quarter we rebuild the donor report by hand from six regional spreadsheets. Management can't see which regions are off track."
 
-**Deliverable:** [`index.html`](index.html), a single-file interactive dashboard (open it in a browser; works offline except the chart library):
+**Deliverable:** [`index.html`](index.html), a single-file interactive dashboard (open it in a browser; works fully offline):
 - Region and quarter filters
 - KPI cards with **RAG status** against logframe targets (completion, employment within 6 months, share of young women, satisfaction)
 - Results chain by quarter (enrolled → completed → employed)
