@@ -11,6 +11,7 @@ Eight in-depth projects, one for each service area with the strongest freelance 
 | 05 | **Virtual assistance & project ops** | [Project operations toolkit](05-project-ops-toolkit) | Excel tracker with live Gantt, RACI, risk register, automated weekly status e-mail, onboarding SOP |
 | 06 | **AI video production** | [Short-form video pipeline](06-ai-video-pipeline) | One YAML script → AI prompts, storyboard, branded captions, ffmpeg motion edit, 9:16 MP4, SRT |
 | 07 | **Translation & localization** | [App localization EN → TR with QA](07-app-localization-tr) | ICU plurals, Turkish style guide, glossary, QA script catching placeholder, plural and vowel-harmony bugs |
+| 09 | **GEO / AI search visibility** | [AI visibility benchmark (synthetic demo)](09-geo-visibility-benchmark) | Turkish question panel, 3 engines × 3 runs, share of voice with bootstrap CIs, client report |
 | 08 | **Web app development** | [Randevu: appointment booking app](08-fullstack-booking-app) | FastAPI + SQLite + mobile UI, no-double-booking transactions, admin API, 7 tests, Docker |
 
 Every project runs from its folder (see each README). Data is synthetic or fictional unless stated.

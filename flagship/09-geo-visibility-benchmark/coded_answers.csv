@@ -1,0 +1,919 @@
+intent,q_id,question,engine,run,brand,mentioned,position,recommended,cited
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,ChatGPT,0,Atlas Koleji,True,3.0,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,ChatGPT,0,Pusula Okulları,True,1.0,True,True
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,ChatGPT,0,Kâşif Akademi,True,2.0,True,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,ChatGPT,0,Yıldız Eğitim,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,ChatGPT,0,Bilge Kurs,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,ChatGPT,0,Mavi Kalem,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,ChatGPT,0,Atlas Koleji,True,1.0,True,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,ChatGPT,0,Pusula Okulları,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,ChatGPT,0,Kâşif Akademi,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,ChatGPT,0,Yıldız Eğitim,True,2.0,True,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,ChatGPT,0,Bilge Kurs,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,ChatGPT,0,Mavi Kalem,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",ChatGPT,0,Atlas Koleji,True,1.0,True,True
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",ChatGPT,0,Pusula Okulları,True,2.0,True,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",ChatGPT,0,Kâşif Akademi,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",ChatGPT,0,Yıldız Eğitim,True,3.0,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",ChatGPT,0,Bilge Kurs,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",ChatGPT,0,Mavi Kalem,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,ChatGPT,0,Atlas Koleji,True,1.0,True,True
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,ChatGPT,0,Pusula Okulları,True,4.0,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,ChatGPT,0,Kâşif Akademi,True,3.0,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,ChatGPT,0,Yıldız Eğitim,True,2.0,True,True
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,ChatGPT,0,Bilge Kurs,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,ChatGPT,0,Mavi Kalem,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,ChatGPT,0,Atlas Koleji,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,ChatGPT,0,Pusula Okulları,True,2.0,True,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,ChatGPT,0,Kâşif Akademi,True,3.0,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,ChatGPT,0,Yıldız Eğitim,True,4.0,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,ChatGPT,0,Bilge Kurs,True,1.0,True,True
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,ChatGPT,0,Mavi Kalem,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,ChatGPT,0,Atlas Koleji,True,1.0,True,True
+category,category-5,Bursa'da matematik kursu tavsiyesi,ChatGPT,0,Pusula Okulları,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,ChatGPT,0,Kâşif Akademi,True,2.0,True,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,ChatGPT,0,Yıldız Eğitim,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,ChatGPT,0,Bilge Kurs,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,ChatGPT,0,Mavi Kalem,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,ChatGPT,1,Atlas Koleji,True,3.0,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,ChatGPT,1,Pusula Okulları,True,1.0,True,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,ChatGPT,1,Kâşif Akademi,True,2.0,True,True
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,ChatGPT,1,Yıldız Eğitim,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,ChatGPT,1,Bilge Kurs,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,ChatGPT,1,Mavi Kalem,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,ChatGPT,1,Atlas Koleji,True,1.0,True,True
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,ChatGPT,1,Pusula Okulları,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,ChatGPT,1,Kâşif Akademi,True,3.0,False,True
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,ChatGPT,1,Yıldız Eğitim,True,2.0,True,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,ChatGPT,1,Bilge Kurs,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,ChatGPT,1,Mavi Kalem,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",ChatGPT,1,Atlas Koleji,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",ChatGPT,1,Pusula Okulları,True,2.0,True,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",ChatGPT,1,Kâşif Akademi,True,1.0,True,True
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",ChatGPT,1,Yıldız Eğitim,True,3.0,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",ChatGPT,1,Bilge Kurs,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",ChatGPT,1,Mavi Kalem,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,ChatGPT,1,Atlas Koleji,True,2.0,True,True
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,ChatGPT,1,Pusula Okulları,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,ChatGPT,1,Kâşif Akademi,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,ChatGPT,1,Yıldız Eğitim,True,1.0,True,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,ChatGPT,1,Bilge Kurs,True,3.0,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,ChatGPT,1,Mavi Kalem,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,ChatGPT,1,Atlas Koleji,True,4.0,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,ChatGPT,1,Pusula Okulları,True,2.0,True,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,ChatGPT,1,Kâşif Akademi,True,1.0,True,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,ChatGPT,1,Yıldız Eğitim,True,3.0,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,ChatGPT,1,Bilge Kurs,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,ChatGPT,1,Mavi Kalem,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,ChatGPT,1,Atlas Koleji,True,2.0,True,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,ChatGPT,1,Pusula Okulları,True,1.0,True,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,ChatGPT,1,Kâşif Akademi,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,ChatGPT,1,Yıldız Eğitim,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,ChatGPT,1,Bilge Kurs,True,3.0,False,True
+category,category-5,Bursa'da matematik kursu tavsiyesi,ChatGPT,1,Mavi Kalem,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,ChatGPT,2,Atlas Koleji,True,1.0,True,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,ChatGPT,2,Pusula Okulları,True,2.0,True,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,ChatGPT,2,Kâşif Akademi,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,ChatGPT,2,Yıldız Eğitim,True,3.0,False,True
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,ChatGPT,2,Bilge Kurs,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,ChatGPT,2,Mavi Kalem,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,ChatGPT,2,Atlas Koleji,True,1.0,True,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,ChatGPT,2,Pusula Okulları,True,3.0,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,ChatGPT,2,Kâşif Akademi,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,ChatGPT,2,Yıldız Eğitim,True,4.0,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,ChatGPT,2,Bilge Kurs,True,2.0,True,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,ChatGPT,2,Mavi Kalem,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",ChatGPT,2,Atlas Koleji,True,1.0,True,True
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",ChatGPT,2,Pusula Okulları,True,2.0,True,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",ChatGPT,2,Kâşif Akademi,True,3.0,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",ChatGPT,2,Yıldız Eğitim,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",ChatGPT,2,Bilge Kurs,True,4.0,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",ChatGPT,2,Mavi Kalem,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,ChatGPT,2,Atlas Koleji,True,2.0,True,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,ChatGPT,2,Pusula Okulları,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,ChatGPT,2,Kâşif Akademi,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,ChatGPT,2,Yıldız Eğitim,True,1.0,True,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,ChatGPT,2,Bilge Kurs,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,ChatGPT,2,Mavi Kalem,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,ChatGPT,2,Atlas Koleji,True,1.0,True,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,ChatGPT,2,Pusula Okulları,True,3.0,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,ChatGPT,2,Kâşif Akademi,True,2.0,True,True
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,ChatGPT,2,Yıldız Eğitim,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,ChatGPT,2,Bilge Kurs,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,ChatGPT,2,Mavi Kalem,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,ChatGPT,2,Atlas Koleji,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,ChatGPT,2,Pusula Okulları,True,1.0,True,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,ChatGPT,2,Kâşif Akademi,True,2.0,True,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,ChatGPT,2,Yıldız Eğitim,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,ChatGPT,2,Bilge Kurs,True,3.0,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,ChatGPT,2,Mavi Kalem,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Gemini,0,Atlas Koleji,True,1.0,True,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Gemini,0,Pusula Okulları,True,4.0,False,True
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Gemini,0,Kâşif Akademi,True,2.0,True,True
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Gemini,0,Yıldız Eğitim,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Gemini,0,Bilge Kurs,True,3.0,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Gemini,0,Mavi Kalem,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Gemini,0,Atlas Koleji,True,2.0,True,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Gemini,0,Pusula Okulları,True,1.0,True,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Gemini,0,Kâşif Akademi,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Gemini,0,Yıldız Eğitim,True,3.0,False,True
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Gemini,0,Bilge Kurs,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Gemini,0,Mavi Kalem,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Gemini,0,Atlas Koleji,True,2.0,True,True
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Gemini,0,Pusula Okulları,True,1.0,True,True
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Gemini,0,Kâşif Akademi,True,4.0,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Gemini,0,Yıldız Eğitim,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Gemini,0,Bilge Kurs,True,3.0,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Gemini,0,Mavi Kalem,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Gemini,0,Atlas Koleji,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Gemini,0,Pusula Okulları,True,3.0,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Gemini,0,Kâşif Akademi,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Gemini,0,Yıldız Eğitim,True,2.0,True,True
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Gemini,0,Bilge Kurs,True,1.0,True,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Gemini,0,Mavi Kalem,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Gemini,0,Atlas Koleji,True,2.0,True,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Gemini,0,Pusula Okulları,True,1.0,True,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Gemini,0,Kâşif Akademi,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Gemini,0,Yıldız Eğitim,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Gemini,0,Bilge Kurs,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Gemini,0,Mavi Kalem,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Gemini,0,Atlas Koleji,True,2.0,True,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Gemini,0,Pusula Okulları,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Gemini,0,Kâşif Akademi,True,1.0,True,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Gemini,0,Yıldız Eğitim,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Gemini,0,Bilge Kurs,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Gemini,0,Mavi Kalem,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Gemini,1,Atlas Koleji,True,1.0,True,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Gemini,1,Pusula Okulları,True,2.0,True,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Gemini,1,Kâşif Akademi,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Gemini,1,Yıldız Eğitim,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Gemini,1,Bilge Kurs,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Gemini,1,Mavi Kalem,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Gemini,1,Atlas Koleji,True,1.0,True,True
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Gemini,1,Pusula Okulları,True,2.0,True,True
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Gemini,1,Kâşif Akademi,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Gemini,1,Yıldız Eğitim,True,3.0,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Gemini,1,Bilge Kurs,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Gemini,1,Mavi Kalem,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Gemini,1,Atlas Koleji,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Gemini,1,Pusula Okulları,True,1.0,True,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Gemini,1,Kâşif Akademi,True,3.0,False,True
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Gemini,1,Yıldız Eğitim,True,2.0,True,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Gemini,1,Bilge Kurs,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Gemini,1,Mavi Kalem,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Gemini,1,Atlas Koleji,True,4.0,False,True
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Gemini,1,Pusula Okulları,True,2.0,True,True
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Gemini,1,Kâşif Akademi,True,3.0,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Gemini,1,Yıldız Eğitim,True,1.0,True,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Gemini,1,Bilge Kurs,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Gemini,1,Mavi Kalem,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Gemini,1,Atlas Koleji,True,3.0,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Gemini,1,Pusula Okulları,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Gemini,1,Kâşif Akademi,True,4.0,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Gemini,1,Yıldız Eğitim,True,1.0,True,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Gemini,1,Bilge Kurs,True,2.0,True,True
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Gemini,1,Mavi Kalem,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Gemini,1,Atlas Koleji,True,2.0,True,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Gemini,1,Pusula Okulları,True,3.0,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Gemini,1,Kâşif Akademi,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Gemini,1,Yıldız Eğitim,True,1.0,True,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Gemini,1,Bilge Kurs,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Gemini,1,Mavi Kalem,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Gemini,2,Atlas Koleji,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Gemini,2,Pusula Okulları,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Gemini,2,Kâşif Akademi,True,1.0,True,True
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Gemini,2,Yıldız Eğitim,True,2.0,True,True
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Gemini,2,Bilge Kurs,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Gemini,2,Mavi Kalem,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Gemini,2,Atlas Koleji,True,2.0,True,True
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Gemini,2,Pusula Okulları,True,1.0,True,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Gemini,2,Kâşif Akademi,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Gemini,2,Yıldız Eğitim,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Gemini,2,Bilge Kurs,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Gemini,2,Mavi Kalem,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Gemini,2,Atlas Koleji,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Gemini,2,Pusula Okulları,True,1.0,True,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Gemini,2,Kâşif Akademi,True,4.0,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Gemini,2,Yıldız Eğitim,True,3.0,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Gemini,2,Bilge Kurs,True,2.0,True,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Gemini,2,Mavi Kalem,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Gemini,2,Atlas Koleji,True,2.0,True,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Gemini,2,Pusula Okulları,True,1.0,True,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Gemini,2,Kâşif Akademi,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Gemini,2,Yıldız Eğitim,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Gemini,2,Bilge Kurs,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Gemini,2,Mavi Kalem,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Gemini,2,Atlas Koleji,True,2.0,True,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Gemini,2,Pusula Okulları,True,1.0,True,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Gemini,2,Kâşif Akademi,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Gemini,2,Yıldız Eğitim,True,3.0,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Gemini,2,Bilge Kurs,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Gemini,2,Mavi Kalem,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Gemini,2,Atlas Koleji,True,3.0,False,True
+category,category-5,Bursa'da matematik kursu tavsiyesi,Gemini,2,Pusula Okulları,True,1.0,True,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Gemini,2,Kâşif Akademi,True,2.0,True,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Gemini,2,Yıldız Eğitim,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Gemini,2,Bilge Kurs,True,4.0,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Gemini,2,Mavi Kalem,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Perplexity,0,Atlas Koleji,True,1.0,True,True
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Perplexity,0,Pusula Okulları,True,3.0,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Perplexity,0,Kâşif Akademi,True,4.0,False,True
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Perplexity,0,Yıldız Eğitim,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Perplexity,0,Bilge Kurs,True,2.0,True,True
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Perplexity,0,Mavi Kalem,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Perplexity,0,Atlas Koleji,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Perplexity,0,Pusula Okulları,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Perplexity,0,Kâşif Akademi,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Perplexity,0,Yıldız Eğitim,True,1.0,True,True
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Perplexity,0,Bilge Kurs,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Perplexity,0,Mavi Kalem,True,2.0,True,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Perplexity,0,Atlas Koleji,True,1.0,True,True
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Perplexity,0,Pusula Okulları,True,2.0,True,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Perplexity,0,Kâşif Akademi,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Perplexity,0,Yıldız Eğitim,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Perplexity,0,Bilge Kurs,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Perplexity,0,Mavi Kalem,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Perplexity,0,Atlas Koleji,True,1.0,True,True
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Perplexity,0,Pusula Okulları,True,4.0,False,True
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Perplexity,0,Kâşif Akademi,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Perplexity,0,Yıldız Eğitim,True,2.0,True,True
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Perplexity,0,Bilge Kurs,True,3.0,False,True
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Perplexity,0,Mavi Kalem,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Perplexity,0,Atlas Koleji,True,2.0,True,True
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Perplexity,0,Pusula Okulları,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Perplexity,0,Kâşif Akademi,True,1.0,True,True
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Perplexity,0,Yıldız Eğitim,True,3.0,False,True
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Perplexity,0,Bilge Kurs,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Perplexity,0,Mavi Kalem,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Perplexity,0,Atlas Koleji,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Perplexity,0,Pusula Okulları,True,2.0,True,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Perplexity,0,Kâşif Akademi,True,1.0,True,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Perplexity,0,Yıldız Eğitim,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Perplexity,0,Bilge Kurs,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Perplexity,0,Mavi Kalem,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Perplexity,1,Atlas Koleji,True,1.0,True,True
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Perplexity,1,Pusula Okulları,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Perplexity,1,Kâşif Akademi,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Perplexity,1,Yıldız Eğitim,True,2.0,True,True
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Perplexity,1,Bilge Kurs,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Perplexity,1,Mavi Kalem,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Perplexity,1,Atlas Koleji,True,2.0,True,True
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Perplexity,1,Pusula Okulları,True,1.0,True,True
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Perplexity,1,Kâşif Akademi,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Perplexity,1,Yıldız Eğitim,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Perplexity,1,Bilge Kurs,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Perplexity,1,Mavi Kalem,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Perplexity,1,Atlas Koleji,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Perplexity,1,Pusula Okulları,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Perplexity,1,Kâşif Akademi,True,1.0,True,True
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Perplexity,1,Yıldız Eğitim,True,2.0,True,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Perplexity,1,Bilge Kurs,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Perplexity,1,Mavi Kalem,True,3.0,False,True
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Perplexity,1,Atlas Koleji,True,2.0,True,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Perplexity,1,Pusula Okulları,True,3.0,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Perplexity,1,Kâşif Akademi,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Perplexity,1,Yıldız Eğitim,True,1.0,True,True
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Perplexity,1,Bilge Kurs,True,4.0,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Perplexity,1,Mavi Kalem,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Perplexity,1,Atlas Koleji,True,3.0,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Perplexity,1,Pusula Okulları,True,4.0,False,True
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Perplexity,1,Kâşif Akademi,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Perplexity,1,Yıldız Eğitim,True,1.0,True,True
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Perplexity,1,Bilge Kurs,True,2.0,True,True
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Perplexity,1,Mavi Kalem,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Perplexity,1,Atlas Koleji,True,1.0,True,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Perplexity,1,Pusula Okulları,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Perplexity,1,Kâşif Akademi,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Perplexity,1,Yıldız Eğitim,True,2.0,True,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Perplexity,1,Bilge Kurs,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Perplexity,1,Mavi Kalem,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Perplexity,2,Atlas Koleji,True,3.0,False,True
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Perplexity,2,Pusula Okulları,True,2.0,True,True
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Perplexity,2,Kâşif Akademi,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Perplexity,2,Yıldız Eğitim,False,,False,False
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Perplexity,2,Bilge Kurs,True,1.0,True,True
+category,category-0,Ankara'da en iyi özel ilkokullar hangileri?,Perplexity,2,Mavi Kalem,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Perplexity,2,Atlas Koleji,True,2.0,True,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Perplexity,2,Pusula Okulları,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Perplexity,2,Kâşif Akademi,True,1.0,True,True
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Perplexity,2,Yıldız Eğitim,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Perplexity,2,Bilge Kurs,False,,False,False
+category,category-1,İstanbul'da iyi bir LGS kursu önerir misin?,Perplexity,2,Mavi Kalem,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Perplexity,2,Atlas Koleji,True,1.0,True,True
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Perplexity,2,Pusula Okulları,True,4.0,False,True
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Perplexity,2,Kâşif Akademi,True,2.0,True,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Perplexity,2,Yıldız Eğitim,True,3.0,False,True
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Perplexity,2,Bilge Kurs,False,,False,False
+category,category-2,"Çocuğum için okuma-yazma kursu arıyorum, nereleri önerirsin?",Perplexity,2,Mavi Kalem,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Perplexity,2,Atlas Koleji,True,1.0,True,True
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Perplexity,2,Pusula Okulları,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Perplexity,2,Kâşif Akademi,True,2.0,True,True
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Perplexity,2,Yıldız Eğitim,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Perplexity,2,Bilge Kurs,False,,False,False
+category,category-3,Online özel ders veren güvenilir kurumlar hangileri?,Perplexity,2,Mavi Kalem,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Perplexity,2,Atlas Koleji,True,1.0,True,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Perplexity,2,Pusula Okulları,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Perplexity,2,Kâşif Akademi,True,2.0,True,True
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Perplexity,2,Yıldız Eğitim,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Perplexity,2,Bilge Kurs,False,,False,False
+category,category-4,İzmir'de yabancı dil ağırlıklı özel okullar,Perplexity,2,Mavi Kalem,True,3.0,False,True
+category,category-5,Bursa'da matematik kursu tavsiyesi,Perplexity,2,Atlas Koleji,True,1.0,True,True
+category,category-5,Bursa'da matematik kursu tavsiyesi,Perplexity,2,Pusula Okulları,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Perplexity,2,Kâşif Akademi,True,2.0,True,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Perplexity,2,Yıldız Eğitim,False,,False,False
+category,category-5,Bursa'da matematik kursu tavsiyesi,Perplexity,2,Bilge Kurs,True,4.0,False,True
+category,category-5,Bursa'da matematik kursu tavsiyesi,Perplexity,2,Mavi Kalem,True,3.0,False,True
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,ChatGPT,0,Atlas Koleji,True,2.0,True,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,ChatGPT,0,Pusula Okulları,True,1.0,True,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,ChatGPT,0,Kâşif Akademi,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,ChatGPT,0,Yıldız Eğitim,True,3.0,False,True
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,ChatGPT,0,Bilge Kurs,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,ChatGPT,0,Mavi Kalem,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,ChatGPT,0,Atlas Koleji,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,ChatGPT,0,Pusula Okulları,True,3.0,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,ChatGPT,0,Kâşif Akademi,True,2.0,True,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,ChatGPT,0,Yıldız Eğitim,True,1.0,True,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,ChatGPT,0,Bilge Kurs,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,ChatGPT,0,Mavi Kalem,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,ChatGPT,0,Atlas Koleji,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,ChatGPT,0,Pusula Okulları,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,ChatGPT,0,Kâşif Akademi,True,3.0,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,ChatGPT,0,Yıldız Eğitim,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,ChatGPT,0,Bilge Kurs,True,2.0,True,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,ChatGPT,0,Mavi Kalem,True,1.0,True,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,ChatGPT,0,Atlas Koleji,True,1.0,True,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,ChatGPT,0,Pusula Okulları,True,3.0,False,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,ChatGPT,0,Kâşif Akademi,False,,False,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,ChatGPT,0,Yıldız Eğitim,False,,False,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,ChatGPT,0,Bilge Kurs,True,2.0,True,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,ChatGPT,0,Mavi Kalem,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,ChatGPT,1,Atlas Koleji,True,1.0,True,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,ChatGPT,1,Pusula Okulları,True,2.0,True,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,ChatGPT,1,Kâşif Akademi,True,3.0,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,ChatGPT,1,Yıldız Eğitim,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,ChatGPT,1,Bilge Kurs,True,4.0,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,ChatGPT,1,Mavi Kalem,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,ChatGPT,1,Atlas Koleji,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,ChatGPT,1,Pusula Okulları,True,3.0,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,ChatGPT,1,Kâşif Akademi,True,2.0,True,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,ChatGPT,1,Yıldız Eğitim,True,1.0,True,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,ChatGPT,1,Bilge Kurs,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,ChatGPT,1,Mavi Kalem,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,ChatGPT,1,Atlas Koleji,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,ChatGPT,1,Pusula Okulları,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,ChatGPT,1,Kâşif Akademi,True,3.0,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,ChatGPT,1,Yıldız Eğitim,True,4.0,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,ChatGPT,1,Bilge Kurs,True,1.0,True,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,ChatGPT,1,Mavi Kalem,True,2.0,True,True
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,ChatGPT,1,Atlas Koleji,True,2.0,True,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,ChatGPT,1,Pusula Okulları,True,1.0,True,True
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,ChatGPT,1,Kâşif Akademi,True,4.0,False,True
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,ChatGPT,1,Yıldız Eğitim,False,,False,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,ChatGPT,1,Bilge Kurs,True,3.0,False,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,ChatGPT,1,Mavi Kalem,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,ChatGPT,2,Atlas Koleji,True,1.0,True,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,ChatGPT,2,Pusula Okulları,True,2.0,True,True
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,ChatGPT,2,Kâşif Akademi,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,ChatGPT,2,Yıldız Eğitim,True,3.0,False,True
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,ChatGPT,2,Bilge Kurs,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,ChatGPT,2,Mavi Kalem,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,ChatGPT,2,Atlas Koleji,True,3.0,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,ChatGPT,2,Pusula Okulları,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,ChatGPT,2,Kâşif Akademi,True,2.0,True,True
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,ChatGPT,2,Yıldız Eğitim,True,1.0,True,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,ChatGPT,2,Bilge Kurs,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,ChatGPT,2,Mavi Kalem,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,ChatGPT,2,Atlas Koleji,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,ChatGPT,2,Pusula Okulları,True,3.0,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,ChatGPT,2,Kâşif Akademi,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,ChatGPT,2,Yıldız Eğitim,True,4.0,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,ChatGPT,2,Bilge Kurs,True,1.0,True,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,ChatGPT,2,Mavi Kalem,True,2.0,True,True
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,ChatGPT,2,Atlas Koleji,True,2.0,True,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,ChatGPT,2,Pusula Okulları,False,,False,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,ChatGPT,2,Kâşif Akademi,False,,False,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,ChatGPT,2,Yıldız Eğitim,True,1.0,True,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,ChatGPT,2,Bilge Kurs,False,,False,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,ChatGPT,2,Mavi Kalem,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Gemini,0,Atlas Koleji,True,1.0,True,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Gemini,0,Pusula Okulları,True,2.0,True,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Gemini,0,Kâşif Akademi,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Gemini,0,Yıldız Eğitim,True,3.0,False,True
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Gemini,0,Bilge Kurs,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Gemini,0,Mavi Kalem,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Gemini,0,Atlas Koleji,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Gemini,0,Pusula Okulları,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Gemini,0,Kâşif Akademi,True,1.0,True,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Gemini,0,Yıldız Eğitim,True,2.0,True,True
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Gemini,0,Bilge Kurs,True,3.0,False,True
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Gemini,0,Mavi Kalem,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Gemini,0,Atlas Koleji,True,4.0,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Gemini,0,Pusula Okulları,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Gemini,0,Kâşif Akademi,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Gemini,0,Yıldız Eğitim,True,2.0,True,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Gemini,0,Bilge Kurs,True,1.0,True,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Gemini,0,Mavi Kalem,True,3.0,False,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Gemini,0,Atlas Koleji,True,3.0,False,True
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Gemini,0,Pusula Okulları,True,2.0,True,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Gemini,0,Kâşif Akademi,True,1.0,True,True
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Gemini,0,Yıldız Eğitim,False,,False,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Gemini,0,Bilge Kurs,False,,False,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Gemini,0,Mavi Kalem,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Gemini,1,Atlas Koleji,True,2.0,True,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Gemini,1,Pusula Okulları,True,1.0,True,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Gemini,1,Kâşif Akademi,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Gemini,1,Yıldız Eğitim,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Gemini,1,Bilge Kurs,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Gemini,1,Mavi Kalem,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Gemini,1,Atlas Koleji,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Gemini,1,Pusula Okulları,True,2.0,True,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Gemini,1,Kâşif Akademi,True,1.0,True,True
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Gemini,1,Yıldız Eğitim,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Gemini,1,Bilge Kurs,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Gemini,1,Mavi Kalem,True,3.0,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Gemini,1,Atlas Koleji,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Gemini,1,Pusula Okulları,True,3.0,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Gemini,1,Kâşif Akademi,True,4.0,False,True
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Gemini,1,Yıldız Eğitim,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Gemini,1,Bilge Kurs,True,2.0,True,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Gemini,1,Mavi Kalem,True,1.0,True,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Gemini,1,Atlas Koleji,True,1.0,True,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Gemini,1,Pusula Okulları,True,3.0,False,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Gemini,1,Kâşif Akademi,False,,False,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Gemini,1,Yıldız Eğitim,False,,False,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Gemini,1,Bilge Kurs,True,2.0,True,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Gemini,1,Mavi Kalem,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Gemini,2,Atlas Koleji,True,2.0,True,True
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Gemini,2,Pusula Okulları,True,1.0,True,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Gemini,2,Kâşif Akademi,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Gemini,2,Yıldız Eğitim,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Gemini,2,Bilge Kurs,True,3.0,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Gemini,2,Mavi Kalem,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Gemini,2,Atlas Koleji,True,3.0,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Gemini,2,Pusula Okulları,True,4.0,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Gemini,2,Kâşif Akademi,True,2.0,True,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Gemini,2,Yıldız Eğitim,True,1.0,True,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Gemini,2,Bilge Kurs,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Gemini,2,Mavi Kalem,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Gemini,2,Atlas Koleji,True,4.0,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Gemini,2,Pusula Okulları,True,3.0,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Gemini,2,Kâşif Akademi,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Gemini,2,Yıldız Eğitim,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Gemini,2,Bilge Kurs,True,1.0,True,True
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Gemini,2,Mavi Kalem,True,2.0,True,True
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Gemini,2,Atlas Koleji,True,1.0,True,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Gemini,2,Pusula Okulları,True,2.0,True,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Gemini,2,Kâşif Akademi,True,4.0,False,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Gemini,2,Yıldız Eğitim,True,3.0,False,True
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Gemini,2,Bilge Kurs,False,,False,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Gemini,2,Mavi Kalem,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Perplexity,0,Atlas Koleji,True,1.0,True,True
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Perplexity,0,Pusula Okulları,True,2.0,True,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Perplexity,0,Kâşif Akademi,True,4.0,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Perplexity,0,Yıldız Eğitim,True,3.0,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Perplexity,0,Bilge Kurs,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Perplexity,0,Mavi Kalem,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Perplexity,0,Atlas Koleji,True,2.0,True,True
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Perplexity,0,Pusula Okulları,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Perplexity,0,Kâşif Akademi,True,1.0,True,True
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Perplexity,0,Yıldız Eğitim,True,3.0,False,True
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Perplexity,0,Bilge Kurs,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Perplexity,0,Mavi Kalem,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Perplexity,0,Atlas Koleji,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Perplexity,0,Pusula Okulları,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Perplexity,0,Kâşif Akademi,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Perplexity,0,Yıldız Eğitim,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Perplexity,0,Bilge Kurs,True,1.0,True,True
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Perplexity,0,Mavi Kalem,True,2.0,True,True
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Perplexity,0,Atlas Koleji,True,1.0,True,True
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Perplexity,0,Pusula Okulları,True,4.0,False,True
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Perplexity,0,Kâşif Akademi,False,,False,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Perplexity,0,Yıldız Eğitim,True,2.0,True,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Perplexity,0,Bilge Kurs,True,3.0,False,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Perplexity,0,Mavi Kalem,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Perplexity,1,Atlas Koleji,True,2.0,True,True
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Perplexity,1,Pusula Okulları,True,1.0,True,True
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Perplexity,1,Kâşif Akademi,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Perplexity,1,Yıldız Eğitim,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Perplexity,1,Bilge Kurs,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Perplexity,1,Mavi Kalem,True,3.0,False,True
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Perplexity,1,Atlas Koleji,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Perplexity,1,Pusula Okulları,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Perplexity,1,Kâşif Akademi,True,2.0,True,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Perplexity,1,Yıldız Eğitim,True,1.0,True,True
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Perplexity,1,Bilge Kurs,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Perplexity,1,Mavi Kalem,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Perplexity,1,Atlas Koleji,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Perplexity,1,Pusula Okulları,True,3.0,False,True
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Perplexity,1,Kâşif Akademi,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Perplexity,1,Yıldız Eğitim,True,4.0,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Perplexity,1,Bilge Kurs,True,1.0,True,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Perplexity,1,Mavi Kalem,True,2.0,True,True
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Perplexity,1,Atlas Koleji,False,,False,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Perplexity,1,Pusula Okulları,False,,False,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Perplexity,1,Kâşif Akademi,True,1.0,True,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Perplexity,1,Yıldız Eğitim,True,3.0,False,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Perplexity,1,Bilge Kurs,True,2.0,True,True
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Perplexity,1,Mavi Kalem,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Perplexity,2,Atlas Koleji,True,1.0,True,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Perplexity,2,Pusula Okulları,True,2.0,True,True
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Perplexity,2,Kâşif Akademi,False,,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Perplexity,2,Yıldız Eğitim,True,4.0,False,True
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Perplexity,2,Bilge Kurs,True,3.0,False,False
+comparison,comparison-0,Atlas Koleji mi Pusula Okulları mı daha iyi?,Perplexity,2,Mavi Kalem,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Perplexity,2,Atlas Koleji,True,4.0,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Perplexity,2,Pusula Okulları,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Perplexity,2,Kâşif Akademi,True,1.0,True,True
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Perplexity,2,Yıldız Eğitim,True,2.0,True,True
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Perplexity,2,Bilge Kurs,False,,False,False
+comparison,comparison-1,Kâşif Akademi ile Yıldız Eğitim karşılaştırması,Perplexity,2,Mavi Kalem,True,3.0,False,True
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Perplexity,2,Atlas Koleji,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Perplexity,2,Pusula Okulları,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Perplexity,2,Kâşif Akademi,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Perplexity,2,Yıldız Eğitim,False,,False,False
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Perplexity,2,Bilge Kurs,True,2.0,True,True
+comparison,comparison-2,Bilge Kurs ve Mavi Kalem arasındaki farklar neler?,Perplexity,2,Mavi Kalem,True,1.0,True,True
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Perplexity,2,Atlas Koleji,True,1.0,True,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Perplexity,2,Pusula Okulları,False,,False,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Perplexity,2,Kâşif Akademi,False,,False,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Perplexity,2,Yıldız Eğitim,True,3.0,False,True
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Perplexity,2,Bilge Kurs,True,2.0,True,False
+comparison,comparison-3,Özel okul seçerken hangi kurumlar öne çıkıyor?,Perplexity,2,Mavi Kalem,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",ChatGPT,0,Atlas Koleji,True,1.0,True,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",ChatGPT,0,Pusula Okulları,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",ChatGPT,0,Kâşif Akademi,True,3.0,False,True
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",ChatGPT,0,Yıldız Eğitim,True,2.0,True,True
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",ChatGPT,0,Bilge Kurs,True,4.0,False,True
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",ChatGPT,0,Mavi Kalem,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",ChatGPT,0,Atlas Koleji,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",ChatGPT,0,Pusula Okulları,True,2.0,True,True
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",ChatGPT,0,Kâşif Akademi,True,3.0,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",ChatGPT,0,Yıldız Eğitim,True,1.0,True,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",ChatGPT,0,Bilge Kurs,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",ChatGPT,0,Mavi Kalem,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,ChatGPT,0,Atlas Koleji,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,ChatGPT,0,Pusula Okulları,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,ChatGPT,0,Kâşif Akademi,True,2.0,True,True
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,ChatGPT,0,Yıldız Eğitim,True,1.0,True,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,ChatGPT,0,Bilge Kurs,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,ChatGPT,0,Mavi Kalem,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",ChatGPT,0,Atlas Koleji,True,2.0,True,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",ChatGPT,0,Pusula Okulları,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",ChatGPT,0,Kâşif Akademi,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",ChatGPT,0,Yıldız Eğitim,True,1.0,True,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",ChatGPT,0,Bilge Kurs,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",ChatGPT,0,Mavi Kalem,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",ChatGPT,1,Atlas Koleji,True,1.0,True,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",ChatGPT,1,Pusula Okulları,True,2.0,True,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",ChatGPT,1,Kâşif Akademi,True,3.0,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",ChatGPT,1,Yıldız Eğitim,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",ChatGPT,1,Bilge Kurs,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",ChatGPT,1,Mavi Kalem,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",ChatGPT,1,Atlas Koleji,True,2.0,True,True
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",ChatGPT,1,Pusula Okulları,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",ChatGPT,1,Kâşif Akademi,True,3.0,False,True
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",ChatGPT,1,Yıldız Eğitim,True,1.0,True,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",ChatGPT,1,Bilge Kurs,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",ChatGPT,1,Mavi Kalem,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,ChatGPT,1,Atlas Koleji,True,1.0,True,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,ChatGPT,1,Pusula Okulları,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,ChatGPT,1,Kâşif Akademi,True,3.0,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,ChatGPT,1,Yıldız Eğitim,True,2.0,True,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,ChatGPT,1,Bilge Kurs,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,ChatGPT,1,Mavi Kalem,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",ChatGPT,1,Atlas Koleji,True,1.0,True,True
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",ChatGPT,1,Pusula Okulları,True,2.0,True,True
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",ChatGPT,1,Kâşif Akademi,True,4.0,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",ChatGPT,1,Yıldız Eğitim,True,3.0,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",ChatGPT,1,Bilge Kurs,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",ChatGPT,1,Mavi Kalem,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",ChatGPT,2,Atlas Koleji,True,2.0,True,True
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",ChatGPT,2,Pusula Okulları,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",ChatGPT,2,Kâşif Akademi,True,1.0,True,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",ChatGPT,2,Yıldız Eğitim,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",ChatGPT,2,Bilge Kurs,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",ChatGPT,2,Mavi Kalem,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",ChatGPT,2,Atlas Koleji,True,1.0,True,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",ChatGPT,2,Pusula Okulları,True,2.0,True,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",ChatGPT,2,Kâşif Akademi,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",ChatGPT,2,Yıldız Eğitim,True,3.0,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",ChatGPT,2,Bilge Kurs,True,4.0,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",ChatGPT,2,Mavi Kalem,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,ChatGPT,2,Atlas Koleji,True,3.0,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,ChatGPT,2,Pusula Okulları,True,1.0,True,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,ChatGPT,2,Kâşif Akademi,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,ChatGPT,2,Yıldız Eğitim,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,ChatGPT,2,Bilge Kurs,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,ChatGPT,2,Mavi Kalem,True,2.0,True,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",ChatGPT,2,Atlas Koleji,True,2.0,True,True
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",ChatGPT,2,Pusula Okulları,True,1.0,True,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",ChatGPT,2,Kâşif Akademi,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",ChatGPT,2,Yıldız Eğitim,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",ChatGPT,2,Bilge Kurs,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",ChatGPT,2,Mavi Kalem,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Gemini,0,Atlas Koleji,True,1.0,True,True
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Gemini,0,Pusula Okulları,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Gemini,0,Kâşif Akademi,True,2.0,True,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Gemini,0,Yıldız Eğitim,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Gemini,0,Bilge Kurs,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Gemini,0,Mavi Kalem,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Gemini,0,Atlas Koleji,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Gemini,0,Pusula Okulları,True,2.0,True,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Gemini,0,Kâşif Akademi,True,1.0,True,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Gemini,0,Yıldız Eğitim,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Gemini,0,Bilge Kurs,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Gemini,0,Mavi Kalem,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Gemini,0,Atlas Koleji,True,1.0,True,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Gemini,0,Pusula Okulları,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Gemini,0,Kâşif Akademi,True,2.0,True,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Gemini,0,Yıldız Eğitim,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Gemini,0,Bilge Kurs,True,3.0,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Gemini,0,Mavi Kalem,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Gemini,0,Atlas Koleji,True,2.0,True,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Gemini,0,Pusula Okulları,True,3.0,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Gemini,0,Kâşif Akademi,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Gemini,0,Yıldız Eğitim,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Gemini,0,Bilge Kurs,True,1.0,True,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Gemini,0,Mavi Kalem,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Gemini,1,Atlas Koleji,True,1.0,True,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Gemini,1,Pusula Okulları,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Gemini,1,Kâşif Akademi,True,2.0,True,True
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Gemini,1,Yıldız Eğitim,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Gemini,1,Bilge Kurs,True,3.0,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Gemini,1,Mavi Kalem,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Gemini,1,Atlas Koleji,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Gemini,1,Pusula Okulları,True,1.0,True,True
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Gemini,1,Kâşif Akademi,True,4.0,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Gemini,1,Yıldız Eğitim,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Gemini,1,Bilge Kurs,True,3.0,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Gemini,1,Mavi Kalem,True,2.0,True,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Gemini,1,Atlas Koleji,True,3.0,False,True
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Gemini,1,Pusula Okulları,True,1.0,True,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Gemini,1,Kâşif Akademi,True,2.0,True,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Gemini,1,Yıldız Eğitim,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Gemini,1,Bilge Kurs,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Gemini,1,Mavi Kalem,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Gemini,1,Atlas Koleji,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Gemini,1,Pusula Okulları,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Gemini,1,Kâşif Akademi,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Gemini,1,Yıldız Eğitim,True,2.0,True,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Gemini,1,Bilge Kurs,True,1.0,True,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Gemini,1,Mavi Kalem,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Gemini,2,Atlas Koleji,True,4.0,False,True
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Gemini,2,Pusula Okulları,True,1.0,True,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Gemini,2,Kâşif Akademi,True,2.0,True,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Gemini,2,Yıldız Eğitim,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Gemini,2,Bilge Kurs,True,3.0,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Gemini,2,Mavi Kalem,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Gemini,2,Atlas Koleji,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Gemini,2,Pusula Okulları,True,1.0,True,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Gemini,2,Kâşif Akademi,True,2.0,True,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Gemini,2,Yıldız Eğitim,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Gemini,2,Bilge Kurs,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Gemini,2,Mavi Kalem,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Gemini,2,Atlas Koleji,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Gemini,2,Pusula Okulları,True,1.0,True,True
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Gemini,2,Kâşif Akademi,True,3.0,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Gemini,2,Yıldız Eğitim,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Gemini,2,Bilge Kurs,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Gemini,2,Mavi Kalem,True,2.0,True,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Gemini,2,Atlas Koleji,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Gemini,2,Pusula Okulları,True,2.0,True,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Gemini,2,Kâşif Akademi,True,1.0,True,True
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Gemini,2,Yıldız Eğitim,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Gemini,2,Bilge Kurs,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Gemini,2,Mavi Kalem,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Perplexity,0,Atlas Koleji,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Perplexity,0,Pusula Okulları,True,3.0,False,True
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Perplexity,0,Kâşif Akademi,True,4.0,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Perplexity,0,Yıldız Eğitim,True,2.0,True,True
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Perplexity,0,Bilge Kurs,True,1.0,True,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Perplexity,0,Mavi Kalem,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Perplexity,0,Atlas Koleji,True,1.0,True,True
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Perplexity,0,Pusula Okulları,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Perplexity,0,Kâşif Akademi,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Perplexity,0,Yıldız Eğitim,True,3.0,False,True
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Perplexity,0,Bilge Kurs,True,2.0,True,True
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Perplexity,0,Mavi Kalem,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Perplexity,0,Atlas Koleji,True,1.0,True,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Perplexity,0,Pusula Okulları,True,2.0,True,True
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Perplexity,0,Kâşif Akademi,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Perplexity,0,Yıldız Eğitim,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Perplexity,0,Bilge Kurs,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Perplexity,0,Mavi Kalem,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Perplexity,0,Atlas Koleji,True,3.0,False,True
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Perplexity,0,Pusula Okulları,True,4.0,False,True
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Perplexity,0,Kâşif Akademi,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Perplexity,0,Yıldız Eğitim,True,1.0,True,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Perplexity,0,Bilge Kurs,True,2.0,True,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Perplexity,0,Mavi Kalem,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Perplexity,1,Atlas Koleji,True,2.0,True,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Perplexity,1,Pusula Okulları,True,3.0,False,True
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Perplexity,1,Kâşif Akademi,True,1.0,True,True
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Perplexity,1,Yıldız Eğitim,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Perplexity,1,Bilge Kurs,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Perplexity,1,Mavi Kalem,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Perplexity,1,Atlas Koleji,True,4.0,False,True
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Perplexity,1,Pusula Okulları,True,2.0,True,True
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Perplexity,1,Kâşif Akademi,True,1.0,True,True
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Perplexity,1,Yıldız Eğitim,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Perplexity,1,Bilge Kurs,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Perplexity,1,Mavi Kalem,True,3.0,False,True
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Perplexity,1,Atlas Koleji,True,1.0,True,True
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Perplexity,1,Pusula Okulları,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Perplexity,1,Kâşif Akademi,True,4.0,False,True
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Perplexity,1,Yıldız Eğitim,True,2.0,True,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Perplexity,1,Bilge Kurs,True,3.0,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Perplexity,1,Mavi Kalem,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Perplexity,1,Atlas Koleji,True,3.0,False,True
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Perplexity,1,Pusula Okulları,True,1.0,True,True
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Perplexity,1,Kâşif Akademi,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Perplexity,1,Yıldız Eğitim,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Perplexity,1,Bilge Kurs,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Perplexity,1,Mavi Kalem,True,2.0,True,True
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Perplexity,2,Atlas Koleji,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Perplexity,2,Pusula Okulları,True,1.0,True,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Perplexity,2,Kâşif Akademi,True,2.0,True,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Perplexity,2,Yıldız Eğitim,True,3.0,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Perplexity,2,Bilge Kurs,False,,False,False
+problem,problem-0,"Çocuğum okumada zorlanıyor, ne yapmalıyım ve kimden destek alabilirim?",Perplexity,2,Mavi Kalem,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Perplexity,2,Atlas Koleji,True,3.0,False,True
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Perplexity,2,Pusula Okulları,True,2.0,True,True
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Perplexity,2,Kâşif Akademi,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Perplexity,2,Yıldız Eğitim,False,,False,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Perplexity,2,Bilge Kurs,True,1.0,True,False
+problem,problem-1,"LGS'ye 6 ay kaldı, hangi kursa gitmeli?",Perplexity,2,Mavi Kalem,True,4.0,False,True
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Perplexity,2,Atlas Koleji,True,1.0,True,True
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Perplexity,2,Pusula Okulları,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Perplexity,2,Kâşif Akademi,True,2.0,True,True
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Perplexity,2,Yıldız Eğitim,True,3.0,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Perplexity,2,Bilge Kurs,False,,False,False
+problem,problem-2,Çalışan ebeveynler için okul sonrası etüt seçenekleri,Perplexity,2,Mavi Kalem,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Perplexity,2,Atlas Koleji,False,,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Perplexity,2,Pusula Okulları,True,3.0,False,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Perplexity,2,Kâşif Akademi,True,4.0,False,True
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Perplexity,2,Yıldız Eğitim,True,1.0,True,False
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Perplexity,2,Bilge Kurs,True,2.0,True,True
+problem,problem-3,"Çocuğumun matematik notları düştü, özel ders mi kurs mu?",Perplexity,2,Mavi Kalem,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,ChatGPT,0,Atlas Koleji,True,3.0,False,True
+branded,branded-0,Mavi Kalem güvenilir mi?,ChatGPT,0,Pusula Okulları,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,ChatGPT,0,Kâşif Akademi,True,2.0,True,False
+branded,branded-0,Mavi Kalem güvenilir mi?,ChatGPT,0,Yıldız Eğitim,True,4.0,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,ChatGPT,0,Bilge Kurs,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,ChatGPT,0,Mavi Kalem,True,1.0,True,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,ChatGPT,0,Atlas Koleji,True,1.0,True,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,ChatGPT,0,Pusula Okulları,True,3.0,False,True
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,ChatGPT,0,Kâşif Akademi,True,2.0,True,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,ChatGPT,0,Yıldız Eğitim,False,,False,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,ChatGPT,0,Bilge Kurs,False,,False,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,ChatGPT,0,Mavi Kalem,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,ChatGPT,0,Atlas Koleji,True,3.0,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,ChatGPT,0,Pusula Okulları,True,1.0,True,False
+branded,branded-2,Pusula Okulları hakkında bilgi,ChatGPT,0,Kâşif Akademi,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,ChatGPT,0,Yıldız Eğitim,True,2.0,True,False
+branded,branded-2,Pusula Okulları hakkında bilgi,ChatGPT,0,Bilge Kurs,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,ChatGPT,0,Mavi Kalem,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,ChatGPT,1,Atlas Koleji,True,2.0,True,False
+branded,branded-0,Mavi Kalem güvenilir mi?,ChatGPT,1,Pusula Okulları,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,ChatGPT,1,Kâşif Akademi,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,ChatGPT,1,Yıldız Eğitim,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,ChatGPT,1,Bilge Kurs,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,ChatGPT,1,Mavi Kalem,True,1.0,True,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,ChatGPT,1,Atlas Koleji,True,1.0,True,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,ChatGPT,1,Pusula Okulları,False,,False,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,ChatGPT,1,Kâşif Akademi,False,,False,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,ChatGPT,1,Yıldız Eğitim,True,2.0,True,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,ChatGPT,1,Bilge Kurs,False,,False,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,ChatGPT,1,Mavi Kalem,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,ChatGPT,1,Atlas Koleji,True,3.0,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,ChatGPT,1,Pusula Okulları,True,1.0,True,False
+branded,branded-2,Pusula Okulları hakkında bilgi,ChatGPT,1,Kâşif Akademi,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,ChatGPT,1,Yıldız Eğitim,True,4.0,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,ChatGPT,1,Bilge Kurs,True,2.0,True,False
+branded,branded-2,Pusula Okulları hakkında bilgi,ChatGPT,1,Mavi Kalem,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,ChatGPT,2,Atlas Koleji,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,ChatGPT,2,Pusula Okulları,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,ChatGPT,2,Kâşif Akademi,True,2.0,True,False
+branded,branded-0,Mavi Kalem güvenilir mi?,ChatGPT,2,Yıldız Eğitim,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,ChatGPT,2,Bilge Kurs,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,ChatGPT,2,Mavi Kalem,True,1.0,True,True
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,ChatGPT,2,Atlas Koleji,True,1.0,True,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,ChatGPT,2,Pusula Okulları,True,2.0,True,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,ChatGPT,2,Kâşif Akademi,True,3.0,False,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,ChatGPT,2,Yıldız Eğitim,False,,False,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,ChatGPT,2,Bilge Kurs,False,,False,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,ChatGPT,2,Mavi Kalem,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,ChatGPT,2,Atlas Koleji,True,3.0,False,True
+branded,branded-2,Pusula Okulları hakkında bilgi,ChatGPT,2,Pusula Okulları,True,1.0,True,False
+branded,branded-2,Pusula Okulları hakkında bilgi,ChatGPT,2,Kâşif Akademi,True,2.0,True,False
+branded,branded-2,Pusula Okulları hakkında bilgi,ChatGPT,2,Yıldız Eğitim,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,ChatGPT,2,Bilge Kurs,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,ChatGPT,2,Mavi Kalem,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Gemini,0,Atlas Koleji,True,2.0,True,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Gemini,0,Pusula Okulları,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Gemini,0,Kâşif Akademi,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Gemini,0,Yıldız Eğitim,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Gemini,0,Bilge Kurs,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Gemini,0,Mavi Kalem,True,1.0,True,True
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Gemini,0,Atlas Koleji,True,1.0,True,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Gemini,0,Pusula Okulları,False,,False,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Gemini,0,Kâşif Akademi,True,2.0,True,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Gemini,0,Yıldız Eğitim,True,3.0,False,True
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Gemini,0,Bilge Kurs,True,4.0,False,True
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Gemini,0,Mavi Kalem,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Gemini,0,Atlas Koleji,True,2.0,True,True
+branded,branded-2,Pusula Okulları hakkında bilgi,Gemini,0,Pusula Okulları,True,1.0,True,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Gemini,0,Kâşif Akademi,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Gemini,0,Yıldız Eğitim,True,3.0,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Gemini,0,Bilge Kurs,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Gemini,0,Mavi Kalem,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Gemini,1,Atlas Koleji,True,2.0,True,True
+branded,branded-0,Mavi Kalem güvenilir mi?,Gemini,1,Pusula Okulları,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Gemini,1,Kâşif Akademi,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Gemini,1,Yıldız Eğitim,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Gemini,1,Bilge Kurs,True,1.0,True,True
+branded,branded-0,Mavi Kalem güvenilir mi?,Gemini,1,Mavi Kalem,False,,False,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Gemini,1,Atlas Koleji,True,1.0,True,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Gemini,1,Pusula Okulları,False,,False,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Gemini,1,Kâşif Akademi,True,2.0,True,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Gemini,1,Yıldız Eğitim,False,,False,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Gemini,1,Bilge Kurs,False,,False,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Gemini,1,Mavi Kalem,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Gemini,1,Atlas Koleji,True,2.0,True,True
+branded,branded-2,Pusula Okulları hakkında bilgi,Gemini,1,Pusula Okulları,True,1.0,True,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Gemini,1,Kâşif Akademi,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Gemini,1,Yıldız Eğitim,True,3.0,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Gemini,1,Bilge Kurs,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Gemini,1,Mavi Kalem,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Gemini,2,Atlas Koleji,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Gemini,2,Pusula Okulları,True,2.0,True,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Gemini,2,Kâşif Akademi,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Gemini,2,Yıldız Eğitim,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Gemini,2,Bilge Kurs,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Gemini,2,Mavi Kalem,True,1.0,True,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Gemini,2,Atlas Koleji,True,1.0,True,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Gemini,2,Pusula Okulları,True,4.0,False,True
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Gemini,2,Kâşif Akademi,True,3.0,False,True
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Gemini,2,Yıldız Eğitim,True,2.0,True,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Gemini,2,Bilge Kurs,False,,False,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Gemini,2,Mavi Kalem,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Gemini,2,Atlas Koleji,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Gemini,2,Pusula Okulları,True,1.0,True,True
+branded,branded-2,Pusula Okulları hakkında bilgi,Gemini,2,Kâşif Akademi,True,2.0,True,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Gemini,2,Yıldız Eğitim,True,3.0,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Gemini,2,Bilge Kurs,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Gemini,2,Mavi Kalem,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Perplexity,0,Atlas Koleji,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Perplexity,0,Pusula Okulları,True,2.0,True,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Perplexity,0,Kâşif Akademi,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Perplexity,0,Yıldız Eğitim,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Perplexity,0,Bilge Kurs,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Perplexity,0,Mavi Kalem,True,1.0,True,True
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Perplexity,0,Atlas Koleji,True,1.0,True,True
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Perplexity,0,Pusula Okulları,True,2.0,True,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Perplexity,0,Kâşif Akademi,True,3.0,False,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Perplexity,0,Yıldız Eğitim,False,,False,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Perplexity,0,Bilge Kurs,False,,False,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Perplexity,0,Mavi Kalem,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Perplexity,0,Atlas Koleji,True,2.0,True,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Perplexity,0,Pusula Okulları,True,1.0,True,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Perplexity,0,Kâşif Akademi,True,3.0,False,True
+branded,branded-2,Pusula Okulları hakkında bilgi,Perplexity,0,Yıldız Eğitim,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Perplexity,0,Bilge Kurs,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Perplexity,0,Mavi Kalem,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Perplexity,1,Atlas Koleji,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Perplexity,1,Pusula Okulları,True,2.0,True,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Perplexity,1,Kâşif Akademi,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Perplexity,1,Yıldız Eğitim,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Perplexity,1,Bilge Kurs,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Perplexity,1,Mavi Kalem,True,1.0,True,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Perplexity,1,Atlas Koleji,True,1.0,True,True
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Perplexity,1,Pusula Okulları,True,2.0,True,True
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Perplexity,1,Kâşif Akademi,True,4.0,False,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Perplexity,1,Yıldız Eğitim,False,,False,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Perplexity,1,Bilge Kurs,False,,False,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Perplexity,1,Mavi Kalem,True,3.0,False,True
+branded,branded-2,Pusula Okulları hakkında bilgi,Perplexity,1,Atlas Koleji,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Perplexity,1,Pusula Okulları,True,1.0,True,True
+branded,branded-2,Pusula Okulları hakkında bilgi,Perplexity,1,Kâşif Akademi,True,2.0,True,True
+branded,branded-2,Pusula Okulları hakkında bilgi,Perplexity,1,Yıldız Eğitim,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Perplexity,1,Bilge Kurs,True,3.0,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Perplexity,1,Mavi Kalem,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Perplexity,2,Atlas Koleji,True,2.0,True,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Perplexity,2,Pusula Okulları,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Perplexity,2,Kâşif Akademi,True,3.0,False,True
+branded,branded-0,Mavi Kalem güvenilir mi?,Perplexity,2,Yıldız Eğitim,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Perplexity,2,Bilge Kurs,False,,False,False
+branded,branded-0,Mavi Kalem güvenilir mi?,Perplexity,2,Mavi Kalem,True,1.0,True,True
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Perplexity,2,Atlas Koleji,True,1.0,True,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Perplexity,2,Pusula Okulları,False,,False,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Perplexity,2,Kâşif Akademi,True,3.0,False,True
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Perplexity,2,Yıldız Eğitim,True,2.0,True,True
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Perplexity,2,Bilge Kurs,False,,False,False
+branded,branded-1,Atlas Koleji ücretleri ve yorumları,Perplexity,2,Mavi Kalem,True,4.0,False,True
+branded,branded-2,Pusula Okulları hakkında bilgi,Perplexity,2,Atlas Koleji,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Perplexity,2,Pusula Okulları,True,1.0,True,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Perplexity,2,Kâşif Akademi,True,2.0,True,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Perplexity,2,Yıldız Eğitim,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Perplexity,2,Bilge Kurs,False,,False,False
+branded,branded-2,Pusula Okulları hakkında bilgi,Perplexity,2,Mavi Kalem,False,,False,False
